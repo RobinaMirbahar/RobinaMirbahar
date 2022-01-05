@@ -4,9 +4,19 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/RobinaMirbahar?style=social)
 <br>
 <img align="center"><img src="welcomebannergif.gif">
-Hey 👋🏻,
 
-I am CEO and Co-Founder of SheCloud and a Cloud Architect from Pakistan.
+# Robina 
+I'm Robina from Pakistan, I'm a Freelancer , Cloud Architect and AWS Techical Trainer. I really enjoy learning Cloud Technologies .I worked on Wordpress too.
+
+## Skills and Experience
+*  Amazon Solution Architect
+* 📱 Wordpress
+* 💻 HTML, CSS, JS
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robinamirbahar)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ## 📬 Get in touch
 
