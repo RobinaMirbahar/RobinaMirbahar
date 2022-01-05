@@ -19,8 +19,14 @@ Skills: Amazon Cloud / Google / Microsoft Azure
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robinamirbahar)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=robinamirbahar)](https://git.io/streak-stats)
 
+Languages  
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-
+Cloud Platforms : 
+![Amazon](https://img.shields.io/badge/amazon-solution%20architect-orange)
 
 ## 📬 Get in touch
 
