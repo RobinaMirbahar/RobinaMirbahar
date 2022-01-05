@@ -4,7 +4,12 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/RobinaMirbahar?style=social)
 <br>
 <img align="center"><img src="welcomebannergif.gif">
+Hey 👋🏻,
 
-<h2>About me</h2>
-Hi. I’m Robina. Currently I'm working as a Freelancer Technical AWS Trainer [LinkedIn](https://github.com/linkedin).
- 
+I am CEO and Co-Founder of SheCloud and a Cloud Architect from Pakistan.
+
+## 📬 Get in touch
+
+- LinkedIn: [https://www.linkedin.com/in/robina-mallah]
+- Twitter: [https://twitter.com/RobinaMirbahar]
+
