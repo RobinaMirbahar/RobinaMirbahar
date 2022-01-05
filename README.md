@@ -5,4 +5,6 @@
 <br>
 <img align="center"><img src="welcomebannergif.gif">
 
+<h2>About me</h2>
+Hi. I’m Robina. Currently I'm working as a Freelancer Technical AWS Trainer [LinkedIn](https://github.com/linkedin).
  
