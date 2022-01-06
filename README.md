@@ -1,4 +1,4 @@
-<div align="center"> <h1 align="center">Hi, I'm Robina <img src="hi.gif" height="30" width="30"></h1></div>
+<div align="center"> <h2 align="center">Hi there , Robina here <img src="hi.gif" height="30" width="30"> </h2></div>
 <p align='center'>
    <a href="https://www.linkedin.com/in/robina-mallah/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/robinamirbahar"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
@@ -12,6 +12,13 @@
 
 ### - About Me
 I'm Robina from Pakistan, I'm a Freelancer , Cloud Architect, AWS Techical Trainer and Microsoft Certified Trainer. I really enjoy learning Cloud Technologies .I worked on Wordpress too.
+
+### - Currently I'm Learning 
+- 🌱 Cloud Native and Kubernetess.
+
+### - Currently Working on
+- 🔭 Working on [SheCloud](https://github.com/SheCloud). 
+
 
 ### - Skills and Experience
 . Amazon Cloud / Google / Microsoft Azure
