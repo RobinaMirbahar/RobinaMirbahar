@@ -13,7 +13,7 @@ Skills: Amazon Cloud / Google / Microsoft Azure
 
 - 🔭 I’m currently working on SheCloud 
 - 🌱 I’m currently learning Kubernetess 
-- 💬 Ask me about Amazon Cloud , Microsoft Azure 
+- 💬 Ask me about Amazon Web Service , Microsoft Azure and Google Cloud
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robinamirbahar)](https://github.com/anuraghazra/github-readme-stats)
