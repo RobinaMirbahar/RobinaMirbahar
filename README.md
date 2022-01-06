@@ -28,6 +28,8 @@ Skills: Amazon Cloud / Google / Microsoft Azure
 # Cloud Platforms : 
 ![Amazon](https://img.shields.io/badge/amazon-solution%20architect-orange)
 ![MicrosoftAzure](https://img.shields.io/badge/Microsoft%20Azure-Azure%20Administrator-blue)
+![GoogleCloud](https://img.shields.io/badge/Google%20Cloud-google-blue)
+
 
 ## 📬 Get in touch
 
