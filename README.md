@@ -21,7 +21,8 @@ I'm Robina from Pakistan, I'm a Freelancer , Cloud Architect, AWS Techical Train
 
 
 ### - Skills and Experience
-. Amazon Cloud / Google / Microsoft Azure
+. Amazon Cloud 
+/ Google / Microsoft Azure
 
 
 ### - 💬 Ask me about Amazon Web Service , Microsoft Azure and Google Cloud
