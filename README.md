@@ -52,11 +52,17 @@ I'm Robina from Pakistan, I'm a Freelancer , Cloud Architect, AWS Techical Train
    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/aws.svg" alt="AWS" style="vertical-align:top; margin:4px">
    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/gcp.svg" alt="GCP" style="vertical-align:top margin:6px 4px">  
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/azure.svg" alt="azure" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:4px">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/office_365.svg" alt="m365" style="vertical-align:top; margin:4px">
+   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/google_cloud_platform.svg" alt="GCP" style="vertical-align:top; margin:4px">
+   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/kubernetes.svg" alt="KB" style="vertical-align:top; margin:4px">
 </p>
 
-
+### - 🔭 Tools I used...
+<p align="center">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:4px">
+   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" alt="Docker" style="vertical-align:top margin:6px 4px">  
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="visual" style="vertical-align:top; margin:4px">
+ </p>
 
 <h2 align="center">💬... Get in touch </h2>
 
