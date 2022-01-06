@@ -64,9 +64,9 @@ I'm Robina from Pakistan, I'm a Freelancer , Cloud Architect, AWS Techical Train
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="visual" style="vertical-align:top; margin:4px">
  </p>
 
-<h2 align="center">💬... Get in touch </h2>
+### - 💬 Get in touch...
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' >](https://github.com/robinamirbahar)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style="vertical-align:top; margin:4px" >](https://github.com/robinamirbahar)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/robina-mallah/)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/she.cloud/)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/robinamirbahar)  
