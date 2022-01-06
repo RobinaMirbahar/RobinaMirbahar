@@ -37,7 +37,10 @@ I'm Robina from Pakistan, I'm a Freelancer , Cloud Architect, AWS Techical Train
    
 ### - Languages ...
 <p align="center">
-
+   
+ <a href="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top margin:6px 4px">
+  </a>     
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
@@ -46,16 +49,10 @@ I'm Robina from Pakistan, I'm a Freelancer , Cloud Architect, AWS Techical Train
 </p>
 
 
-   
-### - Cloud Platforms... 
+### - 🚧 I build with...
 
-<p align="center">
-   
-![Amazon](https://img.shields.io/badge/amazon-solution%20architect-orange)
-![MicrosoftAzure](https://img.shields.io/badge/Microsoft%20Azure-Azure%20Administrator-blue)
-![GoogleCloud](https://img.shields.io/badge/Google%20Cloud-google-blue)
-   
-</p>
+
+
 
 
 <h2 align="center">💬... Get in touch </h2>
