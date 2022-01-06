@@ -9,7 +9,7 @@
 I'm Robina from Pakistan, I'm a Freelancer , Cloud Architect, AWS Techical Trainer and Microsoft Certified Trainer. I really enjoy learning Cloud Technologies .I worked on Wordpress too.
 
 ## Skills and Experience
-Skills: Amazon Cloud / Google / Microsoft Azure
+. Amazon Cloud / Google / Microsoft Azure
 
 - 🔭 I’m currently working on SheCloud 
 - 🌱 I’m currently learning Kubernetess 
