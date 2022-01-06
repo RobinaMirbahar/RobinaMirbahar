@@ -1,9 +1,14 @@
-<h2 align="center">Hi, I'm Robina <img src="hi.gif" height="30" width="30"></h2>
+<div align="center"> <h1 align="center">Hi, I'm Robina <img src="hi.gif" height="30" width="30"></h1></div>
+<p align='center'>
+   <a href="https://www.linkedin.com/in/robina-mallah/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/robinamirbahar"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 
-![GitHub followers](https://img.shields.io/github/followers/robina?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/RobinaMirbahar?style=social)
-<br>
+ </p>
+
+
+<p align='center'>
 <img align="center"><img src="welcomebannergif.gif">
+</p>
 
 ### - About Me
 I'm Robina from Pakistan, I'm a Freelancer , Cloud Architect, AWS Techical Trainer and Microsoft Certified Trainer. I really enjoy learning Cloud Technologies .I worked on Wordpress too.
