@@ -21,8 +21,7 @@ I'm Robina from Pakistan, I'm a Freelancer , Cloud Architect, AWS Techical Train
 
 
 ### - Skills and Experience
-. Amazon Cloud <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/Service/amazonaws.svg" alt="AWS" height='40' style="vertical-align:top; margin:4px">
-/ Google / Microsoft Azure
+- Amazon Cloud <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/Service/amazonaws.svg" alt="AWS" height='40' style="vertical-align:top; margin:4px">&nbsp;&nbsp; Google <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/Service/googlecloud.svg" alt="Google" height='40' style="vertical-align:top; margin:4px"> &nbsp;&nbsp; Microsoft Azure <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/Service/microsoftazure.svg" alt="azure" height='40' style="vertical-align:top; margin:4px">
 
 
 ### - 💬 Ask me about Amazon Web Service , Microsoft Azure and Google Cloud
