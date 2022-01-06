@@ -38,9 +38,9 @@ I'm Robina from Pakistan, I'm a Freelancer , Cloud Architect, AWS Techical Train
 ### - Languages ...
 <p align="center">
    
- <a href="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top margin:6px 4px">
-  </a>     
+ 
+   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top margin:6px 4px">
+  
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
