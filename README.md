@@ -1,13 +1,14 @@
-<div align="center"> <h2 align="center">Hi there , Robina here <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/ProfileImages/Hi-Robina.gif" height="30" width="30"> </h2></div>
+<div align="center"> 
+   <h2 align="center">Hi there , Robina here <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/ProfileImages/Hi-Robina.gif" height="30" width="30"> </h2></div>
+   
 <p align='center'>
-   <a href="https://www.linkedin.com/in/robina-mallah/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/robinamirbahar"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-
- </p>
+   <a href="https://www.linkedin.com/in/robina-mallah/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true">                </a>&nbsp;&nbsp;
+   <a href="https://twitter.com/robinamirbahar"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+</p>
 
 
 <p align='center'>
-<img align="center"><img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/ProfileImages/BannerGithub.gif">
+      <img align="center"><img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/ProfileImages/BannerGithub.gif">
 </p>
 
 ### - About Me
@@ -35,19 +36,21 @@ I'm Robina from Pakistan, I'm a Freelancer , Cloud Architect, AWS Techical Train
    
 </div>
    
-### - Languages ...
-<p align="center">
    
- 
+### - Languages ...
+
+<p align="center">
    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top margin:6px 4px">  
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:4px">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
+   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:4px">
+   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
 </p>
 
 
 ### - 🚧 I build with...
+
+
 <p align="center">
    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/aws.svg" alt="AWS" style="vertical-align:top; margin:4px">
    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/gcp.svg" alt="GCP" style="vertical-align:top margin:6px 4px">  
@@ -65,15 +68,10 @@ I'm Robina from Pakistan, I'm a Freelancer , Cloud Architect, AWS Techical Train
  </p>
 
 ### - 💬 Get in touch...
-
-
-
-<p align="center">&nbsp;&nbsp;&nbsp;
+ 
+[<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt="github | Github" height='40' width='40'>](https://github.com/robinamirbahar) 
+[<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' >](https://www.linkedIn.com/robina-mirbahar) 
+[<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' >](https://www.instagram.com/she.cloud) 
+[<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://www.twitter.com/robinamirbahar) 
    
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style="vertical-align:top; margin:4px" align="center" >](https://github.com/robinamirbahar) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style="vertical-align:top; margin:4px" align="center" >](https://www.linkedIn.com/robina-mirbahar) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' style="vertical-align:top; margin:4px" align="center" >](https://www.instagram.com/she.cloud) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40' style="vertical-align:top; margin:4px" align="center" >](https://www.twitter.com/robinamirbahar) 
-   
- </p>
 
