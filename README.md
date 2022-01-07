@@ -14,8 +14,9 @@
 ### - About Me
 I'm Robina from Pakistan, I'm a Freelancer , Cloud Architect, AWS Techical Trainer and Microsoft Certified Trainer. I really enjoy learning Cloud Technologies .I worked on Wordpress too on [Upwork](https://www.upwork.com). 
 
+
 ### - Currently I'm Learning...
-- 🌱 Cloud Native and Kubernetes.
+- 🥀  Cloud Native and Kubernetes.
 
 ### - Currently Working on..
 - 🔭 Working on [SheCloud](https://github.com/SheCloud). 
@@ -37,8 +38,8 @@ I'm Robina from Pakistan, I'm a Freelancer , Cloud Architect, AWS Techical Train
 </div>
 <br />   
 
-### - Languages ...
-
+### - Languages and Tools I used ⚙️ ...
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <p align="center">
    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top margin:6px 4px">  
    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
