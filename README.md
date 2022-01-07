@@ -35,8 +35,8 @@ I'm Robina from Pakistan, I'm a Freelancer , Cloud Architect, AWS Techical Train
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=robinamirbahar)](https://git.io/streak-stats)
    
 </div>
-   
- <br />  
+<br />   
+
 ### - Languages ...
 
 <p align="center">
@@ -48,6 +48,7 @@ I'm Robina from Pakistan, I'm a Freelancer , Cloud Architect, AWS Techical Train
 </p>
 
 <br />
+
 ### - 🚧 I build with...
 
 
@@ -68,6 +69,7 @@ I'm Robina from Pakistan, I'm a Freelancer , Cloud Architect, AWS Techical Train
  </p>
  
 <br />
+
 ### - 💬 Get in touch...
 
 [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt="github | Github" height='40' width='40'>](https://github.com/robinamirbahar) 
@@ -75,4 +77,4 @@ I'm Robina from Pakistan, I'm a Freelancer , Cloud Architect, AWS Techical Train
 [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' >](https://www.instagram.com/she.cloud) 
 [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://www.twitter.com/robinamirbahar) 
    
-<br />
+
