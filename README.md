@@ -69,7 +69,7 @@ I'm Robina from Pakistan, I'm a Freelancer , Cloud Architect, AWS Techical Train
 
 [<img align="center" src='https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Social/github-icon.svg' alt="github | Github" height='40' width='40'>](https://github.com/robinamirbahar) 
 [<img align="center" src='https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Social/linkedin.svg' alt='linkedin' height='40' >](https://www.linkedIn.com/robina-mirbahar) 
-[<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' >](https://www.instagram.com/she.cloud) 
-[<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://www.twitter.com/robinamirbahar) 
+[<img align="center" src='https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Social/instagram.svg' alt='instagram' height='40' >](https://www.instagram.com/she.cloud) 
+[<img align="center" src='https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Social/twitter.svg' alt='twitter' height='40'>](https://www.twitter.com/robinamirbahar) 
    
 
