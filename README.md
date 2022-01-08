@@ -54,7 +54,7 @@ I'm Robina from Pakistan, I'm a Freelancer , Cloud Architect, AWS Techical Train
 
 
 <p align="center">
-   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/aws.svg" alt="AWS" style="vertical-align:top; margin:4px">
+   <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/aws-2.svg" alt="AWS" style="vertical-align:top; margin:4px" width="60" height="60">
    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/gcp.svg" alt="GCP" style="vertical-align:top margin:6px 4px">  
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/azure.svg" alt="azure" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/office_365.svg" alt="m365" style="vertical-align:top; margin:4px">
