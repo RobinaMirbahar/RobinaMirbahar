@@ -4,8 +4,8 @@
 <p align='center'>
    <a href="https://www.linkedin.com/in/robina-mallah/"><img height="30" src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Social/linkedin-icon-2.svg">                </a>&nbsp;&nbsp;
     <a href="https://twitter.com/robinamirbahar"><img height="30" src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Social/twitter-6.svg"></a>&nbsp;&nbsp;
+   <a href="https://instagram.com/she.cloud"><img height="30" src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Social/instagram-2-1.svg"></a>&nbsp;&nbsp;
 </p>
-
 
 <p align='center'>
       <img align="center"><img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/ProfileImages/BannerGithub.gif">
