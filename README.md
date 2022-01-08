@@ -23,7 +23,7 @@ I'm Robina from Pakistan, I'm a Freelancer , Cloud Architect, AWS Techical Train
 
 
 ### - Skills and Experience
-- Amazon Cloud <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/Service/amazonaws.svg" alt="AWS" height='40' style="vertical-align:top; margin:4px">&nbsp;&nbsp; Google <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/Service/googlecloud.svg" alt="Google" height='40' style="vertical-align:top; margin:4px"> &nbsp;&nbsp; Microsoft Azure <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/Service/microsoftazure.svg" alt="azure" height='40' style="vertical-align:top; margin:4px">
+- Amazon Cloud <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/amazonaws.svg" alt="AWS" height='40' style="vertical-align:top; margin:4px">&nbsp;&nbsp; Google <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/googlecloud.svg" alt="Google" height='40' style="vertical-align:top; margin:4px"> &nbsp;&nbsp; Microsoft Azure <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/microsoftazure.svg" alt="azure" height='40' style="vertical-align:top; margin:4px">
 
 
 ### - 💬 Ask me about Amazon Web Service , Microsoft Azure and Google Cloud
@@ -39,7 +39,7 @@ I'm Robina from Pakistan, I'm a Freelancer , Cloud Architect, AWS Techical Train
 <br />   
 
 ### - Languages and Tools I used ⚙️ ...
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+
 <p align="center">
    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top margin:6px 4px">  
    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
