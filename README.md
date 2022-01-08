@@ -57,9 +57,10 @@ I'm Robina from Pakistan, I'm a Freelancer , Cloud Architect, AWS Techical Train
    <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/aws-2.svg" alt="AWS" style="vertical-align:top; margin:4px" width="60" height="60">
    <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/google-cloud-1.svg" alt="GCP" style="vertical-align:top margin:6px 4px" width="60" height="60">  
   <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/azure-1.svg" alt="azure" style="vertical-align:top; margin:4px" width="60" height="60">
-  <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/docker-3.svg" alt="m365" style="vertical-align:top; margin:4px" width="60" height="60">
     <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/office365.svg" alt="m365" style="vertical-align:top; margin:4px" width="60" height="60">
    <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/kubernets.svg" alt="KB" style="vertical-align:top; margin:4px" width="60" height="60">
+        <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/docker-3.svg" alt="docker" style="vertical-align:top; margin:4px" width="90" height="90">
+
 </p>
 
 ### - 🔭 Tools I used...
