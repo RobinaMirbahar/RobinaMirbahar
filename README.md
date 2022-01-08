@@ -38,14 +38,16 @@ I'm Robina from Pakistan, I'm a Freelancer , Cloud Architect, AWS Techical Train
 </div>
 <br />   
 
-### - Languages and Tools I used ⚙️ ...
+### - 🔭 Languages and Tools I used ⚙️ ...
 
 <p align="center">
-   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top margin:6px 4px">  
-   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:4px">
-   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
+   <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Languages/html-1.svg" alt="HTML" style="vertical-align:top margin:6px 4px" width="60" height="60">  
+   <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Languages/logo-javascript.svg" alt="js" style="vertical-align:top; margin:4px" width="60" height="60">
+   <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Languages/python-5.svg" alt="python" style="vertical-align:top; margin:4px" width="60" height="60">
+   <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Languages/php-1.svg" alt="php" style="vertical-align:top; margin:4px" width="60" height="60">
+   <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Languages/css-3.svg" alt="css3" style="vertical-align:top; margin:4px" width="60" height="60">
+   <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Tools/visual-studio-code-1.svg" alt="visual" style="vertical-align:top; margin:4px" width="60" height="60">
+
 </p>
 
 <br />
@@ -62,13 +64,6 @@ I'm Robina from Pakistan, I'm a Freelancer , Cloud Architect, AWS Techical Train
         <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/docker-3.svg" alt="docker" style="vertical-align:top; margin:4px" width="90" height="90">
 
 </p>
-
-### - 🔭 Tools I used...
-<p align="center">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:4px">
-   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" alt="Docker" style="vertical-align:top margin:6px 4px">  
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="visual" style="vertical-align:top; margin:4px">
- </p>
  
 <br />
 
