@@ -11,6 +11,7 @@
       <img align="center"><img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/ProfileImages/BannerGithub.gif">
 </p>
 
+
 ### - About Me
 I'm Robina from Pakistan, I'm a Freelancer , Cloud Architect, AWS Techical Trainer and Microsoft Certified Trainer. I really enjoy learning Cloud Technologies .I worked on Wordpress too on [Upwork](https://www.upwork.com). 
 
@@ -48,9 +49,7 @@ I'm Robina from Pakistan, I'm a Freelancer , Cloud Architect, AWS Techical Train
    <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Languages/css-3.svg" alt="css3" style="vertical-align:top; margin:4px" width="60" height="60">
    <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Tools/visual-studio-code-1.svg" alt="visual" style="vertical-align:top; margin:4px" width="60" height="60">
 
-</p>
-
-<br />
+</p><br />
 
 ### - 🚧 I build with...
 
@@ -63,14 +62,13 @@ I'm Robina from Pakistan, I'm a Freelancer , Cloud Architect, AWS Techical Train
    <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/kubernets.svg" alt="KB" style="vertical-align:top; margin:4px" width="60" height="60">
         <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/docker-3.svg" alt="docker" style="vertical-align:top; margin:4px" width="90" height="90">
 
-</p>
- 
-<br />
+</p><br />
 
 ### - 💬 Get in touch...
 
-[<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt="github | Github" height='40' width='40'>](https://github.com/robinamirbahar) 
-[<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' >](https://www.linkedIn.com/robina-mirbahar) 
+
+[<img align="center" src='https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Social/github-icon.svg' alt="github | Github" height='40' width='40'>](https://github.com/robinamirbahar) 
+[<img align="center" src='https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Social/linkedin.svg' alt='linkedin' height='40' >](https://www.linkedIn.com/robina-mirbahar) 
 [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' >](https://www.instagram.com/she.cloud) 
 [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://www.twitter.com/robinamirbahar) 
    
