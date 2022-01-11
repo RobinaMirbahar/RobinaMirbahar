@@ -75,7 +75,7 @@ I'm Robina from Pakistan, I'm a Freelancer , Cloud Architect, AWS Techical Train
 <br />
 <h2 align="center"><img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Social/facebook-love.svg" alt="love" style="vertical-align:top; margin:4px" width="20" height="20"> Support <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Social/facebook-love.svg" alt="love" style="vertical-align:top; margin:4px" width="20" height="20"></h2>
 
-<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 Hands on Labs requests are most welcome!</p>
 
-<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+<p align="center">💙 If you like my learning space, Give them ⭐ and Share it with friends!</p>
 </p>
