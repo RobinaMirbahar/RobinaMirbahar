@@ -12,18 +12,18 @@
 </p>
 
 
-### - About Me
-I'm Robina from Pakistan, I'm a Freelancer , Cloud Architect, AWS Techical Trainer and Microsoft Certified Trainer. I really enjoy learning Cloud Technologies .I worked on Wordpress too on [Upwork](https://www.upwork.com). 
+### - 🚀 About Me-
+-  I'm Robina from Pakistan, I'm a Freelancer , Cloud Architect, AWS Techical Trainer and Microsoft Certified Trainer. I really enjoy learning Cloud Technologies .I worked on Wordpress too on [Upwork](https://www.upwork.com). 
 
 
-### - Currently I'm Learning...
-- 🥀  Cloud Native and Kubernetes.
+### - 🧠 Currently I'm Learning...
+-   Cloud Native and Kubernetes.
 
-### - Currently Working on..
-- 🔭 Working on [SheCloud](https://github.com/SheCloud). 
+### - 👩‍💻 Currently Working on..
+-  Working on [SheCloud](https://github.com/SheCloud). 
 
 
-### - Skills and Experience
+### - 🛠 Skills and Experience
 - Amazon Cloud <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/amazonaws.svg" alt="AWS" height='40' style="vertical-align:top; margin:4px">&nbsp;&nbsp; Google <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/googlecloud.svg" alt="Google" height='40' style="vertical-align:top; margin:4px"> &nbsp;&nbsp; Microsoft Azure <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/microsoftazure.svg" alt="azure" height='40' style="vertical-align:top; margin:4px">
 
 
