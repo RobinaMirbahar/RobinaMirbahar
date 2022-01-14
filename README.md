@@ -12,22 +12,21 @@
 </p>
 
 
-### - 🚀 About Me-
+## 🚀 About Me
 -  I'm Robina from Pakistan, I'm a Freelancer , Cloud Architect, AWS Techical Trainer and Microsoft Certified Trainer. I really enjoy learning Cloud Technologies .I worked on Wordpress too on [Upwork](https://www.upwork.com). 
 
-
-### - 🧠 Currently I'm Learning...
+## 🧠 Currently I'm Learning...
 -   Cloud Native and Kubernetes.
 
-### - 👩‍💻 Currently Working on..
+##  👩‍💻 Currently Working on..
 -  Working on [SheCloud](https://github.com/SheCloud). 
 
 
-### - 🛠 Skills and Experience
+## 🛠 Skills
 - Amazon Cloud <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/amazonaws.svg" alt="AWS" height='40' style="vertical-align:top; margin:4px">&nbsp;&nbsp; Google <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/googlecloud.svg" alt="Google" height='40' style="vertical-align:top; margin:4px"> &nbsp;&nbsp; Microsoft Azure <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/microsoftazure.svg" alt="azure" height='40' style="vertical-align:top; margin:4px">
 
 
-### - 💬 Ask me about Amazon Web Service , Microsoft Azure and Google Cloud
+## - 💬 Ask me about Amazon Web Service , Microsoft Azure and Google Cloud
 <br />
 
 <div align="center">
@@ -39,7 +38,7 @@
 </div>
 <br />   
 
-### - 🔭 Languages and Tools I used ⚙️ ...
+## - 🔭 Languages and Tools I used ⚙️ ...
 
 <p align="center">
    <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Languages/html-1.svg" alt="HTML" style="vertical-align:top margin:6px 4px" width="60" height="60">  
@@ -51,7 +50,7 @@
 
 </p><br />
 
-### - 🚧 I build with...
+## - 🚧 I build with...
 
 
 <p align="center">
@@ -64,7 +63,7 @@
 
 </p><br />
 
-### - 💬 Get in touch...
+## - 💬 Get in touch...
 
 
 [<img align="center" src='https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Social/github-icon.svg' alt="github | Github" height='40' width='40'>](https://github.com/robinamirbahar) 
