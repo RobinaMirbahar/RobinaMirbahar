@@ -36,10 +36,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=robinamirbahar)](https://git.io/streak-stats)
    
 </div>
-<br />   
 
 ## - 🔭 Languages and Tools I used ⚙️ ...
-
 <p align="center">
    <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Languages/html-1.svg" alt="HTML" style="vertical-align:top margin:6px 4px" width="60" height="60">  
    <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Languages/logo-javascript.svg" alt="js" style="vertical-align:top; margin:4px" width="60" height="60">
@@ -48,11 +46,9 @@
    <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Languages/css-3.svg" alt="css3" style="vertical-align:top; margin:4px" width="60" height="60">
    <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Tools/visual-studio-code-1.svg" alt="visual" style="vertical-align:top; margin:4px" width="60" height="60">
 
-</p><br />
+</p>
 
 ## - 🚧 I build with...
-
-
 <p align="center">
    <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/aws-2.svg" alt="AWS" style="vertical-align:top; margin:4px" width="60" height="60">
    <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/google-cloud-1.svg" alt="GCP" style="vertical-align:top margin:6px 4px" width="60" height="60">  
@@ -61,10 +57,9 @@
    <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/kubernets.svg" alt="KB" style="vertical-align:top; margin:4px" width="60" height="60">
         <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/docker-3.svg" alt="docker" style="vertical-align:top; margin:4px" width="90" height="90">
 
-</p><br />
+</p>
 
 ## - 💬 Get in touch...
-
 
 [<img align="center" src='https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Social/github-icon.svg' alt="github | Github" height='40' width='40'>](https://github.com/robinamirbahar) 
 [<img align="center" src='https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Social/linkedin.svg' alt='linkedin' height='40' >](https://www.linkedIn.com/robina-mirbahar) 
