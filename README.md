@@ -56,8 +56,14 @@
     <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/office365.svg" alt="m365" style="vertical-align:top; margin:4px" width="60" height="60">
    <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/kubernets.svg" alt="KB" style="vertical-align:top; margin:4px" width="60" height="60">
         <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/docker-3.svg" alt="docker" style="vertical-align:top; margin:4px" width="90" height="90">
-
 </p>
+<br />
+<h2 align="center"><img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Social/facebook-love.svg" alt="love" style="vertical-align:top; margin:4px" width="20" height="20"> Support <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Social/facebook-love.svg" alt="love" style="vertical-align:top; margin:4px" width="20" height="20"></h2>
+<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 Hands on Labs requests are most welcome!</p>
+
+<p align="center">💙 If you like my learning space, Give them ⭐ and Share it with friends!</p>
+</p>
+
 
 ## - 💬 Get in touch...
 
@@ -66,10 +72,4 @@
 [<img align="center" src='https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Social/instagram.svg' alt='instagram' height='40' >](https://www.instagram.com/she.cloud) 
 [<img align="center" src='https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Social/twitter.svg' alt='twitter' height='40'>](https://www.twitter.com/robinamirbahar) 
    
-<br />
-<h2 align="center"><img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Social/facebook-love.svg" alt="love" style="vertical-align:top; margin:4px" width="20" height="20"> Support <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Social/facebook-love.svg" alt="love" style="vertical-align:top; margin:4px" width="20" height="20"></h2>
 
-<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 Hands on Labs requests are most welcome!</p>
-
-<p align="center">💙 If you like my learning space, Give them ⭐ and Share it with friends!</p>
-</p>
