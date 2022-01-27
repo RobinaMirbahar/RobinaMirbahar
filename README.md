@@ -5,7 +5,7 @@
    <a href="https://www.linkedin.com/in/robina-mallah/"><img height="30" src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Social/linkedin-icon-2.svg">                </a>&nbsp;&nbsp;
     <a href="https://twitter.com/robinamirbahar"><img height="30" src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Social/twitter-6.svg"></a>&nbsp;&nbsp;
    <a href="https://instagram.com/she.cloud"><img height="30" src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Social/instagram-2-1.svg"></a>&nbsp;&nbsp;
-   <a href="https://www.youtube.com/channel/UCDLDKrHW-Q7lpNbTypkW0vA"><img height="30" src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Streaming/new-youtube-logo.svg"></a>&nbsp;&nbsp;
+   <a href="https://www.youtube.com/channel/UCDLDKrHW-Q7lpNbTypkW0vA"><img height="30" src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Streaming/youtube-icon.svg"></a>&nbsp;&nbsp;
    <a href="https://www.twitch.tv/robinamirbahar"><img height="30" src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Streaming/twitch-purple.svg"></a>&nbsp;&nbsp;
 </p>
 
