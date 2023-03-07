@@ -1,6 +1,9 @@
 <div align="center"> 
    <h2 align="center">Hi there , Robina here <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/ProfileImages/Hi-Robina.gif" height="30" width="30"> </h2></div>
-   
+  
+###
+
+<div align="center">
 <p align='center'>
    <a href="https://www.linkedin.com/in/robinamirbahar/"><img height="30" src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Social/linkedin-icon-2.svg">                </a>&nbsp;&nbsp;
     <a href="https://twitter.com/robinamirbahar"><img height="30" src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Social/twitter-6.svg"></a>&nbsp;&nbsp;
@@ -8,11 +11,11 @@
    <a href="https://www.youtube.com/channel/UCDLDKrHW-Q7lpNbTypkW0vA"><img height="30" src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Streaming/youtube-icon.svg"></a>&nbsp;&nbsp;
    <a href="https://www.twitch.tv/robinamirbahar"><img height="30" src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Streaming/twitch-purple.svg"></a>&nbsp;&nbsp;
 </p>
-
+</div>
 <p align='center'>
       <img align="center"><img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/ProfileImages/BannerGithub.gif">
 </p>
-
+</div>
 
 ## 🚀 About Me
 -  I'm Robina from Pakistan, I'm a Freelancer , Cloud Architect, AWS Techical Trainer and Microsoft Certified Trainer. I really enjoy learning Cloud Technologies .I worked on Wordpress too on [Upwork](https://www.upwork.com). 
@@ -39,33 +42,48 @@
    
 </div>
 
+###
 ## - 🔭 Languages and Tools I used ⚙️ ...
-<p align="center">
-   <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Languages/html-1.svg" alt="HTML" style="vertical-align:top margin:6px 4px" width="60" height="60">  
-   <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Languages/logo-javascript.svg" alt="js" style="vertical-align:top; margin:4px" width="60" height="60">
-   <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Languages/python-5.svg" alt="python" style="vertical-align:top; margin:4px" width="60" height="60">
-   <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Languages/php-1.svg" alt="php" style="vertical-align:top; margin:4px" width="60" height="60">
-   <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Languages/css-3.svg" alt="css3" style="vertical-align:top; margin:4px" width="60" height="60">
-   <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Tools/visual-studio-code-1.svg" alt="visual" style="vertical-align:top; margin:4px" width="60" height="60">
 
-</p>
+<div align="left">
+<p align="center">
+   <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Languages/html-1.svg" alt="HTML" style="vertical-align:top margin:6px 4px" width="42" height="30">  
+   <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Languages/logo-javascript.svg" alt="js" style="vertical-align:top; margin:4px" width="42" height="30">
+   <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Languages/python-5.svg" alt="python" style="vertical-align:top; margin:4px" width="42" height="30">
+   <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Languages/php-1.svg" alt="php" style="vertical-align:top; margin:4px" width="42" height="30">
+   <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Languages/css-3.svg" alt="css3" style="vertical-align:top; margin:4px" width="42" height="30">
+   <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Tools/visual-studio-code-1.svg" alt="visual" style="vertical-align:top; margin:4px" width="42" height="30">
+
+</div>
 
 ## - 🚧 I build with...
+<div align="left">
 <p align="center">
-   <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/aws-2.svg" alt="AWS" style="vertical-align:top; margin:4px" width="60" height="60">
-   <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/google-cloud-1.svg" alt="GCP" style="vertical-align:top margin:6px 4px" width="60" height="60">  
-  <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/azure-1.svg" alt="azure" style="vertical-align:top; margin:4px" width="60" height="60">
-    <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/office365.svg" alt="m365" style="vertical-align:top; margin:4px" width="60" height="60">
-   <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/kubernets.svg" alt="KB" style="vertical-align:top; margin:4px" width="60" height="60">
-        <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/docker-3.svg" alt="docker" style="vertical-align:top; margin:4px" width="90" height="90">
+   <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/aws-2.svg" alt="AWS" style="vertical-align:top; margin:4px" width="42" height="30">
+   <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/google-cloud-1.svg" alt="GCP" style="vertical-align:top margin:6px 4px" width="30" height="42">  
+  <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/azure-1.svg" alt="azure" style="vertical-align:top; margin:4px" width="30" height="42">
+    <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/office365.svg" alt="m365" style="vertical-align:top; margin:4px" width="30" height="42">
+   <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/kubernets.svg" alt="KB" style="vertical-align:top; margin:4px" width="30" height="42">
+        <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/docker-3.svg" alt="docker" style="vertical-align:top; margin:4px" width="42" height="30">
 </p>
+</div>
+
+###
+
+<div align="center">
 <br />
 <h2 align="center"><img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Social/facebook-love.svg" alt="love" style="vertical-align:top; margin:4px" width="20" height="20"> Support <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Social/facebook-love.svg" alt="love" style="vertical-align:top; margin:4px" width="20" height="20"></h2>
+
+
 <p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 Hands on Labs requests are most welcome!</p>
 
+###
+<div align="center">
 <p align="center">💙 If you like my learning space, Give them ⭐ and Share it with friends!</p>
 </p>
+</div>
 
+###
 
 ## - 💬 Get in touch...
 
