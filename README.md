@@ -41,9 +41,8 @@
 
 <div align="center">
    
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robinamirbahar)](https://github.com/anuraghazra/github-readme-stats)
-    
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=robinamirbahar)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Robina%20Mirbahar&theme=dracula)](https://git.io/streak-stats)
+
    
 </div>
 
