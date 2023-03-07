@@ -18,13 +18,18 @@
 </div>
 
 ## 🚀 About Me
--  I'm Robina from Pakistan, I'm a Freelancer , Cloud Architect, AWS Techical Trainer and Microsoft Certified Trainer. I really enjoy learning Cloud Technologies .I worked on Wordpress too on [Upwork](https://www.upwork.com). 
+-  Working remotely as a Cloud Architect, As a multi-cloud architect, I specialize in designing and implementing distributed systems that utilize multiple cloud platforms. I have extensive experience analyzing business requirements and designing and implementing solutions that leverage the best features of each cloud platform, ensuring high availability, scalability, and security. My expertise includes cloud computing, virtualization, networking, automation, and containerization.
+
+- Am an adaptable, innovative leader committed to honesty, transparency, and the improvement of processes. Cloud Engineering Skills.
+
+- Have excellent analytical and problem-solving skills and a strong ability to work with minimal supervision. I have been working on the Cloud platforms AWS ☁️, Microsoft Azure ☁️ Google Platform. [Upwork](https://www.upwork.com). 
 
 ## 🧠 Currently I'm Learning...
 -   Cloud Native and Kubernetes.
 
-##  👩‍💻 Currently Working on..
+##  👩‍💻 Currently Working on Volunteer Communities to ..
 -  Working on [SheCloud](https://github.com/SheCloud). 
+-  Provides visibility, community, and resources for women in technology. Membership empowers women in their careers by providing access to curated resources and events, as well as information and tools from Google, our partners, and the global tech ecosystem.[Women Techmakers Hyderabad Pakistan](https://www.linkedin.com/company/women-techmaker-hyderabad-pakistan). 
 
 
 ## 🛠 Skills
