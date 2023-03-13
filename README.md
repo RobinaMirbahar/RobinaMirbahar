@@ -92,7 +92,7 @@
 ## - 💬 Get in touch...
 
 [<img align="center" src='https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Social/github-icon.svg' alt="github | Github" height='40' width='40'>](https://github.com/robinamirbahar) 
-[<img align="center" src='https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Social/linkedin.svg' alt='linkedin' height='40' (https://www.linkedin.com/in/robinamirbahar/)
+[<img align="center" src='https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Social/linkedin.svg' alt="github | Github" height='40' width='40'>](https://www.linkedin.com/in/robinamirbahar)
 [<img align="center" src='https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Social/instagram.svg' alt='instagram' height='40' >](https://www.instagram.com/she.cloud) 
 [<img align="center" src='https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Social/twitter.svg' alt='twitter' height='40'>](https://www.twitter.com/robinamirbahar) 
    
