@@ -64,6 +64,27 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
+## 📊 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=[USERNAME]&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME]&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🏆 Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=[USERNAME]&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+### ⚡ Recent Activity
+<!--START_SECTION:activity-->
+1. 🔥 Pushed 3 commits to main branch
+2. 🎉 Merged PR #42 in [Repo]
+3. 🐛 Fixed critical bug in auth module
+4. 📚 Updated documentation
+5. 🚀 Released v1.2.0
+<!--END_SECTION:activity-->
+
+#### 📈 Code Frequency
+[![Code Time](http://img.shields.io/badge/Code%20Time-2000%20hrs-blue)](https://wakatime.com)
+
 
 ## 📈 GitHub Stats
 <p align="center">
