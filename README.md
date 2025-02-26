@@ -64,27 +64,23 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
-## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=[ribinamirbahar]&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+## 📈 GitHub Analytics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME]&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=robinaMirbahar&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
-### 🏆 Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=[USERNAME]&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robinaMirbahar&layout=compact&theme=github_dark&hide_border=true)](https://github.com/robinaMirbahar)
 
-### ⚡ Recent Activity
+[![Profile Trophy](https://github-profile-trophy.vercel.app/?username=robinaMirbahar&theme=onedark&row=1&column=6)](https://github.com/robinaMirbahar)
+
+### ⚡ Recent Contributions
 <!--START_SECTION:activity-->
-1. 🔥 Pushed 3 commits to main branch
-2. 🎉 Merged PR #42 in [Repo]
-3. 🐛 Fixed critical bug in auth module
-4. 📚 Updated documentation
-5. 🚀 Released v1.2.0
+1. 🔄 Merged PRs in active repositories
+2. 🛠️ Pushed code updates
+3. 📝 Updated documentation
+4. 🐛 Fixed critical issues
+5. 🚀 Maintained project activity
 <!--END_SECTION:activity-->
-
-#### 📈 Code Frequency
-[![Code Time](http://img.shields.io/badge/Code%20Time-2000%20hrs-blue)](https://wakatime.com)
-
 
 ## 📈 GitHub Stats
 <p align="center">
