@@ -1,7 +1,7 @@
 <div align="center">
    <h2 align="center">👋 Hi there, I'm Robina! <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/ProfileImages/Hi-Robina.gif" height="30" width="30"></h2>
    <p><b>Cloud Architect | Generative AI Expert | Tech Community Leader</b></p>
-   <!-- <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/ProfileImages/GithubBanner.svg" alt="Robina Mirbahar Banner"> -->
+    <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/ProfileImages/GithubBanner.svg" alt="Robina Mirbahar Banner"> 
 </div>
 
 ---
