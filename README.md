@@ -31,9 +31,12 @@
 🚀 **Check out my latest AI project:** [Vertex AI Imagen 3 - Studio-Quality AI Image Generation](https://github.com/RobinaMirbahar/vertex-ai-imagen3-colab)  
 🔗 **Live Demo:** [Google Colab](https://colab.research.google.com/drive/13dpz6jw5rPNVOj-JgLWG9QuStetGc9Y4)  
 
+📺 **Watch on YouTube:** [AI Video Storytelling with Veo 3](https://www.youtube.com/watch?v=qwILtvTzofc)
+
 ---
 
 ## 🌍 Community & Volunteering
+- **Google Developer Expert (GDE)** 💡
 - **Google Cloud Innovator Champion** 🚀
 - **Women Techmakers Ambassador** 💡
 - **AWS & Azure Certified Cloud Architect** ☁️
@@ -66,8 +69,6 @@
 ---
 
 ## 📈 GitHub Analytics
-
-
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robinaMirbahar&layout=compact&theme=github_dark&hide_border=true)](https://github.com/robinaMirbahar)
 
@@ -107,3 +108,4 @@ If you find my work valuable, give it a ⭐ star and fork the repo! 🚀
 ```bash
 # Clone my AI Image Generation Project
 git clone https://github.com/RobinaMirbahar/vertex-ai-imagen3-colab.git
+```
