@@ -1,3 +1,4 @@
+
 <div align="center">
    <h2 align="center">👋 Hi there, I'm Robina! <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/ProfileImages/Hi-Robina.gif" height="30" width="30"></h2>
    <p><b>Cloud Architect | Generative AI Expert | Tech Community Leader</b></p>
@@ -28,8 +29,13 @@
 
 ## 🔥 AI & Cloud Innovation
 ### 🖼️ AI Image Generation | 🤖 AI Chatbots | 📝 AI-Powered Content Creation
-🚀 **Check out my latest AI project:** [Vertex AI Imagen 3 - Studio-Quality AI Image Generation](https://github.com/RobinaMirbahar/vertex-ai-imagen3-colab)  
-🔗 **Live Demo:** [Google Colab](https://colab.research.google.com/drive/13dpz6jw5rPNVOj-JgLWG9QuStetGc9Y4)  
+🚀 **Check out my latest AI projects:**
+
+- [**Vertex AI Imagen 3 - Studio-Quality AI Image Generation**](https://github.com/RobinaMirbahar/vertex-ai-imagen3-colab)  
+  🔗 **Live Demo:** [Google Colab](https://colab.research.google.com/drive/13dpz6jw5rPNVOj-JgLWG9QuStetGc9Y4)  
+
+- [**Comic Studio AI**](https://github.com/RobinaMirbahar/Comic-Studio-Ai)  
+  *Multi-Agent Comic Generator powered by Google Gemini API. Turn simple prompts into 4-panel comics with AI-generated stories, consistent characters, auto speech bubbles, and voice narration. Built with FastAPI and deployed on Google Cloud Run.*
 
 📺 **Watch on YouTube:** [AI Video Storytelling with Veo 3](https://www.youtube.com/watch?v=qwILtvTzofc)
 
@@ -68,26 +74,44 @@
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robinaMirbahar&layout=compact&theme=github_dark&hide_border=true)](https://github.com/robinaMirbahar)
-
-[![Profile Trophy](https://github-profile-trophy.vercel.app/?username=robinaMirbahar&theme=onedark&row=1&column=6)](https://github.com/robinaMirbahar)
-
-### ⚡ Recent Contributions
-<!--START_SECTION:activity-->
-1. 🔄 Merged PRs in active repositories
-2. 🛠️ Pushed code updates
-3. 📝 Updated documentation
-4. 🐛 Fixed critical issues
-5. 🚀 Maintained project activity
-<!--END_SECTION:activity-->
-
-## 📈 GitHub Stats
+### 📈 Classic Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=RobinaMirbahar&show_icons=true&theme=radical" width="400">  
 <img src="https://streak-stats.demolab.com?user=RobinaMirbahar&theme=radical" width="400">  
 </p>
+
+### 📌 Top Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobinaMirbahar&layout=compact&theme=radical&hide_border=true)](https://github.com/robinaMirbahar)
+
+### 🏆 Profile Trophy
+[![Profile Trophy](https://github-profile-trophy.vercel.app/?username=RobinaMirbahar&theme=radical&row=1&column=6)](https://github.com/robinaMirbahar)
+
+### 🔥 Activity Graph (New!)
+[![Robina's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RobinaMirbahar&theme=react-dark&bg_color=0d1117&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🔔 Latest Updates
+
+### 📺 Recent YouTube Videos
+- [AI Video Storytelling with Veo 3](https://www.youtube.com/watch?v=qwILtvTzofc)
+- *More coming soon...*
+
+### 🚀 Recent Project Activity
+<!-- RECENT-ACTIVITY:START -->
+- 🔄 Updated **Comic Studio AI** with voice input and random prompt features
+- 🛠️ Improved image generation pipeline in **Vertex AI Imagen 3** project
+- 📝 Published new blog post: *"Building Multi-Agent Systems with Gemini"*
+<!-- RECENT-ACTIVITY:END -->
+
+### ⚡ Recent GitHub Activity
+<!--START_SECTION:activity-->
+1. 🔄 Merged PR in [Comic-Studio-Ai](https://github.com/RobinaMirbahar/Comic-Studio-Ai)
+2. 🛠️ Pushed updates to [vertex-ai-imagen3-colab](https://github.com/RobinaMirbahar/vertex-ai-imagen3-colab)
+3. 📝 Updated profile README with new stats
+<!--END_SECTION:activity-->
 
 ---
 
@@ -108,4 +132,6 @@ If you find my work valuable, give it a ⭐ star and fork the repo! 🚀
 ```bash
 # Clone my AI Image Generation Project
 git clone https://github.com/RobinaMirbahar/vertex-ai-imagen3-colab.git
+# Clone Comic Studio AI
+git clone https://github.com/RobinaMirbahar/Comic-Studio-Ai.git
 ```
