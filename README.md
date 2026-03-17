@@ -1,3 +1,6 @@
+
+# 👋 Hi, I'm Robina Mirbahar
+
 <div align="center">
    <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/ProfileImages/Hi-Robina.gif" height="80" width="80">
    <h1>Robina Mirbahar</h1>
@@ -130,14 +133,79 @@ As the **Women Techmakers Ambassador** for Hyderabad, Pakistan, I lead community
 
 ---
 
-📊 GitHub Stats & Analytics
-<div align="center"> <!-- GitHub Stats Card – transparent background, radical colors --> <img src="https://github-readme-stats.vercel.app/api?username=RobinaMirbahar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage&rank_icon=github&hide_border=true&bg_color=00000000" width="49%" /> <!-- GitHub Streak Stats – transparent background --> <img src="https://streak-stats.demolab.com?user=RobinaMirbahar&theme=radical&hide_border=true&background=00000000&date_format=j%20M%5B%20Y%5D" width="49%" /> </div><div align="center"> <!-- Top Languages Card – transparent, compact, 8 langs --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobinaMirbahar&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=00000000&card_width=320" width="41%" /> <!-- GitHub Profile Trophy – no background, no frame --> <img src="https://github-profile-trophy.vercel.app/?username=RobinaMirbahar&theme=radical&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&no-bg=true" width="54%" /> </div><!-- GitHub Activity Graph – transparent background, react-dark theme --><div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=RobinaMirbahar&theme=react-dark&bg_color=00000000&hide_border=true&area=true&custom_title=Robina's%20Contribution%20Graph" width="95%" /> </div>
-📌 Pinned Projects
-<div align="center"> <a href="https://github.com/RobinaMirbahar/Comic-Studio-Ai"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobinaMirbahar&repo=Comic-Studio-Ai&theme=radical&show_owner=true&hide_border=true&bg_color=00000000" width="45%" /> </a> <a href="https://github.com/RobinaMirbahar/vertex-ai-imagen3-colab"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobinaMirbahar&repo=vertex-ai-imagen3-colab&theme=radical&show_owner=true&hide_border=true&bg_color=00000000" width="45%" /> </a> </div><div align="center"> <a href="https://github.com/RobinaMirbahar/shecloud"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobinaMirbahar&repo=shecloud&theme=radical&show_owner=true&hide_border=true&bg_color=00000000" width="45%" /> </a> <a href="https://github.com/RobinaMirbahar/multi-cloud-terraform"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobinaMirbahar&repo=multi-cloud-terraform&theme=radical&show_owner=true&hide_border=true&bg_color=00000000" width="45%" /> </a> </div>
-📈 Contribution Metrics
-<div align="center"> <table> <tr> <td>📊 <b>Total Contributions (Last Year)</b></td> <td>2,847+</td> </tr> <tr> <td>🔒 <b>Private Contributions</b></td> <td>124</td> </tr> <tr> <td>🏢 <b>Organizations</b></td> <td>@google @wtm @shecloud @WomenTechmakersHyderabadPK</td> </tr> <tr> <td>📋 <b>Activity Breakdown</b></td> <td>5% Code review • 8% Issues • 22% PRs • 65% Commits</td> </tr> </table> </div>
-🔥 Weekly Development Breakdown
-<!-- Optional: Add WakaTime stats if you use it --><!-- [![Robina's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=robinamirbahar&theme=radical&hide_border=true&bg_color=00000000&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+## 📊 GitHub Stats & Analytics
+
+<div align="center">
+  <!-- GitHub Stats Card - Transparent, custom colors -->
+  <img src="https://github-readme-stats.vercel.app/api?username=RobinaMirbahar&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage&rank_icon=github&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=555555&icon_color=586069" width="49%" />
+
+  <!-- GitHub Streak Stats - Minimal custom colors -->
+  <img src="https://streak-stats.demolab.com?user=RobinaMirbahar&hide_border=true&background=00000000&ring=2f80ed&fire=2f80ed&currStreakNum=555555&sideNums=555555&currStreakLabel=555555&sideLabels=555555&dates=555555" width="49%" />
+</div>
+
+<div align="center">
+  <!-- Top Languages Card - Transparent, custom colors, compact, 8 langs -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobinaMirbahar&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=555555" width="41%" />
+
+  <!-- GitHub Profile Trophy - no background, no frame -->
+  <img src="https://github-profile-trophy.vercel.app/?username=RobinaMirbahar&theme=flat&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true" width="54%" />
+</div>
+
+<!-- GitHub Activity Graph - transparent background, react-dark theme -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RobinaMirbahar&theme=react-dark&bg_color=00000000&hide_border=true&area=true&custom_title=Robina's%20Contribution%20Graph" width="95%" />
+</div>
+
+### 📌 Pinned Projects
+
+<div align="center">
+  <a href="https://github.com/RobinaMirbahar/Comic-Studio-Ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobinaMirbahar&repo=Comic-Studio-Ai&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=555555&icon_color=586069&show_owner=true" width="45%" />
+  </a>
+  <a href="https://github.com/RobinaMirbahar/vertex-ai-imagen3-colab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobinaMirbahar&repo=vertex-ai-imagen3-colab&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=555555&icon_color=586069&show_owner=true" width="45%" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/RobinaMirbahar/shecloud">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobinaMirbahar&repo=shecloud&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=555555&icon_color=586069&show_owner=true" width="45%" />
+  </a>
+  <a href="https://github.com/RobinaMirbahar/multi-cloud-terraform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobinaMirbahar&repo=multi-cloud-terraform&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=555555&icon_color=586069&show_owner=true" width="45%" />
+  </a>
+</div>
+
+### 📈 Contribution Metrics
+
+<div align="center">
+  <table>
+    <tr>
+      <td>📊 <b>Total Contributions (Last Year)</b></td>
+      <td>2,847+</td>
+    </tr>
+    <tr>
+      <td>🔒 <b>Private Contributions</b></td>
+      <td>124</td>
+    </tr>
+    <tr>
+      <td>🏢 <b>Organizations</b></td>
+      <td>@google @wtm @shecloud @WomenTechmakersHyderabadPK</td>
+    </tr>
+    <tr>
+      <td>📋 <b>Activity Breakdown</b></td>
+      <td>5% Code review • 8% Issues • 22% PRs • 65% Commits</td>
+    </tr>
+  </table>
+</div>
+
+### 🔥 Weekly Development Breakdown
+
+<!-- Optional: Add WakaTime stats if you use it -->
+<!-- 
+[![Robina's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=robinamirbahar&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=555555&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 ---
 
 ## 🤝 Connect with Me
@@ -177,3 +245,5 @@ git clone https://github.com/RobinaMirbahar/Comic-Studio-Ai.git
   <br>
   <b>Women Techmakers Hyderabad Pakistan</b> • <a href="https://pk.linkedin.com/company/women-techmaker-hyderabad-pakistan">LinkedIn</a> • <a href="https://www.facebook.com/profile.php?id=100089581695566">Facebook</a>
 </div>
+
+---
