@@ -1,6 +1,4 @@
 
-# 👋 Hi, I'm Robina Mirbahar
-
 <div align="center">
    <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/ProfileImages/Hi-Robina.gif" height="80" width="80">
    <h1>Robina Mirbahar</h1>
