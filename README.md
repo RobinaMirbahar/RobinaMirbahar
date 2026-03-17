@@ -134,12 +134,6 @@ As the **Women Techmakers Ambassador** for Hyderabad, Pakistan, I lead community
 <div align="center"> <!-- Stats Card with extra details --> <img src="https://github-readme-stats.vercel.app/api?username=RobinaMirbahar&show_icons=true&theme=radical&include_all_commits=true&show=reviews,discussions_started,prs_merged&rank_icon=github" width="48%" /> <!-- GitHub Streak --> <img src="https://streak-stats.demolab.com?user=RobinaMirbahar&theme=radical" width="48%" /> </div><div align="center"> <!-- Top Languages (compact, 8 langs) --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobinaMirbahar&layout=compact&langs_count=8&theme=radical" width="40%" /> <!-- Trophy (unchanged) --> <img src="https://github-profile-trophy.vercel.app/?username=RobinaMirbahar&theme=radical&row=1&column=6" width="55%" /> </div><div align="center"> <!-- Activity Graph --> <img src="https://github-readme-activity-graph.vercel.app/graph?username=RobinaMirbahar&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="95%" /> </div>
 📌 Pinned Projects
 <a href="https://github.com/RobinaMirbahar/Comic-Studio-Ai"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RobinaMirbahar&repo=Comic-Studio-Ai&theme=radical&show_owner=true" /> </a> <a href="https://github.com/RobinaMirbahar/vertex-ai-imagen3-colab"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RobinaMirbahar&repo=vertex-ai-imagen3-colab&theme=radical&show_owner=true" /> </a>
-🔧 What Changed?
-Stats Card: Added include_all_commits=true to count all commits, show=reviews,discussions_started,prs_merged for extra metrics, and rank_icon=github for a cleaner rank display.
-
-Top Languages: Used layout=compact and langs_count=8 to show more languages in less space.
-
-Pinned Projects: Added two cards below the graphs to highlight your best work (you can add more or change repos).
 
 ---
 
