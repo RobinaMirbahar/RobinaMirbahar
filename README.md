@@ -173,10 +173,6 @@ As the **Women Techmakers Ambassador** for Hyderabad, I lead community initiativ
   <img src="https://metrics.lecoq.io/RobinaMirbahar?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&lines=1&repositories=1&introduction=1&config.timezone=Asia/Karachi&config.animated=true&config.output=gif&config.border=0&config.background=00000000&config.text_color=555555&config.title_color=2f80ed" width="95%" />
 </div>
 
-<div align="center">
-  <!-- New: WakaTime Stats (if you use WakaTime) -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RobinaMirbahar&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=555555&layout=compact&border_radius=12" width="95%" />
-</div>
 
 ### 📌 Pinned Repositories
 
