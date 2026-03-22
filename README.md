@@ -148,19 +148,25 @@ As the **Women Techmakers Ambassador** for Hyderabad, I lead community initiativ
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RobinaMirbahar&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage&rank_icon=github&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=555555&icon_color=586069" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=RobinaMirbahar&hide_border=true&background=00000000&ring=2f80ed&fire=2f80ed&currStreakNum=555555&sideNums=555555&currStreakLabel=555555&sideLabels=555555&dates=555555" width="49%" />
+  <!-- GitHub Stats Card - Using v2.0.0+ parameters -->
+  <img src="https://github-readme-stats.vercel.app/api?username=RobinaMirbahar&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage&rank_icon=github&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=555555&icon_color=586069&hide=contribs" width="49%" />
+  
+  <!-- GitHub Streak Stats - Updated with modern parameters -->
+  <img src="https://streak-stats.demolab.com?user=RobinaMirbahar&hide_border=true&background=00000000&ring=2f80ed&fire=2f80ed&currStreakNum=555555&sideNums=555555&currStreakLabel=555555&sideLabels=555555&dates=555555&stroke=00000000" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobinaMirbahar&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=555555" width="41%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=RobinaMirbahar&theme=flat&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true" width="54%" />
+  <!-- Top Languages - Enhanced with compact layout -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobinaMirbahar&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=555555&size_weight=0.5&count_weight=0.5" width="41%" />
+  
+  <!-- GitHub Trophies - Clean, frameless design -->
+  <img src="https://github-profile-trophy.vercel.app/?username=RobinaMirbahar&theme=flat&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true&title=-Stars,-Followers,-PullRequest,-Issues" width="54%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RobinaMirbahar&theme=react-dark&bg_color=00000000&hide_border=true&area=true&custom_title=Robina's%20Contribution%20Graph" width="95%" />
+  <!-- Activity Graph - Modern theme with transparency -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RobinaMirbahar&theme=react-dark&bg_color=00000000&hide_border=true&area=true&custom_title=Robina's%20Contribution%20Graph&point=2f80ed&line=2f80ed&color=555555" width="95%" />
 </div>
-
 ### 📌 Pinned Repositories
 
 <div align="center">
