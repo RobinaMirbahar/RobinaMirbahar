@@ -147,8 +147,6 @@ As the **Women Techmakers Ambassador** for Hyderabad, I lead community initiativ
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
   <!-- Modern GitHub Stats Card - v2.2.0+ with new metrics -->
   <img src="https://github-readme-stats.vercel.app/api?username=RobinaMirbahar&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage&rank_icon=github&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=555555&icon_color=586069&hide=contribs&number_format=long&line_height=28&border_radius=12" width="49%" />
