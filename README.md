@@ -147,26 +147,39 @@ As the **Women Techmakers Ambassador** for Hyderabad, I lead community initiativ
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
-  <!-- GitHub Stats Card - Using v2.0.0+ parameters -->
-  <img src="https://github-readme-stats.vercel.app/api?username=RobinaMirbahar&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage&rank_icon=github&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=555555&icon_color=586069&hide=contribs" width="49%" />
+  <!-- Modern GitHub Stats Card - v2.2.0+ with new metrics -->
+  <img src="https://github-readme-stats.vercel.app/api?username=RobinaMirbahar&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage&rank_icon=github&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=555555&icon_color=586069&hide=contribs&number_format=long&line_height=28&border_radius=12" width="49%" />
   
-  <!-- GitHub Streak Stats - Updated with modern parameters -->
-  <img src="https://streak-stats.demolab.com?user=RobinaMirbahar&hide_border=true&background=00000000&ring=2f80ed&fire=2f80ed&currStreakNum=555555&sideNums=555555&currStreakLabel=555555&sideLabels=555555&dates=555555&stroke=00000000" width="49%" />
+  <!-- New: GitHub Achievements & Milestones -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RobinaMirbahar&theme=transparent&hide_border=true&border_radius=12&text_color=555555&title_color=2f80ed" width="49%" />
 </div>
 
 <div align="center">
-  <!-- Top Languages - Enhanced with compact layout -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobinaMirbahar&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=555555&size_weight=0.5&count_weight=0.5" width="41%" />
+  <!-- Enhanced Top Languages with AI-powered language detection -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobinaMirbahar&layout=donut-vertical&langs_count=8&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=555555&size_weight=0.5&count_weight=0.5&exclude_repo=RobinaMirbahar&hide=html,css&border_radius=12" width="41%" />
   
-  <!-- GitHub Trophies - Clean, frameless design -->
-  <img src="https://github-profile-trophy.vercel.app/?username=RobinaMirbahar&theme=flat&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true&title=-Stars,-Followers,-PullRequest,-Issues" width="54%" />
+  <!-- New: GitHub Stats Graph (Alternative to trophies) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RobinaMirbahar&theme=transparent&hide_border=true&border_radius=12&text_color=555555&title_color=2f80ed" width="54%" />
 </div>
 
 <div align="center">
-  <!-- Activity Graph - Modern theme with transparency -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RobinaMirbahar&theme=react-dark&bg_color=00000000&hide_border=true&area=true&custom_title=Robina's%20Contribution%20Graph&point=2f80ed&line=2f80ed&color=555555" width="95%" />
+  <!-- Modern Activity Graph with 3D effects -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RobinaMirbahar&theme=react-dark&bg_color=00000000&hide_border=true&area=true&area_color=2f80ed20&custom_title=Robina's%20Contribution%20Graph&point=2f80ed&line=2f80ed&color=555555&height=300&border_radius=12" width="95%" />
 </div>
+
+<div align="center">
+  <!-- New: GitHub Metrics with animated stats -->
+  <img src="https://metrics.lecoq.io/RobinaMirbahar?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&lines=1&repositories=1&introduction=1&config.timezone=Asia/Karachi&config.animated=true&config.output=gif&config.border=0&config.background=00000000&config.text_color=555555&config.title_color=2f80ed" width="95%" />
+</div>
+
+<div align="center">
+  <!-- New: WakaTime Stats (if you use WakaTime) -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RobinaMirbahar&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=555555&layout=compact&border_radius=12" width="95%" />
+</div>
+
 ### 📌 Pinned Repositories
 
 <div align="center">
