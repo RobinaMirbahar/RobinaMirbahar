@@ -27,6 +27,38 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate pin for Comic-Studio-Ai
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=RobinaMirbahar&repo=Comic-Studio-Ai&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=555555&icon_color=586069&show_owner=true
+          path: profile/pin-comic-studio.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin for vertex-ai-imagen3-colab
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=RobinaMirbahar&repo=vertex-ai-imagen3-colab&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=555555&icon_color=586069&show_owner=true
+          path: profile/pin-vertex-ai.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin for shecloud
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=RobinaMirbahar&repo=shecloud&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=555555&icon_color=586069&show_owner=true
+          path: profile/pin-shecloud.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin for multi-cloud-terraform
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=RobinaMirbahar&repo=multi-cloud-terraform&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=555555&icon_color=586069&show_owner=true
+          path: profile/pin-multi-cloud.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit cards
         run: |
           git config user.name "github-actions"
