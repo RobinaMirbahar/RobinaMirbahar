@@ -1,6 +1,4 @@
-Here is your complete, updated GitHub profile README with static stats cards and a fixed profile views badge.
 
-```markdown
 <div align="center">
   <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/ProfileImages/Hi-Robina.gif" height="80" width="80">
 
