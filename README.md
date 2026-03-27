@@ -24,7 +24,7 @@
 
 ## 👩‍💼 About Me
 
-Building multi-agent AI systems and cloud-native solutions. Google Developer Expert in Machine Learning, helping developers harness the power of Generative AI and cloud technologies. Founder of **SheCloud** — empowering women in tech through education, mentorship, and community.
+Cloud Evangelist with experience on cloud platforms. I have been working on platforms such as AWS and Microsoft Azure. I’m a tech influencer empowering women to achieve their goals within limited resources. Let's empower women in technology.
 
 - 💻 **Multi-Cloud Architect** — AWS · Azure · Google Cloud
 - 🤖 **Generative AI Specialist** — LLMs · AI Agents · AI Content Generation
@@ -220,13 +220,17 @@ As the **Women Techmakers Ambassador** for Hyderabad, I lead community initiativ
 
 </div>
 
-### 💬 Stack Overflow
+### 🏆 Stack Overflow Achievement
 
 <div align="center">
 
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/21196122/robina-mirbahar)
 
-**719 reputation** • 31 answers • 23k people reached
+| Metric | Value |
+|--------|-------|
+| **Reputation** | 719 |
+| **Answers** | 31 |
+| **People Reached** | 23k+ |
 
 </div>
 
@@ -274,3 +278,5 @@ git clone https://github.com/RobinaMirbahar/Comic-Studio-Ai.git
 
 </div>
 ```
+
+know if you'd like me to adjust that.
