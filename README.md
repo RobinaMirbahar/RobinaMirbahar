@@ -122,7 +122,6 @@ As the **Women Techmakers Ambassador** for Hyderabad, I lead community initiativ
 
 ---
 
-Here's the **latest** version of your Skills & Technologies section with modern styling, new technologies, and updated badges:
 
 ## 🛠️ Skills & Technologies
 
