@@ -123,7 +123,6 @@ As the **Women Techmakers Ambassador** for Hyderabad, I lead community initiativ
 
 ---
 
-
 ## 🛠️ Skills & Technologies
 
 ### ☁️ Cloud Platforms
@@ -190,19 +189,19 @@ As the **Women Techmakers Ambassador** for Hyderabad, I lead community initiativ
 
 <div align="center">
   <a href="https://github.com/RobinaMirbahar/Comic-Studio-Ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobinaMirbahar&repo=Comic-Studio-Ai&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=555555&icon_color=586069&show_owner=true" width="45%" />
+    <img src="./profile/pin-comic-studio.svg" width="45%" />
   </a>
   <a href="https://github.com/RobinaMirbahar/vertex-ai-imagen3-colab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobinaMirbahar&repo=vertex-ai-imagen3-colab&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=555555&icon_color=586069&show_owner=true" width="45%" />
+    <img src="./profile/pin-vertex-ai.svg" width="45%" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/RobinaMirbahar/shecloud">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobinaMirbahar&repo=shecloud&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=555555&icon_color=586069&show_owner=true" width="45%" />
+    <img src="./profile/pin-shecloud.svg" width="45%" />
   </a>
   <a href="https://github.com/RobinaMirbahar/multi-cloud-terraform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobinaMirbahar&repo=multi-cloud-terraform&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=555555&icon_color=586069&show_owner=true" width="45%" />
+    <img src="./profile/pin-multi-cloud.svg" width="45%" />
   </a>
 </div>
 
