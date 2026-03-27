@@ -270,13 +270,10 @@ git clone https://github.com/RobinaMirbahar/Comic-Studio-Ai.git
 
 *"Empowering women in tech, one line of code at a time."*
 
-<img src="https://profile-counter.glitch.me/RobinaMirbahar/count.svg" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=RobinaMirbahar&color=blueviolet&style=flat-square" alt="Profile views" />
 
 **Women Techmakers Hyderabad Pakistan** &nbsp;·&nbsp;
 [LinkedIn](https://pk.linkedin.com/company/women-techmaker-hyderabad-pakistan) &nbsp;·&nbsp;
 [Facebook](https://www.facebook.com/profile.php?id=100089581695566)
 
 </div>
-```
-
-know if you'd like me to adjust that.
