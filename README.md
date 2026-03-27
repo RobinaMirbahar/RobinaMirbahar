@@ -13,6 +13,7 @@
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/she.cloud)
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@robinacodesai)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RobinaMirbahar)
+  [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/21196122/robina-mirbahar)
   [![Google Developer](https://img.shields.io/badge/GDE%20Profile-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile/u/106918534005910641104)
   [![Credly](https://img.shields.io/badge/Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/robinamirbahar)
 
@@ -27,7 +28,7 @@ Building multi-agent AI systems and cloud-native solutions. Google Developer Exp
 
 - 💻 **Multi-Cloud Architect** — AWS · Azure · Google Cloud
 - 🤖 **Generative AI Specialist** — LLMs · AI Agents · AI Content Generation
-- 🎤 **Tech Speaker & Mentor** — Google Cloud Innovator Champion · Women Techmakers Ambassador
+- 🎤 **Tech Speaker** — Google Cloud Innovator Champion · Women Techmakers Ambassador
 - 👩‍💻 **Founder of SheCloud** — Building a community for women in cloud & AI
 - 🎨 **Creative AI Enthusiast** — Exploring AI art, design, and storytelling
 - 📚 **Lifelong Learner** — Cloud Native · Kubernetes · AI-Powered Automation
@@ -122,6 +123,7 @@ As the **Women Techmakers Ambassador** for Hyderabad, I lead community initiativ
 **[Kubernetes Operators for AI](https://github.com/RobinaMirbahar/k8s-operators)** — Custom operators to manage ML workloads on Kubernetes.
 
 ---
+
 
 ## 🛠️ Skills & Technologies
 
@@ -218,6 +220,16 @@ As the **Women Techmakers Ambassador** for Hyderabad, I lead community initiativ
 
 </div>
 
+### 💬 Stack Overflow
+
+<div align="center">
+
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/21196122/robina-mirbahar)
+
+**719 reputation** • 31 answers • 23k people reached
+
+</div>
+
 ---
 
 ## 🤝 Connect
@@ -229,6 +241,7 @@ As the **Women Techmakers Ambassador** for Hyderabad, I lead community initiativ
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/she.cloud)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@robinacodesai)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RobinaMirbahar)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/21196122/robina-mirbahar)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100089581695566)
 [![GDE Profile](https://img.shields.io/badge/GDE%20Profile-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile/u/106918534005910641104)
 [![Credly](https://img.shields.io/badge/Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/robinamirbahar)
@@ -261,5 +274,3 @@ git clone https://github.com/RobinaMirbahar/Comic-Studio-Ai.git
 
 </div>
 ```
-
- 
