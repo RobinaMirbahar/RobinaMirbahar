@@ -1,3 +1,6 @@
+Here is your complete, updated GitHub profile README with static stats cards and a fixed profile views badge.
+
+```markdown
 <div align="center">
   <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/ProfileImages/Hi-Robina.gif" height="80" width="80">
 
@@ -177,31 +180,18 @@ As the **Women Techmakers Ambassador** for Hyderabad, I lead community initiativ
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- Modern GitHub Stats Card - v2.2.0+ with new metrics -->
-  <img src="https://github-readme-stats.vercel.app/api?username=RobinaMirbahar&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage&rank_icon=github&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=555555&icon_color=586069&hide=contribs&number_format=long&line_height=28&border_radius=12" width="49%" />
-  
-  <!-- New: GitHub Achievements & Milestones -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RobinaMirbahar&theme=transparent&hide_border=true&border_radius=12&text_color=555555&title_color=2f80ed" width="49%" />
+  <img src="./profile/stats.svg" width="49%" />
+  <img src="./profile/details.svg" width="49%" />
 </div>
 
 <div align="center">
-  <!-- Enhanced Top Languages with AI-powered language detection -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobinaMirbahar&layout=donut-vertical&langs_count=8&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=555555&size_weight=0.5&count_weight=0.5&exclude_repo=RobinaMirbahar&hide=html,css&border_radius=12" width="41%" />
-  
-  <!-- New: GitHub Stats Graph (Alternative to trophies) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RobinaMirbahar&theme=transparent&hide_border=true&border_radius=12&text_color=555555&title_color=2f80ed" width="54%" />
+  <img src="./profile/top-langs.svg" width="41%" />
+  <img src="./profile/repos-lang.svg" width="54%" />
 </div>
 
 <div align="center">
-  <!-- Modern Activity Graph with 3D effects -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RobinaMirbahar&theme=react-dark&bg_color=00000000&hide_border=true&area=true&area_color=2f80ed20&custom_title=Robina's%20Contribution%20Graph&point=2f80ed&line=2f80ed&color=555555&height=300&border_radius=12" width="95%" />
+  <img src="./profile/graph.svg" width="95%" />
 </div>
-
-<div align="center">
-  <!-- New: GitHub Metrics with animated stats -->
-  <img src="https://metrics.lecoq.io/RobinaMirbahar?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&lines=1&repositories=1&introduction=1&config.timezone=Asia/Karachi&config.animated=true&config.output=gif&config.border=0&config.background=00000000&config.text_color=555555&config.title_color=2f80ed" width="95%" />
-</div>
-
 
 ### 📌 Pinned Repositories
 
@@ -271,10 +261,12 @@ git clone https://github.com/RobinaMirbahar/Comic-Studio-Ai.git
 
 *"Empowering women in tech, one line of code at a time."*
 
-<img src="https://komarev.com/ghpvc/?username=RobinaMirbahar&color=blueviolet&style=flat-square" alt="Profile views" />
+<img src="https://profile-counter.glitch.me/RobinaMirbahar/count.svg" alt="Profile views" />
 
 **Women Techmakers Hyderabad Pakistan** &nbsp;·&nbsp;
 [LinkedIn](https://pk.linkedin.com/company/women-techmaker-hyderabad-pakistan) &nbsp;·&nbsp;
 [Facebook](https://www.facebook.com/profile.php?id=100089581695566)
 
 </div>
+```
+
