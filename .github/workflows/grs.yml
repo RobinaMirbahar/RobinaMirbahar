@@ -27,30 +27,6 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate profile details card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: profile-details
-          options: username=RobinaMirbahar&theme=transparent&hide_border=true&border_radius=12&text_color=555555&title_color=2f80ed
-          path: profile/details.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate repos-per-language card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: repos-per-language
-          options: username=RobinaMirbahar&theme=transparent&hide_border=true&border_radius=12&text_color=555555&title_color=2f80ed
-          path: profile/repos-lang.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate activity graph
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: activity-graph
-          options: username=RobinaMirbahar&theme=react-dark&bg_color=00000000&hide_border=true&area=true&area_color=2f80ed20&custom_title=Robina's%20Contribution%20Graph&point=2f80ed&line=2f80ed&color=555555&height=300&border_radius=12
-          path: profile/graph.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Commit cards
         run: |
           git config user.name "github-actions"
