@@ -179,16 +179,11 @@ As the **Women Techmakers Ambassador** for Hyderabad, I lead community initiativ
 
 <div align="center">
   <img src="./profile/stats.svg" width="49%" />
-  <img src="./profile/details.svg" width="49%" />
+  <img src="./profile/top-langs.svg" width="49%" />
 </div>
 
 <div align="center">
-  <img src="./profile/top-langs.svg" width="41%" />
-  <img src="./profile/repos-lang.svg" width="54%" />
-</div>
-
-<div align="center">
-  <img src="./profile/graph.svg" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RobinaMirbahar&theme=react-dark&bg_color=00000000&hide_border=true&area=true&area_color=2f80ed20&custom_title=Robina's%20Contribution%20Graph&point=2f80ed&line=2f80ed&color=555555&height=300&border_radius=12" width="95%" />
 </div>
 
 ### 📌 Pinned Repositories
