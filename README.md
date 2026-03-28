@@ -198,14 +198,7 @@ As the **Women Techmakers Ambassador** for Hyderabad, I lead community initiativ
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/RobinaMirbahar/shecloud">
-    <img src="./profile/pin-shecloud.svg" width="45%" />
-  </a>
-  <a href="https://github.com/RobinaMirbahar/multi-cloud-terraform">
-    <img src="./profile/pin-multi-cloud.svg" width="45%" />
-  </a>
-</div>
+
 
 ### 📈 Contribution Breakdown
 
