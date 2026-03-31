@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/ProfileImages/Hi-Robina.gif" height="80" width="80">
 
@@ -15,9 +16,6 @@
   [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/21196122/robina-mirbahar)
   [![Google Developer](https://img.shields.io/badge/GDE%20Profile-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile/u/106918534005910641104)
   [![Credly](https://img.shields.io/badge/Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/robinamirbahar)
-
-  <!-- Camo-style GitHub stars badge (proxy) -->
-  <img src="https://camo.githubusercontent.com/2b551461d7478478ebd5e0bd3dfd829d61f92c65c0fac14e243c2f91e1f81e81/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f526f62696e614d697262616861722f436f6d69632d53747564696f2d41693f7374796c653d666c617426636f6c6f723d323232266c6f676f3d676974687562266c6162656c3d" alt="GitHub stars (camo proxy)" />
 
   <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/ProfileImages/GithubBanner.svg" alt="Robina Mirbahar Banner" width="100%">
 </div>
@@ -257,3 +255,18 @@ As the **Women Techmakers Ambassador** for Hyderabad, I lead community initiativ
 
 ```bash
 git clone https://github.com/RobinaMirbahar/Comic-Studio-Ai.git
+```
+
+---
+
+<div align="center">
+
+*"Empowering women in tech, one line of code at a time."*
+
+<img src="https://komarev.com/ghpvc/?username=RobinaMirbahar&color=blueviolet&style=flat-square" alt="Profile views" />
+
+**Women Techmakers Hyderabad Pakistan** &nbsp;·&nbsp;
+[LinkedIn](https://pk.linkedin.com/company/women-techmaker-hyderabad-pakistan) &nbsp;·&nbsp;
+[Facebook](https://www.facebook.com/profile.php?id=100089581695566)
+
+</div>
