@@ -102,13 +102,34 @@ As the **Women Techmakers Ambassador** for Hyderabad, I lead community initiativ
 
 **[AI Video Storytelling with Veo 3](https://www.youtube.com/watch?v=qwILtvTzofc)** — Generate engaging videos using Veo 3 and Gemini. *(YouTube demo)*
 
+### 🎤 Tech Talks & Workshops
+
+A collection of my speaking engagements, workshops, and community events from 2023 to 2026.
+
+| Date | Event | Role/Topic | Location | Link |
+|------|-------|------------|----------|------|
+| **2026** |||||
+| Feb 21, 2026 | GDG Surrey | Speaker: "Designing AI Systems With and Without Agents" + "Agentic Orchestration" | Surrey, UK (Virtual) | [Event Link](https://gdg.community.dev/events/details/google-gdg-surrey-presents-day-1-how-to-design-ai-systems/) |
+| **2025** |||||
+| June 29, 2025 | AWS Cloud Club MUET | Speaker/Instructor: "Getting Started with AWS" | Jamshoro | [Event Link](https://www.meetup.com/aws-cloud-club-at-muet-jamshoro-pakistan/events/308684797/) |
+| May 13, 2025 | GDG UMT Lahore | Speaker: "Building Smart Apps with Google AI Technologies" | Lahore | [Event Link](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-management-and-technology-lahore-pakistan-presents-building-smart-apps-with-google-ai-technologies-build-with-ai/) |
+| March 8, 2025 | Women Techmakers IWD 2025 | Keynote Speaker & Event Organizer: #RedefinePossible (200+ attendees) | USPCAS-W, MUET Jamshoro | [LinkedIn Post](https://www.linkedin.com/posts/robinamirbahar_iwd2025-redefinepossible-womentechmakers-activity-7304234567890123456-example) |
+| **2024** |||||
+| Oct-Nov 2024 | CloudSeekho Season 5 | Campaign Lead & Mentor (with GDSC MUET) | Multiple Locations, Sindh | [LinkedIn Post](https://www.linkedin.com/posts/hasnainkk_devfest-cloudseekho-gcc-activity-7252166405461057536-JDx7) |
+| March 11, 2024 | Women Techmakers IWD 2024 | Keynote Speaker & Workshop Lead: "Impact the Future" (Gemini & Vertex AI) | Hyderabad | [Event Post](https://www.linkedin.com/posts/robinamirbahar_iwd-impactthefuture-buildwithai-activity-7278475638364123136-miuj) |
+| Feb 22, 2024 | WTM IWD Campaign Launch | Speaker: "Impact the Future with AI" Campaign Announcement | Virtual | [Announcement](https://www.linkedin.com/posts/robinamirbahar_ai-internationalwomensday2024-googleai-activity-7166854398898376705-sJ38) |
+| **2023** |||||
+| Dec 30, 2023 | DevFest Sindh 2023 | Host/MC (1000+ attendees) | Karachi | [Event Page](https://gdg.community.dev/events/details/google-gdg-kolachi-presents-devfest-sindh-2023-techsaymustaqbil/) |
+| Dec 9, 2023 | Road to DevFest Sindh 2023 | Host/MC & Organizer (300+ attendees) | Jamshoro | [Event Page](https://gdg.community.dev/events/details/google-gdg-kolachi-presents-road-to-devfest-sindh-2023-techsayuraan/) |
+| Oct 2023 | DevFest Hyderabad | Co-Organizer & Speaker | Hyderabad | [LinkedIn Post](https://www.linkedin.com/posts/hasnainkk_devfest-cloudseekho-gcc-activity-7252166405461057536-JDx7) |
+| Sept 2023 | Build with AI Workshop | Workshop Lead: Building AI-powered Apps with Gemini and Gemma | Hyderabad | [LinkedIn Post](https://www.linkedin.com/posts/robinamirbahar_buildwithai-gemini-ai-activity-7300000000000000000-example) |
+| Aug 2023 | Road to Women Techmakers | Mentor: WTM Application Mentorship Program | Hyderabad | [LinkedIn Post](https://www.linkedin.com/posts/robinamirbahar_wtm-mentorship-womenintech-activity-7300000000000000001-example) |
+
 ### 👩‍💻 Community & Education
 
-**[SheCloud](https://github.com/RobinaMirbahar/shecloud)** — Community initiative empowering women in cloud computing and AI through workshops, mentorship, and resources.
+**[Tech Talks & Workshops](https://gdg.community.dev/u/mypw6m/)** — Full speaker profile with event history, slide decks, and code samples from conference talks and mentoring sessions.
 
-![Stars](https://img.shields.io/github/stars/RobinaMirbahar/shecloud?style=social)
-
-**[Tech Talks & Workshops](https://github.com/RobinaMirbahar/tech-talks)** — Slide decks, code samples, and resources from conference talks and mentoring sessions.
+**[Gemini API Course for Beginners](https://github.com/RobinaMirbahar/gemini-api-course)** — Free hands-on course teaching Gemini API fundamentals with practical exercises.
 
 **[GDE Resources](https://github.com/RobinaMirbahar/gde-resources)** — Curated guides and best practices for Google Developer Experts.
 
@@ -121,7 +142,6 @@ As the **Women Techmakers Ambassador** for Hyderabad, I lead community initiativ
 **[Cloud Run Demos](https://github.com/RobinaMirbahar/cloud-run-demos)** — Serverless deployment examples for AI applications on Google Cloud Run.
 
 **[Kubernetes Operators for AI](https://github.com/RobinaMirbahar/k8s-operators)** — Custom operators to manage ML workloads on Kubernetes.
-
 ---
 
 
