@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Robina Mirbahar's GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 32, Total Commits  : 1010, Total PRs: 36, Total PRs Merged: 33, Merged PRs Percentage: 91.67, Total PRs Reviewed: 0, Total Issues: 4, Total Discussions Started: 5</desc>
+        <desc id="descId">Total Stars Earned: 32, Total Commits  : 1015, Total PRs: 37, Total PRs Merged: 34, Merged PRs Percentage: 91.89, Total PRs Reviewed: 1, Total Issues: 4, Total Discussions Started: 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 154.37066886381953;
+        stroke-dashoffset: 147.63921331374206;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >1010</text>
+      >1015</text>
     </g>
   </g><g transform="translate(0, 56)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >36</text>
+      >37</text>
     </g>
   </g><g transform="translate(0, 84)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged"
-      >33</text>
+      >34</text>
     </g>
   </g><g transform="translate(0, 112)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >91.67 %</text>
+      >91.89 %</text>
     </g>
   </g><g transform="translate(0, 140)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -237,7 +237,7 @@
         x="219.01"
         y="12.5"
         data-testid="reviews"
-      >0</text>
+      >1</text>
     </g>
   </g><g transform="translate(0, 168)">
     <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">
