@@ -22,7 +22,7 @@
 
 ## 👩‍💼 About Me
 
-AI Researcher, Cloud Solutions Architect, and Author with 6+ years of experience architecting resilient cloud systems and production-grade Generative AI workflows. I bridge fundamental AI research with scalable, real-world engineering while empowering global tech communities and women in STEM.
+AI Researcher, Cloud Solutions Architect, and Author with 6+ years of experience designing scalable multi-cloud infrastructure and building production-grade Generative AI systems. I bridge cutting-edge AI research with production engineering while empowering global tech communities and championing women in STEM.
 
 - 🤖 **Agentic AI & Generative Systems** — Multi-Agent Loops · Advanced RAG · Gemma & Gemini APIs · LangGraph
 - 🇵🇰 **Pakistan Lead @ IEEE AI Caravan** — Leading national initiatives across a global network of 94 countries
@@ -43,7 +43,7 @@ AI Researcher, Cloud Solutions Architect, and Author with 6+ years of experience
 </div>
 
 > ### 📘 **AI Engineering: From Classical ML to RAG & Agentic AI Systems (2026)**
-> An end-to-end guide bridging classical machine learning algorithms with modern production-scale Agentic AI, multi-agent coordination, advanced RAG architectures, and cloud deployment.  
+> An end-to-end practical guide bridging classical machine learning theory with modern enterprise RAG pipelines, autonomous multi-agent coordination, and resilient cloud-to-edge deployment.  
 > 👉 **[Available on Amazon](https://amazon.com/dp/B0GWCZWCF4)**
 
 ---
@@ -75,7 +75,7 @@ AI Researcher, Cloud Solutions Architect, and Author with 6+ years of experience
 
 ## 🌟 Women Techmakers Hyderabad Pakistan
 
-As the **Women Techmakers Ambassador** for Hyderabad, I lead initiatives to equip women with high-impact skills in AI and Cloud.
+As the **Women Techmakers Ambassador** for Hyderabad, I lead community initiatives to make women in technology more visible, supported, and equipped to lead.
 
 | Attribute | Details |
 |---|---|
@@ -86,8 +86,8 @@ As the **Women Techmakers Ambassador** for Hyderabad, I lead initiatives to equi
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/WTM%20Hyderabad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://pk.linkedin.com/company/women-techmaker-hyderabad-pakistan)
-[![Facebook](https://img.shields.io/badge/WTM%20Hyderabad-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100089581695566)
+[![LinkedIn](https://img.shields.io/badge/WTM%20Hyderabad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/women-techmaker-hyderabad-pakistan)
+[![Facebook](https://img.shields.io/badge/WTM%20Hyderabad-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/womentechmakershyderabadpakistan/)
 
 </div>
 
@@ -123,9 +123,9 @@ As the **Women Techmakers Ambassador** for Hyderabad, I lead initiatives to equi
 
 ---
 
-### 🎤 Tech Talks & Workshops
+## 🎤 Tech Talks & Workshops
 
-A collection of my keynote speaking engagements, workshops, and community events from 2023 to 2026.
+A collection of my speaking engagements, workshops, and community events from 2023 to 2026.
 
 | Date | Event | Role / Topic | Location | Link |
 |:---|---|---|:---:|:---:|
@@ -133,19 +133,21 @@ A collection of my keynote speaking engagements, workshops, and community events
 | Sept 12, 2026 | IEEE CS R8 AI Caravan | Pakistan Lead & Curriculum Committee (Inaugural Launch across 94 countries) | Global (Virtual) | [Announcement](https://lnkd.in/da5Dd_rK) |
 | Feb 21, 2026 | GDG Surrey (UK) | Speaker: *"Designing AI Systems With and Without Agents"* & *"Agentic Orchestration with Google Cloud ADK"* | Surrey, UK (Virtual) | [Event Link](https://gdg.community.dev/events/details/google-gdg-surrey-presents-day-1-how-to-design-ai-systems/) |
 | **2025** |||||
-| June 29, 2025 | AWS Cloud Club MUET | Speaker / Instructor: *"Getting Started with AWS"* | Jamshoro, Pakistan | [Event Link](https://www.meetup.com/aws-cloud-club-at-muet-jamshoro-pakistan/events/308684797/) |
+| June 29, 2025 | AWS Cloud Club MUET | Speaker / Instructor: *"Getting Started with AWS"* | Jamshoro, Pakistan | [Meetup Link](https://www.meetup.com/aws-cloud-club-at-muet-jamshoro-pakistan/events/308684797/) |
 | May 13, 2025 | GDG on Campus UMT Lahore | Speaker: *"Building Smart Apps with Google AI Technologies"* | Lahore, Pakistan | [Event Link](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-management-and-technology-lahore-pakistan-presents-building-smart-apps-with-google-ai-technologies-build-with-ai/) |
-| March 8, 2025 | Women Techmakers IWD 2025 | Keynote Speaker & Event Organizer: *#RedefinePossible (200+ attendees)* | Jamshoro, Pakistan | [Event Recap](https://pk.linkedin.com/company/women-techmaker-hyderabad-pakistan) |
+| March 8, 2025 | Women Techmakers IWD 2025 | Keynote Speaker & Event Organizer: *#RedefinePossible (200+ attendees)* | Jamshoro, Pakistan | [Facebook Post](https://www.facebook.com/womentechmakershyderabadpakistan/) |
 | **2024** |||||
 | Oct–Nov 2024 | CloudSeekho Season 5 | Campaign Lead & Mentor (with GDSC MUET) | Sindh, Pakistan | [LinkedIn Post](https://www.linkedin.com/posts/hasnainkk_devfest-cloudseekho-gcc-activity-7252166405461057536-JDx7) |
-| March 11, 2024 | Women Techmakers IWD 2024 | Keynote Speaker & Workshop Lead: *"Impact the Future with Gemini & Vertex AI"* | Hyderabad, Pakistan | [Event Post](https://www.linkedin.com/posts/robinamirbahar_iwd-impactthefuture-buildwithai-activity-7278475638364123136-miuj) |
+| March 11, 2024 | Women Techmakers IWD 2024 | Keynote Speaker & Workshop Lead: *"Impact the Future with Gemini & Vertex AI"* | Hyderabad, Pakistan | [Facebook Post](https://www.facebook.com/womentechmakershyderabadpakistan/) |
 | Feb 22, 2024 | WTM Global Campaign Launch | Speaker: *"Impact the Future with AI"* Announcement | Virtual | [Announcement](https://www.linkedin.com/posts/robinamirbahar_ai-internationalwomensday2024-googleai-activity-7166854398898376705-sJ38) |
 | **2023** |||||
-| Dec 30, 2023 | DevFest Sindh 2023 | Main Host / MC *(1,000+ attendees)* | Karachi, Pakistan | [Event Page](https://gdg.community.dev/events/details/google-gdg-kolachi-presents-devfest-sindh-2023-techsaymustaqbil/) |
-| Dec 9, 2023 | Road to DevFest Sindh 2023 | Host / MC & Organizer *(300+ attendees)* | Jamshoro, Pakistan | [Event Page](https://gdg.community.dev/events/details/google-gdg-kolachi-presents-road-to-devfest-sindh-2023-techsayuraan/) |
-| Oct 2023 | DevFest Hyderabad | Co-Organizer & Speaker | Hyderabad, Pakistan | [LinkedIn Post](https://www.linkedin.com/posts/hasnainkk_devfest-cloudseekho-gcc-activity-7252166405461057536-JDx7) |
-| Sept 2023 | Build with AI Workshop | Workshop Lead: *Building AI-powered Apps with Gemini and Gemma* | Hyderabad, Pakistan | [Community Link](https://pk.linkedin.com/company/women-techmaker-hyderabad-pakistan) |
-| Aug 2023 | Road to Women Techmakers | Lead Mentor: *WTM Application Mentorship Program* | Hyderabad, Pakistan | [WTM Chapter Link](https://pk.linkedin.com/company/women-techmaker-hyderabad-pakistan) |
+| Dec 30, 2023 | DevFest Sindh 2023 | Main Host / MC *(1,000+ attendees)* | Karachi, Pakistan | [GDG Kolachi Page](https://gdg.community.dev/events/details/google-gdg-kolachi-presents-devfest-sindh-2023-techsaymustaqbil/) |
+| Dec 9, 2023 | Road to DevFest Sindh 2023 | Host / MC & Organizer *(300+ attendees)* | Jamshoro, Pakistan | [GDG Kolachi Page](https://gdg.community.dev/events/details/google-gdg-kolachi-presents-road-to-devfest-sindh-2023-techsayuraan/) |
+| Oct 2023 | DevFest Hyderabad | Co-Organizer & Speaker | Hyderabad, Pakistan | [Facebook Recap](https://www.facebook.com/womentechmakershyderabadpakistan/) |
+| Sept 2023 | Build with AI Workshop | Workshop Lead: *Building AI-powered Apps with Gemini and Gemma* | Hyderabad, Pakistan | [Facebook Link](https://www.facebook.com/womentechmakershyderabadpakistan/) |
+| Aug 2023 | Road to Women Techmakers | Lead Mentor: *WTM Application Mentorship Program* | Hyderabad, Pakistan | [Facebook Link](https://www.facebook.com/womentechmakershyderabadpakistan/) |
+
+---
 
 ## 🛠️ Tech Stack & Skills
 
@@ -202,7 +204,7 @@ A collection of my keynote speaking engagements, workshops, and community events
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@robinacodesai)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/robinamirbahar)
 [![GDE Profile](https://img.shields.io/badge/GDE%20Profile-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile/u/106918534005910641104)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/robinamirbahar)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/womentechmakershyderabadpakistan/)
 
 <br/>
 
