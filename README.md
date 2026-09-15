@@ -50,13 +50,14 @@ AI Researcher, Cloud Solutions Architect, and Author with 6+ years of experience
 
 ## 🏆 Certifications & Global Distinctions
 
-### 🌟 Key Honors
+### 🌟 Major Honors & Industry Awards
+- 🏅 **Winner:** *Cross-Cutting Leader (Women in Tech / Community / Global Impact)* — [Server4Sale Legacy Awards](https://awards.server4sale.com.pk/legacy-winners)
+- 🏅 **Winner:** *Future Leaders Award 2025* – Global Impact Creator
 - ✅ **Google Developer Expert (GDE) in AI & Cloud** *(Google for Developers)*
-- ✅ **Pakistan Lead — IEEE Computer Society R8 AI Caravan (2026)** *(94 Countries)*
+- ✅ **Pakistan Lead — IEEE Computer Society R8 AI Caravan (2026)** *(Spanning 94 Countries)*
 - ✅ **Peer Reviewer — WiML @ NeurIPS 2026**
 - ✅ **Google Cloud Champion Innovator** — Pakistan's first and only
-- ✅ **Future Leaders Award 2025** – Global Impact Creator
-- ✅ **CompTIA Subject Matter Expert (SME)** & Technical Trainer
+- 🛡️ **CompTIA Subject Matter Expert (SME)** & Technical Trainer
 
 ### ☁️ Cloud & DevOps Certifications
 - ✅ Google Cloud Professional Cloud Architect
@@ -68,6 +69,7 @@ AI Researcher, Cloud Solutions Architect, and Author with 6+ years of experience
 
 [![View All Badges](https://img.shields.io/badge/Verified%20Badges%20on%20Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/robinamirbahar)
 [![Google Developer Profile](https://img.shields.io/badge/Google%20Developer%20Profile-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile/u/106918534005910641104)
+[![Server4Sale Award Winner](https://img.shields.io/badge/Legacy%20Winner-Cross--Cutting%20Leader-blueviolet?style=for-the-badge)](https://awards.server4sale.com.pk/legacy-winners)
 
 </div>
 
@@ -133,7 +135,7 @@ A collection of my speaking engagements, workshops, and community events from 20
 | Sept 12, 2026 | IEEE CS R8 AI Caravan | Pakistan Lead & Curriculum Committee (Inaugural Launch across 94 countries) | Global (Virtual) | [Announcement](https://lnkd.in/da5Dd_rK) |
 | Feb 21, 2026 | GDG Surrey (UK) | Speaker: *"Designing AI Systems With and Without Agents"* & *"Agentic Orchestration with Google Cloud ADK"* | Surrey, UK (Virtual) | [Event Link](https://gdg.community.dev/events/details/google-gdg-surrey-presents-day-1-how-to-design-ai-systems/) |
 | **2025** |||||
-| June 29, 2025 | AWS Cloud Club MUET | Speaker / Instructor: *"Getting Started with AWS"* | Jamshoro, Pakistan | [Meetup Link](https://www.meetup.com/aws-cloud-club-at-muet-jamshoro-pakistan/events/308684797/) |
+| June 29, 2025 | AWS Cloud Club MUET | Speaker / Instructor: *"Getting Started with AWS"* | Jamshoro, Pakistan | [Event Link](https://www.meetup.com/aws-cloud-club-at-muet-jamshoro-pakistan/events/308684797/) |
 | May 13, 2025 | GDG on Campus UMT Lahore | Speaker: *"Building Smart Apps with Google AI Technologies"* | Lahore, Pakistan | [Event Link](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-management-and-technology-lahore-pakistan-presents-building-smart-apps-with-google-ai-technologies-build-with-ai/) |
 | March 8, 2025 | Women Techmakers IWD 2025 | Keynote Speaker & Event Organizer: *#RedefinePossible (200+ attendees)* | Jamshoro, Pakistan | [Facebook Post](https://www.facebook.com/womentechmakershyderabadpakistan/) |
 | **2024** |||||
