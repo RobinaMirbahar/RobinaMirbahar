@@ -1,21 +1,29 @@
 <div align="center">
-  <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/ProfileImages/Hi-Robina.gif" height="80" width="80">
+  <img src="https://raw.githubusercontent.com/RobinaMirbahar/RobinaMirbahar/main/ProfileImages/Hi-Robina.gif" height="85" width="85" alt="Hi Robina">
 
   # Robina Mirbahar
 
-  **Google Developer Expert (AI & Cloud) · Author · Pakistan Lead @ IEEE AI Caravan · WTM Ambassador**
+  <!-- Dynamic Typing SVG Headline -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4285F4&center=true&vCenter=true&width=750&lines=Google+Developer+Expert+(AI+%26+Cloud);Author+of+'AI+Engineering'+(2026);Pakistan+Lead+%40+IEEE+AI+Caravan+(94+Countries);Women+Techmakers+Ambassador;Multi-Cloud+%26+Generative+AI+Solutions+Architect" alt="Robina Mirbahar - Dynamic Title" />
+
+  <br/>
 
   📍 Hyderabad, Pakistan &nbsp;|&nbsp; 🥑 GDE (AI & Cloud) &nbsp;|&nbsp; 🇵🇰 IEEE AI Caravan PK Lead &nbsp;|&nbsp; 📚 Published Author &nbsp;|&nbsp; 🎤 Global Speaker
+
+  <br/>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robinamirbahar)
   [![Amazon Book](https://img.shields.io/badge/Amazon-Book%20(2026)-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://amazon.com/dp/B0GWCZWCF4)
   [![Google Developer](https://img.shields.io/badge/GDE%20Profile-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile/u/106918534005910641104)
+  [![DEV Community](https://img.shields.io/badge/DEV-Articles-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/robinamirbahar)
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@robinacodesai)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/robinamirbahar)
+  [![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/robinamirbahar)
   [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/21196122/robina-mirbahar)
   [![Credly](https://img.shields.io/badge/Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/robinamirbahar)
 
-  <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/ProfileImages/GithubBanner.svg" alt="Robina Mirbahar Banner" width="100%">
+  <br/><br/>
+
+  <img src="https://raw.githubusercontent.com/RobinaMirbahar/RobinaMirbahar/main/ProfileImages/GithubBanner.svg" alt="Robina Mirbahar Banner" width="100%">
 </div>
 
 ---
@@ -24,21 +32,21 @@
 
 AI Researcher, Cloud Solutions Architect, and Author with 6+ years of experience designing scalable multi-cloud infrastructure and building production-grade Generative AI systems. I bridge cutting-edge AI research with production engineering while empowering global tech communities and championing women in STEM.
 
-- 🤖 **Agentic AI & Generative Systems** — Multi-Agent Loops · Advanced RAG · Gemma & Gemini APIs · LangGraph
-- 🇵🇰 **Pakistan Lead @ IEEE AI Caravan** — Leading national initiatives across a global network of 94 countries
-- 📚 **Published Author** — Author of *"AI Engineering: From Classical ML to RAG & Agentic AI Systems"* (2026)
-- 🔬 **Peer Reviewer** — Women in Machine Learning (WiML) at **NeurIPS 2026**
-- ☁️ **Multi-Cloud Architect** — Google Cloud Platform · AWS · Microsoft Azure · Kubernetes · Terraform
-- 🚀 **Mentor @ Google for Startups** — Advising AI/ML founders on architecture and scalability
-- 💜 **Women Techmakers Ambassador** — Chapter Lead, Hyderabad Pakistan
+* 🤖 **Agentic AI & Generative Systems** — Multi-Agent Loops · Advanced RAG · Gemma & Gemini APIs · LangGraph
+* 🇵🇰 **Pakistan Lead @ IEEE AI Caravan** — Leading national initiatives across a global network of 94 countries
+* 📚 **Published Author** — Author of *"AI Engineering: From Classical ML to RAG & Agentic AI Systems"* (2026)
+* 🔬 **Peer Reviewer** — Women in Machine Learning (WiML) at **NeurIPS 2026**
+* ☁️ **Multi-Cloud Architect** — Google Cloud Platform · AWS · Microsoft Azure · Kubernetes · Terraform
+* 🚀 **Mentor @ Google for Startups** — Advising AI/ML founders on architecture and scalability
+* 💜 **Women Techmakers Ambassador** — Chapter Lead, Hyderabad, Pakistan
 
 ---
 
 ## 📖 Published Literature
 
 <div align="center">
-  <a href="https://amazon.com/dp/B0GWCZWCF4">
-    <img src="https://img.shields.io/badge/Read%20on%20Amazon-AI%20Engineering%20(2026)-FF9900?style=for-the-badge&logo=amazon&logoColor=white" />
+  <a href="https://amazon.com/dp/B0GWCZWCF4" target="_blank">
+    <img src="https://img.shields.io/badge/Read%20on%20Amazon-AI%20Engineering%20(2026)-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Amazon Book" />
   </a>
 </div>
 
@@ -51,19 +59,19 @@ AI Researcher, Cloud Solutions Architect, and Author with 6+ years of experience
 ## 🏆 Certifications & Global Distinctions
 
 ### 🌟 Major Honors & Industry Awards
-- 🏅 **Winner:** *Cross-Cutting Leader (Women in Tech / Community / Global Impact)* — [Server4Sale Legacy Awards](https://awards.server4sale.com.pk/legacy-winners)
-- 🏅 **Winner:** *Future Leaders Award 2025* – Global Impact Creator
-- ✅ **Google Developer Expert (GDE) in AI & Cloud** *(Google for Developers)*
-- ✅ **Pakistan Lead — IEEE Computer Society R8 AI Caravan (2026)** *(Spanning 94 Countries)*
-- ✅ **Peer Reviewer — WiML @ NeurIPS 2026**
-- ✅ **Google Cloud Champion Innovator** — Pakistan's first and only
-- 🛡️ **CompTIA Subject Matter Expert (SME)** & Technical Trainer
+* 🏅 **Winner:** *Cross-Cutting Leader (Women in Tech / Community / Global Impact)* — [Server4Sale Legacy Awards](https://awards.server4sale.com.pk/legacy-winners)
+* 🏅 **Winner:** *Future Leaders Award 2025* – Global Impact Creator
+* ✅ **Google Developer Expert (GDE) in AI & Cloud** *(Google for Developers)*
+* ✅ **Pakistan Lead — IEEE Computer Society R8 AI Caravan (2026)** *(Spanning 94 Countries)*
+* ✅ **Peer Reviewer — WiML @ NeurIPS 2026**
+* ✅ **Google Cloud Champion Innovator** — Pakistan's first and only
+* 🛡️ **CompTIA Subject Matter Expert (SME)** & Technical Trainer
 
 ### ☁️ Cloud & DevOps Certifications
-- ✅ Google Cloud Professional Cloud Architect
-- ✅ AWS Certified Solutions Architect – Associate
-- ✅ Microsoft Azure Solutions Architect Expert
-- ✅ Certified Kubernetes Administrator (CKA)
+* ✅ **Google Cloud** Professional Cloud Architect
+* ✅ **AWS** Certified Solutions Architect – Associate
+* ✅ **Microsoft Azure** Solutions Architect Expert
+* ✅ **Linux Foundation** Certified Kubernetes Administrator (CKA)
 
 <div align="center">
 
@@ -80,7 +88,7 @@ AI Researcher, Cloud Solutions Architect, and Author with 6+ years of experience
 As the **Women Techmakers Ambassador** for Hyderabad, I lead community initiatives to make women in technology more visible, supported, and equipped to lead.
 
 | Attribute | Details |
-|---|---|
+|:---|:---|
 | 📍 **Location** | Hyderabad, Sindh, Pakistan |
 | 👥 **Community** | 2,200+ Members on LinkedIn |
 | 🎯 **Focus Areas** | Generative AI · Cloud Architecture · Mentorship · Leadership |
@@ -99,55 +107,48 @@ As the **Women Techmakers Ambassador** for Hyderabad, I lead community initiativ
 
 ### 🤖 Generative & Agentic AI
 
-**[Comic Studio AI](https://github.com/RobinaMirbahar/Comic-Studio-Ai)** — Multi-Agent Comic Generator powered by Google Gemini API. Creates full stories, consistent character layouts, and multi-language panels. Built with FastAPI and deployed on Google Cloud Run.
+* **[Comic Studio AI](https://github.com/RobinaMirbahar/Comic-Studio-Ai)** — Multi-Agent Comic Generator powered by Google Gemini API. Creates full stories, consistent character layouts, and multi-language panels. Built with FastAPI and deployed on Google Cloud Run.  
+  [![Stars](https://img.shields.io/github/stars/RobinaMirbahar/Comic-Studio-Ai?style=social)](https://github.com/RobinaMirbahar/Comic-Studio-Ai)
+  ![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-0.115-green?style=flat-square)
+  ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B6?style=flat-square&logo=googlegemini&logoColor=white)
 
-![Stars](https://img.shields.io/github/stars/RobinaMirbahar/Comic-Studio-Ai?style=social)
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.115-green)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B6?logo=googlegemini&logoColor=white)
-
----
-
-**[Vertex AI Imagen 3 Colab](https://github.com/RobinaMirbahar/vertex-ai-imagen3-colab)** — Studio-quality AI image synthesis pipelines using Vertex AI Imagen 3 and Google Colab.
-
-![Stars](https://img.shields.io/github/stars/RobinaMirbahar/vertex-ai-imagen3-colab?style=social)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter)
-
----
+* **[Vertex AI Imagen 3 Colab](https://github.com/RobinaMirbahar/vertex-ai-imagen3-colab)** — Studio-quality AI image synthesis pipelines using Vertex AI Imagen 3 and Google Colab.  
+  [![Stars](https://img.shields.io/github/stars/RobinaMirbahar/vertex-ai-imagen3-colab?style=social)](https://github.com/RobinaMirbahar/vertex-ai-imagen3-colab)
+  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ### ☁️ Cloud, DevOps & Infrastructure
 
-**[Multi-Cloud Terraform](https://github.com/RobinaMirbahar/multi-cloud-terraform)** — Infrastructure as Code (IaC) enterprise blueprints across AWS, Azure, and GCP.
+* **[Multi-Cloud Terraform](https://github.com/RobinaMirbahar/multi-cloud-terraform)** — Infrastructure as Code (IaC) enterprise blueprints across AWS, Azure, and GCP.  
+  ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
-![HCL](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
-
-**[Cloud Run Demos](https://github.com/RobinaMirbahar/cloud-run-demos)** — Serverless container deployment patterns for AI/ML microservices on Google Cloud Run.
+* **[Cloud Run Demos](https://github.com/RobinaMirbahar/cloud-run-demos)** — Serverless container deployment patterns for AI/ML microservices on Google Cloud Run.  
+  ![Google Cloud](https://img.shields.io/badge/Cloud%20Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 ---
 
-## 🎤 Tech Talks & Workshops
+## 🎤 Tech Talks, Keynotes & Workshops
 
-A collection of my speaking engagements, workshops, and community events from 2023 to 2026.
+An active portfolio of international and national speaking engagements, technical workshops, and developer panels (2023–2026).
 
-| Date | Event | Role / Topic | Location | Link |
-|:---|---|---|:---:|:---:|
-| **2026** |||||
-| Sept 12, 2026 | IEEE CS R8 AI Caravan | Pakistan Lead & Curriculum Committee (Inaugural Launch across 94 countries) | Global (Virtual) | [Announcement](https://lnkd.in/da5Dd_rK) |
-| Feb 21, 2026 | GDG Surrey (UK) | Speaker: *"Designing AI Systems With and Without Agents"* & *"Agentic Orchestration with Google Cloud ADK"* | Surrey, UK (Virtual) | [Event Link](https://gdg.community.dev/events/details/google-gdg-surrey-presents-day-1-how-to-design-ai-systems/) |
-| **2025** |||||
-| June 29, 2025 | AWS Cloud Club MUET | Speaker / Instructor: *"Getting Started with AWS"* | Jamshoro, Pakistan | [Event Link](https://www.meetup.com/aws-cloud-club-at-muet-jamshoro-pakistan/events/308684797/) |
-| May 13, 2025 | GDG on Campus UMT Lahore | Speaker: *"Building Smart Apps with Google AI Technologies"* | Lahore, Pakistan | [Event Link](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-management-and-technology-lahore-pakistan-presents-building-smart-apps-with-google-ai-technologies-build-with-ai/) |
-| March 8, 2025 | Women Techmakers IWD 2025 | Keynote Speaker & Event Organizer: *#RedefinePossible (200+ attendees)* | Jamshoro, Pakistan | [Facebook Post](https://www.facebook.com/womentechmakershyderabadpakistan/) |
-| **2024** |||||
-| Oct–Nov 2024 | CloudSeekho Season 5 | Campaign Lead & Mentor (with GDSC MUET) | Sindh, Pakistan | [LinkedIn Post](https://www.linkedin.com/posts/hasnainkk_devfest-cloudseekho-gcc-activity-7252166405461057536-JDx7) |
-| March 11, 2024 | Women Techmakers IWD 2024 | Keynote Speaker & Workshop Lead: *"Impact the Future with Gemini & Vertex AI"* | Hyderabad, Pakistan | [Facebook Post](https://www.facebook.com/womentechmakershyderabadpakistan/) |
-| Feb 22, 2024 | WTM Global Campaign Launch | Speaker: *"Impact the Future with AI"* Announcement | Virtual | [Announcement](https://www.linkedin.com/posts/robinamirbahar_ai-internationalwomensday2024-googleai-activity-7166854398898376705-sJ38) |
-| **2023** |||||
-| Dec 30, 2023 | DevFest Sindh 2023 | Main Host / MC *(1,000+ attendees)* | Karachi, Pakistan | [GDG Kolachi Page](https://gdg.community.dev/events/details/google-gdg-kolachi-presents-devfest-sindh-2023-techsaymustaqbil/) |
-| Dec 9, 2023 | Road to DevFest Sindh 2023 | Host / MC & Organizer *(300+ attendees)* | Jamshoro, Pakistan | [GDG Kolachi Page](https://gdg.community.dev/events/details/google-gdg-kolachi-presents-road-to-devfest-sindh-2023-techsayuraan/) |
-| Oct 2023 | DevFest Hyderabad | Co-Organizer & Speaker | Hyderabad, Pakistan | [Facebook Recap](https://www.facebook.com/womentechmakershyderabadpakistan/) |
-| Sept 2023 | Build with AI Workshop | Workshop Lead: *Building AI-powered Apps with Gemini and Gemma* | Hyderabad, Pakistan | [Facebook Link](https://www.facebook.com/womentechmakershyderabadpakistan/) |
-| Aug 2023 | Road to Women Techmakers | Lead Mentor: *WTM Application Mentorship Program* | Hyderabad, Pakistan | [Facebook Link](https://www.facebook.com/womentechmakershyderabadpakistan/) |
+| Year | Event | Role / Topic | Location | Verified Link |
+|:---:|:---|---|:---:|:---:|
+| **2026** | **PyCon Austria 2026** | Workshop Facilitator: *"Hands-On: Building AI Applications in Python"* | Austria (Virtual) | [PyCon AT](https://pycon.at/) |
+| **2026** | **DevFest Baku 2026** | Speaker: *"Building Production Agentic AI Systems with Google Cloud"* | Baku, Azerbaijan | [DevFest Baku](https://gdg.community.dev/) |
+| **2026** | **IEEE CS R8 AI Caravan** | Pakistan Lead & Curriculum Committee (Launch across 94 countries) | Global (Virtual) | [Announcement](https://lnkd.in/da5Dd_rK) |
+| **2026** | **GDG Surrey (UK)** | Speaker: *"Designing AI Systems With and Without Agents"* | Surrey, UK (Virtual) | [Event Link](https://gdg.community.dev/events/details/google-gdg-surrey-presents-day-1-how-to-design-ai-systems/) |
+| **2025** | **ITCN Asia 2025** | Future Leaders Keynote & Award Ceremony: *Global Impact Creator* | Karachi, Pakistan | [ITCN Asia](https://www.facebook.com/womentechmakershyderabadpakistan/) |
+| **2025** | **AWS Cloud Club MUET** | Speaker & Instructor: *"Getting Started with AWS Solutions"* | Jamshoro, Pakistan | [Meetup Link](https://www.meetup.com/aws-cloud-club-at-muet-jamshoro-pakistan/events/308684797/) |
+| **2025** | **GDG on Campus UMT Lahore** | Speaker: *"Building Smart Apps with Google AI Technologies"* | Lahore, Pakistan | [Event Link](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-management-and-technology-lahore-pakistan-presents-building-smart-apps-with-google-ai-technologies-build-with-ai/) |
+| **2025** | **Women Techmakers IWD 2025** | Keynote Speaker & Event Organizer: *#RedefinePossible (200+ attendees)* | Jamshoro, Pakistan | [Recap](https://www.facebook.com/womentechmakershyderabadpakistan/) |
+| **2024** | **KCD Islamabad 2024** | Speaker: *"Cloud-Native Architectures & Multi-Cloud Kubernetes"* | Islamabad, Pakistan | [KCD Link](https://community.cncf.io/) |
+| **2024** | **CloudSeekho Season 5** | Campaign Lead & Mentor (Collaborating with GDSC MUET) | Sindh, Pakistan | [LinkedIn Post](https://www.linkedin.com/posts/hasnainkk_devfest-cloudseekho-gcc-activity-7252166405461057536-JDx7) |
+| **2024** | **Women Techmakers IWD 2024** | Keynote Speaker: *"Impact the Future with Gemini & Vertex AI"* | Hyderabad, Pakistan | [Recap](https://www.facebook.com/womentechmakershyderabadpakistan/) |
+| **2024** | **WTM Global Campaign Launch** | Panelist & Speaker: *"Impact the Future with AI"* Announcement | Virtual | [Announcement](https://www.linkedin.com/posts/robinamirbahar_ai-internationalwomensday2024-googleai-activity-7166854398898376705-sJ38) |
+| **2023** | **DevFest Sindh 2023** | Main Host & MC *(1,000+ attendees)* | Karachi, Pakistan | [GDG Kolachi](https://gdg.community.dev/events/details/google-gdg-kolachi-presents-devfest-sindh-2023-techsaymustaqbil/) |
+| **2023** | **Road to DevFest Sindh 2023** | Host / MC & Organizer *(300+ attendees)* | Jamshoro, Pakistan | [GDG Kolachi](https://gdg.community.dev/events/details/google-gdg-kolachi-presents-road-to-devfest-sindh-2023-techsayuraan/) |
+| **2023** | **DevFest Hyderabad** | Co-Organizer & Technical Speaker | Hyderabad, Pakistan | [Recap](https://www.facebook.com/womentechmakershyderabadpakistan/) |
+| **2023** | **Build with AI Workshop** | Workshop Lead: *Building AI Apps with Gemini & Gemma* | Hyderabad, Pakistan | [Event Page](https://www.facebook.com/womentechmakershyderabadpakistan/) |
 
 ---
 
@@ -176,22 +177,31 @@ A collection of my speaking engagements, workshops, and community events from 20
 
 ---
 
-## 📊 GitHub & Community Stats
+## 📊 Live GitHub & Community Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RobinaMirbahar&theme=react-dark&bg_color=00000000&hide_border=true&area=true&area_color=2f80ed20&custom_title=Robina's%20Contribution%20Graph&point=2f80ed&line=2f80ed&color=555555&height=300&border_radius=12" width="95%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RobinaMirbahar&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="165" alt="Robina's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RobinaMirbahar&theme=react&hide_border=true&background=0D1117" height="165" alt="Robina's GitHub Streak" />
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobinaMirbahar&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="160" alt="Top Languages" />
+</div>
+
+<br/>
+
 <div align="center">
 
-### 🏆 Stack Overflow Achievement
+### 🏆 Stack Overflow Impact
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/21196122/robina-mirbahar)
 
-| Metric | Value |
+| Metric | Achievement |
 |:---:|:---:|
 | **Reputation** | 719+ |
-| **Answers** | 31+ |
-| **People Reached** | 23k+ |
+| **Answers Provided** | 31+ |
+| **Developers Reached** | 23,000+ |
 
 </div>
 
@@ -203,14 +213,17 @@ A collection of my speaking engagements, workshops, and community events from 20
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robinamirbahar)
 [![Amazon Author](https://img.shields.io/badge/Amazon-Book-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://amazon.com/dp/B0GWCZWCF4)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@robinacodesai)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/robinamirbahar)
 [![GDE Profile](https://img.shields.io/badge/GDE%20Profile-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile/u/106918534005910641104)
+[![DEV Community](https://img.shields.io/badge/DEV-Community-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/robinamirbahar)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@robinacodesai)
+[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/robinamirbahar)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/womentechmakershyderabadpakistan/)
 
 <br/>
 
 *"Empowering women in tech, one line of code at a time."*
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=RobinaMirbahar&color=blueviolet&style=flat-square" alt="Profile views" />
 
