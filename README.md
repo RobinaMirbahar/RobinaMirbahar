@@ -56,16 +56,32 @@ AI Researcher, Cloud Solutions Architect, and Author with 6+ years of experience
 
 ---
 
-## 🏆 Certifications & Global Distinctions
-
 ### 🌟 Major Honors & Industry Awards
-* 🏅 **Winner:** *Cross-Cutting Leader (Women in Tech / Community / Global Impact)* — [Server4Sale Legacy Awards](https://awards.server4sale.com.pk/legacy-winners)
-* 🏅 **Winner:** *Future Leaders Award 2025* – Global Impact Creator
-* ✅ **Google Developer Expert (GDE) in AI & Cloud** *(Google for Developers)*
-* ✅ **Pakistan Lead — IEEE Computer Society R8 AI Caravan (2026)** *(Spanning 94 Countries)*
-* ✅ **Peer Reviewer — WiML @ NeurIPS 2026**
-* ✅ **Google Cloud Champion Innovator** — Pakistan's first and only
-* 🛡️ **CompTIA Subject Matter Expert (SME)** & Technical Trainer
+
+* 🏅 **Winner:** *Cross-Cutting Leader (Women in Tech / Community / Global Impact)*  
+  [![Server4Sale Legacy Awards](https://img.shields.io/badge/Server4Sale_Awards-Legacy_Winner-7928CA?style=flat-square&logo=awesomelists&logoColor=white)](https://awards.server4sale.com.pk/legacy-winners)
+
+* 🏅 **Winner:** *Future Leaders Award 2025 (Global Impact Creator)*  
+  [![ITCN Asia](https://img.shields.io/badge/ITCN_Asia-Future_Leaders_Award_2025-FF5722?style=flat-square)](https://itcnasia.com/)
+
+* ✅ **Google Developer Expert (GDE) in AI & Cloud**  
+  [![Google Developer Profile](https://img.shields.io/badge/Google_Developers-GDE_Profile-4285F4?style=flat-square&logo=google&logoColor=white)](https://developers.google.com/profile/u/106918534005910641104)
+  [![Google Experts Directory](https://img.shields.io/badge/Google_Experts-Community_Directory-34A853?style=flat-square&logo=googlecloud&logoColor=white)](https://developers.google.com/community/experts)
+
+* ✅ **Pakistan Lead — IEEE Computer Society R8 AI Caravan (2026)** *(Spanning 94 Countries)*  
+  [![IEEE AI Caravan](https://img.shields.io/badge/IEEE_AI_Caravan-aicaravan.org-E11D48?style=flat-square)](https://aicaravan.org)
+  [![Announcement](https://img.shields.io/badge/Global_Launch-Announcement-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://lnkd.in/da5Dd_rK)
+
+* ✅ **Peer Reviewer — Women in Machine Learning (WiML) @ NeurIPS 2026**  
+  [![WiML](https://img.shields.io/badge/WiML-Workshop_Reviewer-8E75B6?style=flat-square)](https://wimlworkshop.github.io/)
+  [![NeurIPS](https://img.shields.io/badge/NeurIPS-Conference-2E7D32?style=flat-square)](https://neurips.cc/)
+
+* ✅ **Google Cloud Champion Innovator** — *Pakistan's First and Only*  
+  [![Google Cloud Champion](https://img.shields.io/badge/Google_Cloud-Champion_Innovator-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://cloud.google.com/innovators/champions)
+
+* 🛡️ **CompTIA Subject Matter Expert (SME) & Technical Trainer**  
+  [![CompTIA SME](https://img.shields.io/badge/CompTIA-Subject_Matter_Expert-C8102E?style=flat-square)](https://www.comptia.org/certifications/subject-matter-experts)
+  [![Credly Verification](https://img.shields.io/badge/Credly-Verified_Credentials-FF6B35?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/robinamirbahar)
 
 ### ☁️ Cloud & DevOps Certifications
 * ✅ **Google Cloud** Professional Cloud Architect
