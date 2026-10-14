@@ -108,7 +108,7 @@ As the **Women Techmakers Ambassador** for Hyderabad, I lead community initiativ
 | 📍 **Location** | Hyderabad, Sindh, Pakistan |
 | 👥 **Community** | 2,200+ Members on LinkedIn |
 | 🎯 **Focus Areas** | Generative AI · Cloud Architecture · Mentorship · Leadership |
-| 📧 **Contact** | `women.techmakers.hyd.pk@gmail.com` |
+| 📧 **Contact** | `mallah.robina@gmail.com` |
 
 <div align="center">
 
