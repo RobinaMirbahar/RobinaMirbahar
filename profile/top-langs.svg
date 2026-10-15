@@ -128,11 +128,11 @@
           cy="100"
           r="80"
           fill="transparent"
-          stroke="#3572A5"
+          stroke="#f1e05a"
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
           stroke-dashoffset="0"
-          size="35.946905648704096"
+          size="39.01355137000763"
           data-testid="lang-donut"
         />
       </g>
@@ -143,11 +143,11 @@
           cy="100"
           r="80"
           fill="transparent"
-          stroke="#f1e05a"
+          stroke="#3572A5"
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="180.68885552840678"
-          size="27.666245137777288"
+          stroke-dashoffset="196.10349819914236"
+          size="27.530848416334138"
           data-testid="lang-donut"
         />
       </g>
@@ -161,8 +161,8 @@
           stroke="#c6538c"
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="319.75457149201554"
-          size="21.314657308589158"
+          stroke-dashoffset="334.4886360101016"
+          size="16.32437031280414"
           data-testid="lang-donut"
         />
       </g>
@@ -173,11 +173,11 @@
           cy="100"
           r="80"
           fill="transparent"
-          stroke="#DA5B0B"
+          stroke="#384d54"
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="426.89372479513185"
-          size="8.148123313244934"
+          stroke-dashoffset="416.54387096879725"
+          size="7.115796577267168"
           data-testid="lang-donut"
         />
       </g>
@@ -188,11 +188,26 @@
           cy="100"
           r="80"
           fill="transparent"
-          stroke="#384d54"
+          stroke="#DA5B0B"
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="467.8506597414263"
-          size="6.924068591684514"
+          stroke-dashoffset="452.31176577132834"
+          size="6.240446674514571"
+          data-testid="lang-donut"
+        />
+      </g>
+    
+      <g class="stagger" style="animation-delay: 600ms">
+        <circle 
+          cx="150"
+          cy="100"
+          r="80"
+          fill="transparent"
+          stroke="#012456"
+          stroke-width="25"
+          stroke-dasharray="502.6548245743669"
+          stroke-dashoffset="483.67967205576645"
+          size="3.774986649072348"
           data-testid="lang-donut"
         />
       </g>
@@ -203,37 +218,44 @@
         <svg data-testid="lang-names" x="25">
           <g transform="translate(0, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#3572A5" />
+      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 35.95%
+        JavaScript 39.01%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
+      <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 27.67%
+        Python 27.53%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#c6538c" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        SCSS 21.31%
+        SCSS 16.32%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#DA5B0B" />
+      <circle cx="5" cy="6" r="5" fill="#384d54" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Jupyter Notebook 8.15%
+        Dockerfile 7.12%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#384d54" />
+      <circle cx="5" cy="6" r="5" fill="#DA5B0B" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Dockerfile 6.92%
+        Jupyter Notebook 6.24%
+      </text>
+    </g>
+  </g><g transform="translate(0, 50)">
+    <g class="stagger" style="animation-delay: 750ms">
+      <circle cx="5" cy="6" r="5" fill="#012456" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        PowerShell 3.77%
       </text>
     </g>
   </g></g>
