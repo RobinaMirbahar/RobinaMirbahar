@@ -42,6 +42,19 @@ AI Researcher, Cloud Solutions Architect, and Author with 6+ years of experience
 
 ---
 
+---
+
+## 🚀 Featured Open-Source Google Cloud & Agentic AI Architectures (2026)
+
+| Repository | Architecture & Tech Stack | Live Status |
+| :--- | :--- | :--- |
+| **[gemma4-multilora-adk-eval](https://github.com/RobinaMirbahar/gemma4-multilora-adk-eval)** | **Dynamic Multi-LoRA Hot-Swapping & CI/CD Agent Evaluation (`adk eval`)** on Cloud Run NVIDIA L4 GPUs with Gemma 4, vLLM & Cloud Storage FUSE | ![Stars](https://img.shields.io/github/stars/RobinaMirbahar/gemma4-multilora-adk-eval?style=flat-square&color=4285F4) ![Commit](https://img.shields.io/github/last-commit/RobinaMirbahar/gemma4-multilora-adk-eval?style=flat-square) |
+| **[slothsre-napops](https://github.com/RobinaMirbahar/slothsre-napops)** | **SlothSRE ("NapOps")** — Overnight Gemma 4 & Google ADK Incident Digest Agent with OpenTelemetry `gen_ai.*` Spans & Sentry AI Monitoring | ![Stars](https://img.shields.io/github/stars/RobinaMirbahar/slothsre-napops?style=flat-square&color=34A853) ![Commit](https://img.shields.io/github/last-commit/RobinaMirbahar/slothsre-napops?style=flat-square) |
+| **[streamforge-event-adk](https://github.com/RobinaMirbahar/streamforge-event-adk)** | **StreamForge** — Real-Time Event-Driven Multi-Agent Pipelines on Google Cloud with ADK (`ParallelAgent` & `LoopAgent`), Eventarc & Pub/Sub | ![Stars](https://img.shields.io/github/stars/RobinaMirbahar/streamforge-event-adk?style=flat-square&color=FBBC04) ![Commit](https://img.shields.io/github/last-commit/RobinaMirbahar/streamforge-event-adk?style=flat-square) |
+| **[a2a-mcp-mesh-cloudrun](https://github.com/RobinaMirbahar/a2a-mcp-mesh-cloudrun)** | **Agent-to-Agent (A2A) & Multi-MCP Mesh** on Cloud Run with Gemma 4, Google ADK, Spanner Graph (GQL) & AlloyDB (`pgvector` ScaNN) | ![Stars](https://img.shields.io/github/stars/RobinaMirbahar/a2a-mcp-mesh-cloudrun?style=flat-square&color=EA4335) ![Commit](https://img.shields.io/github/last-commit/RobinaMirbahar/a2a-mcp-mesh-cloudrun?style=flat-square) |
+| **[cloudguard-gemma-agent](https://github.com/RobinaMirbahar/cloudguard-gemma-agent)** | **CloudGuard** — 6-Part Production Gemma Enterprise Agent Platform (ADK, Cloud Run GPU, Firestore, Model Armor, Vertex AI QLoRA) | ![Stars](https://img.shields.io/github/stars/RobinaMirbahar/cloudguard-gemma-agent?style=flat-square&color=4285F4) ![Commit](https://img.shields.io/github/last-commit/RobinaMirbahar/cloudguard-gemma-agent?style=flat-square) |
+| **[cozy-ai-agent-cafe-game](https://github.com/RobinaMirbahar/cozy-ai-agent-cafe-game)** | **Prompt Paws: The Cozy AI Agent Cafe & Bakery** — 60 FPS HTML5 Canvas Simulation Game teaching RAG, Guardrails, Context Caching & Multi-Agent Loops | ![Stars](https://img.shields.io/github/stars/RobinaMirbahar/cozy-ai-agent-cafe-game?style=flat-square&color=7928CA) ![Commit](https://img.shields.io/github/last-commit/RobinaMirbahar/cozy-ai-agent-cafe-game?style=flat-square) |
+
 ## 📖 Published Literature
 
 <div align="center">
