@@ -49,6 +49,9 @@ AI Researcher, Cloud Solutions Architect, and Author with 6+ years of experience
 
 | Repository | Architecture & Tech Stack | Live Status |
 | :--- | :--- | :--- |
+| **[antigravity-science-plugin-cookbook](https://github.com/RobinaMirbahar/antigravity-science-plugin-cookbook)** | **Google Antigravity Science Plugin (`v1.3.1`) Cookbook & 3D WebGL Biomolecular Studio** - 41 Progressive-Disclosure Skills, AlphaGenome, AlphaFold, DeepMind Aeneas/Ithaca, 3D Mol* Sidecar & 3 Custom Plugins | ![Stars](https://img.shields.io/github/stars/RobinaMirbahar/antigravity-science-plugin-cookbook?style=flat-square&color=4285F4) ![Commit](https://img.shields.io/github/last-commit/RobinaMirbahar/antigravity-science-plugin-cookbook?style=flat-square) |
+| **[gemini-4-argon-cookbook](https://github.com/RobinaMirbahar/gemini-4-argon-cookbook)** | **Google DeepMind Gemini 4 Argon (`gemini-4-argon`) Cookbook & Live 3D Studio** - 1M/1M Unified Token Horizon, Long-Decode Continuation Protocol, Cryptographic Thought Signatures & Pure-Python 3D Raytracer | ![Stars](https://img.shields.io/github/stars/RobinaMirbahar/gemini-4-argon-cookbook?style=flat-square&color=34A853) ![Commit](https://img.shields.io/github/last-commit/RobinaMirbahar/gemini-4-argon-cookbook?style=flat-square) |
+| **[railpulse-gemma-cloudrun](https://github.com/RobinaMirbahar/railpulse-gemma-cloudrun)** | **RailPulse** - Real-Time Telemetry & Multimodal Predictive Maintenance Agent on Google Cloud Run with Gemma & Google ADK | ![Stars](https://img.shields.io/github/stars/RobinaMirbahar/railpulse-gemma-cloudrun?style=flat-square&color=FBBC04) ![Commit](https://img.shields.io/github/last-commit/RobinaMirbahar/railpulse-gemma-cloudrun?style=flat-square) |
 | **[gemma4-multilora-adk-eval](https://github.com/RobinaMirbahar/gemma4-multilora-adk-eval)** | **Dynamic Multi-LoRA Hot-Swapping & CI/CD Agent Evaluation (`adk eval`)** on Cloud Run NVIDIA L4 GPUs with Gemma 4, vLLM & Cloud Storage FUSE | ![Stars](https://img.shields.io/github/stars/RobinaMirbahar/gemma4-multilora-adk-eval?style=flat-square&color=4285F4) ![Commit](https://img.shields.io/github/last-commit/RobinaMirbahar/gemma4-multilora-adk-eval?style=flat-square) |
 | **[slothsre-napops](https://github.com/RobinaMirbahar/slothsre-napops)** | **SlothSRE ("NapOps")** — Overnight Gemma 4 & Google ADK Incident Digest Agent with OpenTelemetry `gen_ai.*` Spans & Sentry AI Monitoring | ![Stars](https://img.shields.io/github/stars/RobinaMirbahar/slothsre-napops?style=flat-square&color=34A853) ![Commit](https://img.shields.io/github/last-commit/RobinaMirbahar/slothsre-napops?style=flat-square) |
 | **[streamforge-event-adk](https://github.com/RobinaMirbahar/streamforge-event-adk)** | **StreamForge** — Real-Time Event-Driven Multi-Agent Pipelines on Google Cloud with ADK (`ParallelAgent` & `LoopAgent`), Eventarc & Pub/Sub | ![Stars](https://img.shields.io/github/stars/RobinaMirbahar/streamforge-event-adk?style=flat-square&color=FBBC04) ![Commit](https://img.shields.io/github/last-commit/RobinaMirbahar/streamforge-event-adk?style=flat-square) |
@@ -67,6 +70,38 @@ AI Researcher, Cloud Solutions Architect, and Author with 6+ years of experience
 > ### 📘 **AI Engineering: From Classical ML to RAG & Agentic AI Systems (2026)**
 > An end-to-end practical guide bridging classical machine learning theory with modern enterprise RAG pipelines, autonomous multi-agent coordination, and resilient cloud-to-edge deployment.  
 > 👉 **[Available on Amazon](https://amazon.com/dp/B0GWCZWCF4)**
+
+---
+
+## ✍️ Featured Technical Articles (Medium Google Cloud & DEV GDE Community)
+
+<div align="center">
+  <a href="https://medium.com/@robinamirbahar" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-Google%20Cloud%20%26%20AI%20Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Blog" />
+  </a>
+  <a href="https://dev.to/robinamirbahar" target="_blank">
+    <img src="https://img.shields.io/badge/DEV.to-Google%20Developer%20Experts%20(GDE)-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV Community" />
+  </a>
+</div>
+
+<br/>
+
+| Technical Deep Dive | Topics & Stack | Read on Medium / DEV.to |
+| :--- | :--- | :--- |
+| **From Ancient Epigraphy to 3D Proteins: Building Plugins, Skills & MCP Sidecars in Google Antigravity** | Google Antigravity (`v1.3.1`), 41 Science Skills, AlphaGenome, AlphaFold, DeepMind Aeneas/Ithaca, 3D Mol* WebGL Sidecar, Reproducibility Hooks | [![DEV.to GDE](https://img.shields.io/badge/DEV.to-Read_Article-0A0A0A?style=flat-square&logo=devdotto)](https://dev.to/gde/from-ancient-epigraphy-to-3d-proteins-building-plugins-skills-mcp-sidecars-in-google-antigravity-4l1m) [![GitHub](https://img.shields.io/badge/Code-Cookbook-181717?style=flat-square&logo=github)](https://github.com/RobinaMirbahar/antigravity-science-plugin-cookbook) |
+| **Building a Live 3D & 1M-Token Engineering Cookbook with Google DeepMind's Gemini 4 Argon** | `gemini-4-argon`, 1M Input / 1M Output Long-Decode Continuation Protocol, Cryptographic `thought_signature`, WebGL 3D Physics & Pure-Python Raytracer | [![Medium](https://img.shields.io/badge/Medium-Read_Article-12100E?style=flat-square&logo=medium)](https://medium.com/@robinamirbahar) [![DEV.to GDE](https://img.shields.io/badge/DEV.to-Read_Article-0A0A0A?style=flat-square&logo=devdotto)](https://dev.to/gde/building-a-live-3d-1m-token-engineering-cookbook-with-google-deepminds-gemini-4-argon-h1k) |
+| **Deep Dive: Autonomous Code Auditing, 40% Python Speedups & Stateful 1M-Token Agents with Gemini 4 Argon** | DeepSWE v1.1 (77.9% SOTA), Multi-File Refactoring, Gemini Interactions API (`client.interactions.create`), Thought Signatures | [![DEV.to GDE](https://img.shields.io/badge/DEV.to-Read_Article-0A0A0A?style=flat-square&logo=devdotto)](https://dev.to/gde/deep-dive-autonomous-code-auditing-40-python-speedups-stateful-1m-token-agents-with-gemini-4-46oj) [![GitHub](https://img.shields.io/badge/Code-Repo-181717?style=flat-square&logo=github)](https://github.com/RobinaMirbahar/gemini-4-argon-cookbook) |
+| **SlothSRE (NapOps): An Overnight Gemma 4 & ADK Agent That Compresses 418 Lines of 3 AM Alerts into a 2-Line Morning Digest** | Gemma 4, Google ADK, OpenTelemetry `gen_ai.*` Spans, Sentry AI Monitoring, Cloud Run Jobs | [![Medium Google Cloud](https://img.shields.io/badge/Medium-Google_Cloud-12100E?style=flat-square&logo=medium)](https://medium.com/google-cloud/slothsre-napops-an-overnight-gemma-4-adk-agent-that-compresses-418-lines-of-3-am-alerts-into-a-c7656732c736) [![DEV.to GDE](https://img.shields.io/badge/DEV.to-Read_Article-0A0A0A?style=flat-square&logo=devdotto)](https://dev.to/gde/slothsre-napops-an-overnight-gemma-4-adk-agent-that-compresses-418-lines-of-3-am-alerts-into-a-1pk6) |
+| **Comic Studio AI: Turning Voice & Text Prompts into 4-Panel Comics with Google AI Studio, Gemini & Imagen** | Google AI Studio, Gemini Multimodal & TTS, Imagen, FastAPI, Google Cloud Run | [![DEV.to GDE](https://img.shields.io/badge/DEV.to-Read_Article-0A0A0A?style=flat-square&logo=devdotto)](https://dev.to/gde/comic-studio-ai-turning-voice-text-prompts-into-4-panel-comics-with-google-ai-studio-gemini--2npc) [![GitHub](https://img.shields.io/badge/Code-Repo-181717?style=flat-square&logo=github)](https://github.com/RobinaMirbahar/Comic-Studio-Ai) |
+| **Building Production-Ready Open-Weights AI Agents with Gemma, Google ADK, and Cloud Run GPUs** | Gemma Open-Weights, Google ADK, NVIDIA L4 Cloud Run GPUs, Model Armor, Vertex AI QLoRA | [![Medium Google Cloud](https://img.shields.io/badge/Medium-Google_Cloud-12100E?style=flat-square&logo=medium)](https://medium.com/google-cloud/building-production-ready-open-weights-ai-agents-with-gemma-google-adk-and-cloud-run-gpus-5d66fb7a34d5) [![DEV.to GDE](https://img.shields.io/badge/DEV.to-Read_Article-0A0A0A?style=flat-square&logo=devdotto)](https://dev.to/gde/building-production-ready-open-weights-ai-agents-with-gemma-google-adk-and-cloud-run-gpus-2mfg) |
+| **Event-Driven Multi-Agent Pipelines on Google Cloud with ADK, Gemma 3 and Eventarc** | Google ADK (`ParallelAgent` & `LoopAgent`), Gemma 3, Cloud Eventarc, Pub/Sub, Cloud Run | [![Medium Google Cloud](https://img.shields.io/badge/Medium-Google_Cloud-12100E?style=flat-square&logo=medium)](https://medium.com/google-cloud/beyond-chatbots-and-cron-jobs-event-driven-multi-agent-pipelines-on-google-cloud-with-adk-gemma-3-404edf88dd00) [![DEV.to GDE](https://img.shields.io/badge/DEV.to-Read_Article-0A0A0A?style=flat-square&logo=devdotto)](https://dev.to/gde/beyond-chatbots-and-cron-jobs-event-driven-multi-agent-pipelines-on-google-cloud-with-adk-gemma-3-3cbk) |
+| **I Built a Cozy 60 FPS AI Agent Bakery Game (Built with Gemma 4 & Antigravity) to Teach RAG & Guardrails** | Gemma 4, Google Antigravity, HTML5 60 FPS Simulation, RAG, Context Caching, Multi-Agent Loops | [![Medium Google Cloud](https://img.shields.io/badge/Medium-Google_Cloud-12100E?style=flat-square&logo=medium)](https://medium.com/google-cloud/i-built-a-cozy-60-fps-ai-agent-bakery-game-built-with-gemma-4-antigravity-to-teach-rag-9e36c43b8cbc) [![DEV.to GDE](https://img.shields.io/badge/DEV.to-Read_Article-0A0A0A?style=flat-square&logo=devdotto)](https://dev.to/gde/i-built-a-cozy-60-fps-ai-agent-bakery-game-to-teach-rag-guardrails-context-caching-multi-agent-2ek) |
+| **Architecting Autonomous Lakehouse Agents: Governed Iceberg Analytics with Gemini 2.5 Flash and BigLake** | Gemini 2.5 Flash, BigQuery BigLake, Apache Iceberg, Autonomous Data Agents | [![Medium Google Cloud](https://img.shields.io/badge/Medium-Google_Cloud-12100E?style=flat-square&logo=medium)](https://medium.com/google-cloud/architecting-autonomous-lakehouse-agents-governed-iceberg-analytics-with-gemini-2-5-e12db4afd9db) [![DEV.to GDE](https://img.shields.io/badge/DEV.to-Read_Article-0A0A0A?style=flat-square&logo=devdotto)](https://dev.to/gde/architecting-autonomous-lakehouse-agents-governed-iceberg-analytics-with-gemini-25-flash-and-4ai9) |
+| **FreelanceShield AI: Local Open-Weight Gemma Scope Creep Detector & TabPFN Invoice Risk Forecaster** | Local Open-Weight Gemma, TabPFN Tabular Foundation Model, FastAPI, Privacy-First AI | [![DEV.to](https://img.shields.io/badge/DEV.to-Read_Article-0A0A0A?style=flat-square&logo=devdotto)](https://dev.to/robinamirbahar/freelanceshield-ai-local-open-weight-scope-creep-detector-tabpfn-invoice-risk-forecaster-83k) [![GitHub](https://img.shields.io/badge/Code-Repo-181717?style=flat-square&logo=github)](https://github.com/RobinaMirbahar/freelanceshield-open-ai-side-hustle) |
+| **Design a Fashion Collection with Vertex AI Imagen 3 & Gemini 2.0** | Google Cloud Vertex AI, Imagen 3, Gemini 2.0 Multimodal Generation | [![Medium Google Cloud](https://img.shields.io/badge/Medium-Google_Cloud-12100E?style=flat-square&logo=medium)](https://medium.com/google-cloud/design-a-fashion-collection-with-vertex-ai-imagen-3-gemini-2-0-c2bed4334106) [![GitHub](https://img.shields.io/badge/Code-Repo-181717?style=flat-square&logo=github)](https://github.com/RobinaMirbahar/vertex-ai-imagen3) |
+| **Integrating Duet AI into Development Workflow: A Practical Developer Guide** | Google Cloud Duet AI / Gemini Code Assist, Cloud Workstations & IDE Productivity | [![Medium Google Cloud](https://img.shields.io/badge/Medium-Google_Cloud-12100E?style=flat-square&logo=medium)](https://medium.com/google-cloud/integrating-duet-ai-into-development-workflow-a-tutorial-guide-on-how-developers-can-seamlessly-f3de35331fc5) |
+| **Shine on Your AWS Journey: A Practical Guide to Becoming an AWS Community Builder** | AWS Community Builders, Cloud Architecture & Technical Writing | [![Medium](https://img.shields.io/badge/Medium-Read_Article-12100E?style=flat-square&logo=medium)](https://medium.com/@robinamirbahar/shine-on-your-aws-journey-a-fun-and-practical-guide-to-become-an-aws-community-builder-6efe132c4fd1) [![DEV.to](https://img.shields.io/badge/DEV.to-Read_Article-0A0A0A?style=flat-square&logo=devdotto)](https://dev.to/aws-builders/embark-on-your-aws-odyssey-fun-guide-to-becoming-an-aws-community-builder-43p) |
+| **Best Practices for Seamless EKS Cluster Upgrades with Fargate & S3 Data Lake Migration** | Amazon EKS, AWS Fargate, Kubernetes Upgrades, AWS Transfer Family | [![DEV.to](https://img.shields.io/badge/DEV.to-EKS_Guide-0A0A0A?style=flat-square&logo=devdotto)](https://dev.to/aws-builders/best-practices-for-seamless-eks-cluster-upgrades-with-fargate-a-hands-on-guide-2epf) [![Medium](https://img.shields.io/badge/Medium-S3_Guide-12100E?style=flat-square&logo=medium)](https://medium.com/@robinamirbahar/migrate-data-into-s3-using-aws-transfer-family-b02033373f96) |
 
 ---
 
@@ -137,48 +172,55 @@ As the **Women Techmakers Ambassador** for Hyderabad, I lead community initiativ
 
 ### 🤖 Generative & Agentic AI
 
-* **[Comic Studio AI](https://github.com/RobinaMirbahar/Comic-Studio-Ai)** — Multi-Agent Comic Generator powered by Google Gemini API. Creates full stories, consistent character layouts, and multi-language panels. Built with FastAPI and deployed on Google Cloud Run.  
+* **[Comic Studio AI](https://github.com/RobinaMirbahar/Comic-Studio-Ai)** - Multi-Agent Comic Generator powered by Google Gemini API. Creates full stories, consistent character layouts, and multi-language panels. Built with FastAPI and deployed on Google Cloud Run.  
   [![Stars](https://img.shields.io/github/stars/RobinaMirbahar/Comic-Studio-Ai?style=social)](https://github.com/RobinaMirbahar/Comic-Studio-Ai)
   ![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square)
   ![FastAPI](https://img.shields.io/badge/FastAPI-0.115-green?style=flat-square)
   ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B6?style=flat-square&logo=googlegemini&logoColor=white)
 
-* **[Vertex AI Imagen 3 Colab](https://github.com/RobinaMirbahar/vertex-ai-imagen3-colab)** — Studio-quality AI image synthesis pipelines using Vertex AI Imagen 3 and Google Colab.  
-  [![Stars](https://img.shields.io/github/stars/RobinaMirbahar/vertex-ai-imagen3-colab?style=social)](https://github.com/RobinaMirbahar/vertex-ai-imagen3-colab)
+* **[Vertex AI Imagen 3 Studio](https://github.com/RobinaMirbahar/vertex-ai-imagen3)** - Studio-quality AI image synthesis and fashion collection design pipelines using Google Cloud Vertex AI Imagen 3, Gemini, and Google Colab.  
+  [![Stars](https://img.shields.io/github/stars/RobinaMirbahar/vertex-ai-imagen3?style=social)](https://github.com/RobinaMirbahar/vertex-ai-imagen3)
   ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+* **[AI Code Debugger Pro](https://github.com/RobinaMirbahar/AI-CODE-DEBUGGER)** - Automated Python static analysis, bug detection, and Gemini-assisted refactoring studio ([Live App](https://ai-code-debugger.streamlit.app/)).  
+  [![Stars](https://img.shields.io/github/stars/RobinaMirbahar/AI-CODE-DEBUGGER?style=social)](https://github.com/RobinaMirbahar/AI-CODE-DEBUGGER)
 
 ### ☁️ Cloud, DevOps & Infrastructure
 
-* **[Multi-Cloud Terraform](https://github.com/RobinaMirbahar/multi-cloud-terraform)** — Infrastructure as Code (IaC) enterprise blueprints across AWS, Azure, and GCP.  
-  ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+* **[AWS Cloud Solutions & Architecture](https://github.com/RobinaMirbahar/AWS-Cloud-Solutions)** - Cloud architecture blueprints, serverless data lakes, and production infrastructure patterns across AWS and Google Cloud.  
+  [![Stars](https://img.shields.io/github/stars/RobinaMirbahar/AWS-Cloud-Solutions?style=social)](https://github.com/RobinaMirbahar/AWS-Cloud-Solutions)
+  ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
-* **[Cloud Run Demos](https://github.com/RobinaMirbahar/cloud-run-demos)** — Serverless container deployment patterns for AI/ML microservices on Google Cloud Run.  
-  ![Google Cloud](https://img.shields.io/badge/Cloud%20Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+* **[Azure Administrator Study Guide (AZ-104)](https://github.com/RobinaMirbahar/AZ-104-Microsoft-Azure-Administrator-Study-Guide)** - Hands-on enterprise governance, virtual networking, and Kubernetes administration labs on Microsoft Azure.  
+  [![Stars](https://img.shields.io/github/stars/RobinaMirbahar/AZ-104-Microsoft-Azure-Administrator-Study-Guide?style=social)](https://github.com/RobinaMirbahar/AZ-104-Microsoft-Azure-Administrator-Study-Guide)
+  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 ---
 
 ## 🎤 Tech Talks, Keynotes & Workshops
 
-An active portfolio of international and national speaking engagements, technical workshops, and developer panels (2023–2026).
+An active portfolio of international and national speaking engagements, technical workshops, and developer panels (2023-2026) with verified event pages and recordings:
 
 | Year | Event | Role / Topic | Location | Verified Link |
 |:---:|:---|---|:---:|:---:|
-| **2026** | **PyCon Austria 2026** | Workshop Facilitator: *"Hands-On: Building AI Applications in Python"* | Austria (Virtual) | [PyCon AT](https://pycon.at/) |
-| **2026** | **DevFest Baku 2026** | Speaker: *"Building Production Agentic AI Systems with Google Cloud"* | Baku, Azerbaijan | [DevFest Baku](https://gdg.community.dev/) |
-| **2026** | **IEEE CS R8 AI Caravan** | Pakistan Lead & Curriculum Committee (Launch across 94 countries) | Global (Virtual) | [Announcement](https://lnkd.in/da5Dd_rK) |
-| **2026** | **GDG Surrey (UK)** | Speaker: *"Designing AI Systems With and Without Agents"* | Surrey, UK (Virtual) | [Event Link](https://gdg.community.dev/events/details/google-gdg-surrey-presents-day-1-how-to-design-ai-systems/) |
-| **2025** | **ITCN Asia 2025** | Future Leaders Keynote & Award Ceremony: *Global Impact Creator* | Karachi, Pakistan | [ITCN Asia](https://www.facebook.com/womentechmakershyderabadpakistan/) |
-| **2025** | **AWS Cloud Club MUET** | Speaker & Instructor: *"Getting Started with AWS Solutions"* | Jamshoro, Pakistan | [Meetup Link](https://www.meetup.com/aws-cloud-club-at-muet-jamshoro-pakistan/events/308684797/) |
-| **2025** | **GDG on Campus UMT Lahore** | Speaker: *"Building Smart Apps with Google AI Technologies"* | Lahore, Pakistan | [Event Link](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-management-and-technology-lahore-pakistan-presents-building-smart-apps-with-google-ai-technologies-build-with-ai/) |
-| **2025** | **Women Techmakers IWD 2025** | Keynote Speaker & Event Organizer: *#RedefinePossible (200+ attendees)* | Jamshoro, Pakistan | [Recap](https://www.facebook.com/womentechmakershyderabadpakistan/) |
-| **2024** | **KCD Islamabad 2024** | Speaker: *"Cloud-Native Architectures & Multi-Cloud Kubernetes"* | Islamabad, Pakistan | [KCD Link](https://community.cncf.io/) |
-| **2024** | **CloudSeekho Season 5** | Campaign Lead & Mentor (Collaborating with GDSC MUET) | Sindh, Pakistan | [LinkedIn Post](https://www.linkedin.com/posts/hasnainkk_devfest-cloudseekho-gcc-activity-7252166405461057536-JDx7) |
-| **2024** | **Women Techmakers IWD 2024** | Keynote Speaker: *"Impact the Future with Gemini & Vertex AI"* | Hyderabad, Pakistan | [Recap](https://www.facebook.com/womentechmakershyderabadpakistan/) |
-| **2024** | **WTM Global Campaign Launch** | Panelist & Speaker: *"Impact the Future with AI"* Announcement | Virtual | [Announcement](https://www.linkedin.com/posts/robinamirbahar_ai-internationalwomensday2024-googleai-activity-7166854398898376705-sJ38) |
-| **2023** | **DevFest Sindh 2023** | Main Host & MC *(1,000+ attendees)* | Karachi, Pakistan | [GDG Kolachi](https://gdg.community.dev/events/details/google-gdg-kolachi-presents-devfest-sindh-2023-techsaymustaqbil/) |
-| **2023** | **Road to DevFest Sindh 2023** | Host / MC & Organizer *(300+ attendees)* | Jamshoro, Pakistan | [GDG Kolachi](https://gdg.community.dev/events/details/google-gdg-kolachi-presents-road-to-devfest-sindh-2023-techsayuraan/) |
-| **2023** | **DevFest Hyderabad** | Co-Organizer & Technical Speaker | Hyderabad, Pakistan | [Recap](https://www.facebook.com/womentechmakershyderabadpakistan/) |
-| **2023** | **Build with AI Workshop** | Workshop Lead: *Building AI Apps with Gemini & Gemma* | Hyderabad, Pakistan | [Event Page](https://www.facebook.com/womentechmakershyderabadpakistan/) |
+| **2026** | **GDG Vaasa (Finland)** | Speaker: *"Mastering Multi-Agent Orchestration with Google Cloud ADK"* | Vaasa, Finland (Hybrid) | [GDG Event Page](https://gdg.community.dev/events/details/google-gdg-vaasa-presents-mastering-multi-agent-orchestration-with-google-cloud-adk/) |
+| **2026** | **GDG Ahlen (Germany) - Build with AI 2026** | Speaker & Mentor: *"Build with AI 2026: Agentic Workflows & Gemini"* | Ahlen, Germany | [GDG Event Page](https://gdg.community.dev/events/details/google-gdg-ahlen-presents-build-with-ai-2026-location-nrw-ahlen-schuhfabrik-ev-7-konigstrasse/) |
+| **2026** | **GDG Surrey (UK)** | Speaker: *"Day 1: How to Design AI Systems With and Without Agents"* | Surrey, UK (Virtual) | [GDG Event Page](https://gdg.community.dev/events/details/google-gdg-surrey-presents-day-1-how-to-design-ai-systems/) |
+| **2026** | **DevFest Baku 2026 (GDG Baku)** | Speaker: *"Building Production Agentic AI Systems with Google Cloud"* | Baku, Azerbaijan | [DevFest Baku Event](https://gdg.community.dev/events/details/google-gdg-baku-presents-devfest-baku-2026/) |
+| **2026** | **IEEE CS R8 AI Caravan** | Pakistan Lead & Curriculum Committee ([`ai-administrator-caravan-2026`](https://github.com/RobinaMirbahar/ai-administrator-caravan-2026) across 94 countries) | Global | [Launch Post](https://lnkd.in/da5Dd_rK) · [Lab Repo](https://github.com/RobinaMirbahar/ai-administrator-session-01-lab) |
+| **2026** | **PyCon Austria 2026** | Workshop Facilitator: *"Hands-On: Building AI Applications in Python"* | Eisenstadt, Austria | [PyCon AT Conference](https://pycon.at/) |
+| **2025** | **GDG on Campus UMT Lahore** | Speaker: *"Building Smart Apps with Google AI Technologies (Build with AI)"* | Lahore, Pakistan | [GDG Event Page](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-management-and-technology-lahore-pakistan-presents-building-smart-apps-with-google-ai-technologies-build-with-ai/) · [YouTube Video](https://www.youtube.com/watch?v=MvbkK2NOFJ0) |
+| **2025** | **AWS Cloud Club MUET** | Speaker & Instructor: *"Getting Started with AWS Solutions & Cloud Roadmap"* | Jamshoro, Pakistan | [Meetup Event](https://www.meetup.com/aws-cloud-club-at-muet-jamshoro-pakistan/events/308684797/) · [YouTube Video](https://www.youtube.com/watch?v=jCqOCJvirc4) |
+| **2025** | **Google I/O Extended & Build with AI** | Lead Trainer: *"300+ Builders Trained to Build with AI at Google I/O"* | Sindh, Pakistan | [Digital Pakistan Feature](https://digitalpakistan.pk/300-builders-trained-to-build-with-ai-at-google-i-o/) |
+| **2025** | **GDG Live Pakistan - IWD Special** | Featured Speaker: *"IWD & Ramadan: Celebrating Women in AI & Cloud"* | Pakistan (Virtual) | [GDG Event Page](https://gdg.community.dev/events/details/google-gdg-live-pakistan-presents-iwd-ramadan-celebrating-muslim-women/) |
+| **2025** | **Women Techmakers IWD 2025** | Keynote Speaker & Event Organizer: *#RedefinePossible (200+ attendees)* | Hyderabad / Jamshoro | [WTM Hyderabad Portal](https://wtm-hyd-pk.vercel.app/) · [WTM LinkedIn](https://www.linkedin.com/company/women-techmaker-hyderabad-pakistan) |
+| **2025** | **ITCN Asia 2025** | Future Leaders Keynote & Award Ceremony: *Global Impact Creator* | Karachi, Pakistan | [ITCN Asia](https://itcnasia.com/) · [Innovator Interview](https://www.youtube.com/watch?v=SIjynr2ZbgA) |
+| **2024** | **CNCF Cloud Native Islamabad** | Speaker: *"Cloud-Native Architectures & Multi-Cloud Kubernetes"* | Islamabad, Pakistan | [CNCF Chapter Page](https://community.cncf.io/islamabad/) |
+| **2024** | **CloudSeekho Season 5 (Google Cloud)** | Campaign Lead & Mentor (Collaborating with GDSC MUET) | Sindh, Pakistan | [Verified LinkedIn Recap](https://www.linkedin.com/posts/hasnainkk_devfest-cloudseekho-gcc-activity-7252166405461057536-JDx7) |
+| **2024** | **WTM Global Campaign & IWD 2024** | Panelist & Keynote Speaker: *"Impact the Future with Gemini & Vertex AI"* | Hyderabad, Pakistan | [Verified LinkedIn Video](https://www.linkedin.com/posts/robinamirbahar_ai-internationalwomensday2024-googleai-activity-7166854398898376705-sJ38) |
+| **2023** | **DevFest Sindh 2023 (GDG Kolachi)** | Main Host & MC *(1,000+ attendees)* | Karachi, Pakistan | [GDG Event Page](https://gdg.community.dev/events/details/google-gdg-kolachi-presents-devfest-sindh-2023-techsaymustaqbil/) |
+| **2023** | **Road to DevFest Sindh 2023** | Host / MC & Organizer *(300+ attendees)* | Jamshoro, Pakistan | [GDG Event Page](https://gdg.community.dev/events/details/google-gdg-kolachi-presents-road-to-devfest-sindh-2023-techsayuraan/) |
+| **2023** | **Google Cloud Liftoff Hyderabad** | Co-Organizer & Cloud Speaker (GDG Kolachi & WTM Hyderabad) | Hyderabad, Pakistan | [GDG Event Page](https://gdg.community.dev/events/details/google-gdg-kolachi-presents-google-cloud-liftoff-hyderabad/) |
 
 ---
 
@@ -270,5 +312,5 @@ An active portfolio of international and national speaking engagements, technica
 If this project is helpful to your work:
 * **Star this Repository:** [**Star `RobinaMirbahar/RobinaMirbahar` on GitHub**](https://github.com/RobinaMirbahar/RobinaMirbahar) to bookmark it and help others discover it.
 * **Fork & Customize:** [**Fork `RobinaMirbahar/RobinaMirbahar`**](https://github.com/RobinaMirbahar/RobinaMirbahar/fork) to build and experiment with your own workflows.
-* **Sponsor on GitHub:** [**Sponsor `@RobinaMirbahar` on GitHub Sponsors (`github.com/sponsors/RobinaMirbahar`)**](https://github.com/sponsors/RobinaMirbahar) to support open-source AI, Google Cloud, and Gemini engineering projects!
+* **Sponsor on GitHub:** [**Sponsor `@RobinaMirbahar` on GitHub Sponsors (`github.com/sponsors/RobinaMirbahar`)**](https://github.com/sponsors/RobinaMirbahar) to support future open-source [**Google (`@google`)**](https://github.com/google), [**Google Gemini (`@google-gemini`)**](https://github.com/google-gemini), [**Google DeepMind (`@google-deepmind`)**](https://github.com/google-deepmind), [**Google Antigravity (`@google-antigravity`)**](https://antigravity.google/docs), and [**Google Cloud (`@GoogleCloudPlatform`)**](https://github.com/GoogleCloudPlatform) engineering cookbooks!
 
