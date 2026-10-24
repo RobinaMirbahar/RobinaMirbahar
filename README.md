@@ -37,6 +37,7 @@ AI Researcher, Cloud Solutions Architect, and Author with 6+ years of experience
 * 🇵🇰 **Pakistan Lead @ IEEE AI Caravan** — Leading national initiatives across a global network of 94 countries
 * 📚 **Published Author** — Author of *"AI Engineering: From Classical ML to RAG & Agentic AI Systems"* (2026)
 * 🔬 **Peer Reviewer** — Women in Machine Learning (WiML) at **NeurIPS 2026**
+* ⚖️ **Official Tech Competition & Hackathon Judge** — Judge for Google Cloud & Google for Developers **"All Things Agentic" Hackathon** on [Devpost](https://allthingsagentichackathon.devpost.com/)
 * ☁️ **Multi-Cloud Architect** — Google Cloud Platform · AWS · Microsoft Azure · Kubernetes · Terraform
 * 🚀 **Mentor @ Google for Startups** — Advising AI/ML founders on architecture and scalability
 * 💜 **Women Techmakers Ambassador** — Chapter Lead, Hyderabad, Pakistan
@@ -205,6 +206,7 @@ An active portfolio of international and national speaking engagements, hands-on
 
 | Year | Event / Channel | Role / Topic | Location | Verified Link |
 |:---:|:---|---|:---:|:---:|
+| **2026** | **Google Cloud "All Things Agentic" Hackathon (Devpost)** | **Official Competition Judge:** *Evaluating global agentic AI projects built with Gemini, Gemma, Vertex AI, Cloud Run & Google ADK* | Global (Devpost) | [Devpost Page](https://allthingsagentichackathon.devpost.com/) · [Judging Post](https://www.instagram.com/p/DdtjEJLinSU/) |
 | **2026** | **GDG Vaasa (Finland)** | Speaker: *"Mastering Multi-Agent Orchestration with Google Cloud ADK"* | Vaasa, Finland (Hybrid) | [GDG Event Page](https://gdg.community.dev/events/details/google-gdg-vaasa-presents-mastering-multi-agent-orchestration-with-google-cloud-adk/) |
 | **2026** | **Build with AI 2026 (`@RobinaCodesAI`)** | Workshop Lead: *"When (Not) to Build AI Agents: Hands-On ADK Workshop on Google Cloud"* | Global / YouTube | [YouTube Workshop](https://www.youtube.com/watch?v=jNqp0tBuORs) · [GDG Ahlen Event](https://gdg.community.dev/events/details/google-gdg-ahlen-presents-build-with-ai-2026-location-nrw-ahlen-schuhfabrik-ev-7-konigstrasse/) |
 | **2026** | **GDG Surrey (UK)** | Speaker: *"Day 1: How to Design AI Systems With and Without Agents"* | Surrey, UK (Virtual) | [GDG Event Page](https://gdg.community.dev/events/details/google-gdg-surrey-presents-day-1-how-to-design-ai-systems/) |
