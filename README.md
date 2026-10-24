@@ -161,6 +161,8 @@ As the **Women Techmakers Ambassador** for Hyderabad, I lead community initiativ
 
 <div align="center">
 
+[![WTM Portal](https://img.shields.io/badge/WTM%20Hyderabad%20Portal-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://wtm-hyd-pk.vercel.app/)
+[![WTM YouTube](https://img.shields.io/badge/WTM%20Hyderabad%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@womentechmakerhydpakistan)
 [![LinkedIn](https://img.shields.io/badge/WTM%20Hyderabad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/women-techmaker-hyderabad-pakistan)
 [![Facebook](https://img.shields.io/badge/WTM%20Hyderabad-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/womentechmakershyderabadpakistan/)
 
@@ -197,30 +199,36 @@ As the **Women Techmakers Ambassador** for Hyderabad, I lead community initiativ
 
 ---
 
-## 🎤 Tech Talks, Keynotes & Workshops
+## 🎤 Tech Talks, Keynotes, Workshops & Official YouTube Sessions
 
-An active portfolio of international and national speaking engagements, technical workshops, and developer panels (2023-2026) with verified event pages and recordings:
+An active portfolio of international and national speaking engagements, hands-on Google Cloud & AI workshops, and official sessions on [**`@RobinaCodesAI`**](https://www.youtube.com/@RobinaCodesAI) and [**`@womentechmakerhydpakistan`**](https://www.youtube.com/@womentechmakerhydpakistan):
 
-| Year | Event | Role / Topic | Location | Verified Link |
+| Year | Event / Channel | Role / Topic | Location | Verified Link |
 |:---:|:---|---|:---:|:---:|
 | **2026** | **GDG Vaasa (Finland)** | Speaker: *"Mastering Multi-Agent Orchestration with Google Cloud ADK"* | Vaasa, Finland (Hybrid) | [GDG Event Page](https://gdg.community.dev/events/details/google-gdg-vaasa-presents-mastering-multi-agent-orchestration-with-google-cloud-adk/) |
-| **2026** | **GDG Ahlen (Germany) - Build with AI 2026** | Speaker & Mentor: *"Build with AI 2026: Agentic Workflows & Gemini"* | Ahlen, Germany | [GDG Event Page](https://gdg.community.dev/events/details/google-gdg-ahlen-presents-build-with-ai-2026-location-nrw-ahlen-schuhfabrik-ev-7-konigstrasse/) |
+| **2026** | **Build with AI 2026 (`@RobinaCodesAI`)** | Workshop Lead: *"When (Not) to Build AI Agents: Hands-On ADK Workshop on Google Cloud"* | Global / YouTube | [YouTube Workshop](https://www.youtube.com/watch?v=jNqp0tBuORs) · [GDG Ahlen Event](https://gdg.community.dev/events/details/google-gdg-ahlen-presents-build-with-ai-2026-location-nrw-ahlen-schuhfabrik-ev-7-konigstrasse/) |
 | **2026** | **GDG Surrey (UK)** | Speaker: *"Day 1: How to Design AI Systems With and Without Agents"* | Surrey, UK (Virtual) | [GDG Event Page](https://gdg.community.dev/events/details/google-gdg-surrey-presents-day-1-how-to-design-ai-systems/) |
 | **2026** | **DevFest Baku 2026 (GDG Baku)** | Speaker: *"Building Production Agentic AI Systems with Google Cloud"* | Baku, Azerbaijan | [DevFest Baku Event](https://gdg.community.dev/events/details/google-gdg-baku-presents-devfest-baku-2026/) |
-| **2026** | **IEEE CS R8 AI Caravan** | Pakistan Lead & Curriculum Committee ([`ai-administrator-caravan-2026`](https://github.com/RobinaMirbahar/ai-administrator-caravan-2026) across 94 countries) | Global | [Launch Post](https://lnkd.in/da5Dd_rK) · [Lab Repo](https://github.com/RobinaMirbahar/ai-administrator-session-01-lab) |
-| **2026** | **PyCon Austria 2026** | Workshop Facilitator: *"Hands-On: Building AI Applications in Python"* | Eisenstadt, Austria | [PyCon AT Conference](https://pycon.at/) |
+| **2026** | **Google Women Techmakers (`@RobinaCodesAI`)** | Guide & Speaker: *"How to Succeed as a Google Women Techmakers Ambassador (2026 Official 90-Day Guide)"* | Global / YouTube | [YouTube Session](https://www.youtube.com/watch?v=-2GwCfaE4q4) |
+| **2026** | **Gemini Live Agent Challenge (`@RobinaCodesAI`)** | Creator & Demo: *"Comic Studio AI: From Voice to Comic in 60 Seconds with Google Gemini"* | Global / YouTube | [YouTube Demo](https://www.youtube.com/watch?v=SLJ4K5hf4Ec) · [GitHub Repo](https://github.com/RobinaMirbahar/Comic-Studio-Ai) |
+| **2026** | **IEEE CS R8 AI Caravan** | Pakistan Lead & Curriculum Committee ([`ai-administrator-caravan-2026`](https://github.com/RobinaMirbahar/ai-administrator-caravan-2026) across 94 countries) | Global (94 Countries) | [Launch Post](https://lnkd.in/da5Dd_rK) · [Session 01 Lab](https://github.com/RobinaMirbahar/ai-administrator-session-01-lab) |
 | **2025** | **GDG on Campus UMT Lahore** | Speaker: *"Building Smart Apps with Google AI Technologies (Build with AI)"* | Lahore, Pakistan | [GDG Event Page](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-management-and-technology-lahore-pakistan-presents-building-smart-apps-with-google-ai-technologies-build-with-ai/) · [YouTube Video](https://www.youtube.com/watch?v=MvbkK2NOFJ0) |
-| **2025** | **AWS Cloud Club MUET** | Speaker & Instructor: *"Getting Started with AWS Solutions & Cloud Roadmap"* | Jamshoro, Pakistan | [Meetup Event](https://www.meetup.com/aws-cloud-club-at-muet-jamshoro-pakistan/events/308684797/) · [YouTube Video](https://www.youtube.com/watch?v=jCqOCJvirc4) |
+| **2025** | **Google Cloud & Vertex AI (`@RobinaCodesAI`)** | GDE Tutorial: *"Build Production AI Apps with Gemini & Google Cloud Vertex AI"* & Live Stream | Global / YouTube | [Vertex AI Tutorial](https://www.youtube.com/watch?v=oLUmX8YOr-Y) · [Live Stream](https://www.youtube.com/watch?v=ijC1NQ3EdTw) |
+| **2025** | **Google Veo 3 & Gemini (`@RobinaCodesAI`)** | AI Filmmaking Showcases: *"Crayon Skies"* & *"Sofia's Song"* (Built with Google Veo 3 & Gemini) | Global / YouTube | [Crayon Skies Video](https://www.youtube.com/watch?v=qwILtvTzofc) · [Sofia's Song Video](https://www.youtube.com/watch?v=rS-gXC0XoH0) |
+| **2025** | **AWS Cloud Club MUET** | Speaker & Instructor: *"AWS Cloud Computing for Absolute Beginners: Complete Roadmap & Hands-On Guide"* | Jamshoro, Pakistan | [Meetup Event](https://www.meetup.com/aws-cloud-club-at-muet-jamshoro-pakistan/events/308684797/) · [YouTube Video](https://www.youtube.com/watch?v=jCqOCJvirc4) |
 | **2025** | **Google I/O Extended & Build with AI** | Lead Trainer: *"300+ Builders Trained to Build with AI at Google I/O"* | Sindh, Pakistan | [Digital Pakistan Feature](https://digitalpakistan.pk/300-builders-trained-to-build-with-ai-at-google-i-o/) |
-| **2025** | **GDG Live Pakistan - IWD Special** | Featured Speaker: *"IWD & Ramadan: Celebrating Women in AI & Cloud"* | Pakistan (Virtual) | [GDG Event Page](https://gdg.community.dev/events/details/google-gdg-live-pakistan-presents-iwd-ramadan-celebrating-muslim-women/) |
+| **2025** | **GDG Live Pakistan - IWD Special** | Featured Speaker: *"IWD & Ramadan: Celebrating Muslim Women in Tech"* | Pakistan (Virtual) | [GDG Event Page](https://gdg.community.dev/events/details/google-gdg-live-pakistan-presents-iwd-ramadan-celebrating-muslim-women/) |
 | **2025** | **Women Techmakers IWD 2025** | Keynote Speaker & Event Organizer: *#RedefinePossible (200+ attendees)* | Hyderabad / Jamshoro | [WTM Hyderabad Portal](https://wtm-hyd-pk.vercel.app/) · [WTM LinkedIn](https://www.linkedin.com/company/women-techmaker-hyderabad-pakistan) |
-| **2025** | **ITCN Asia 2025** | Future Leaders Keynote & Award Ceremony: *Global Impact Creator* | Karachi, Pakistan | [ITCN Asia](https://itcnasia.com/) · [Innovator Interview](https://www.youtube.com/watch?v=SIjynr2ZbgA) |
+| **2025** | **ITCN Asia 2025 & Cloud Champion** | Future Leaders Award (*Global Impact Creator*) & Pakistan's 1st Female Google Cloud Champion Innovator | Karachi, Pakistan | [Champion Interview](https://www.youtube.com/watch?v=SIjynr2ZbgA) · [2025 Unboxing](https://www.youtube.com/watch?v=me2S1yDSDxg) |
+| **2024** | **WTM Hyderabad (`@womentechmakerhydpakistan`)** | Speaker: *"From Dreams to Reality: Road to Become a Google Women Techmakers Ambassador"* | Hyderabad, Pakistan | [WTM Channel Video](https://www.youtube.com/watch?v=kV1ttLHSTns) · [RobinaCodesAI Video](https://www.youtube.com/watch?v=lg6PM70UMJk) |
+| **2024** | **AndroidSeekho Season 2 (`@womentechmakerhydpakistan`)** | Organizer & Lead: *"Unlock the Power of Android! #AndroidSeekho Season 2"* & Apigee API Deep Dive | Hyderabad, Pakistan | [AndroidSeekho Video](https://www.youtube.com/watch?v=_bZ9EuZceHA) · [Apigee Tutorial](https://www.youtube.com/watch?v=4ryDzSjVhec) |
 | **2024** | **CNCF Cloud Native Islamabad** | Speaker: *"Cloud-Native Architectures & Multi-Cloud Kubernetes"* | Islamabad, Pakistan | [CNCF Chapter Page](https://community.cncf.io/islamabad/) |
 | **2024** | **CloudSeekho Season 5 (Google Cloud)** | Campaign Lead & Mentor (Collaborating with GDSC MUET) | Sindh, Pakistan | [Verified LinkedIn Recap](https://www.linkedin.com/posts/hasnainkk_devfest-cloudseekho-gcc-activity-7252166405461057536-JDx7) |
 | **2024** | **WTM Global Campaign & IWD 2024** | Panelist & Keynote Speaker: *"Impact the Future with Gemini & Vertex AI"* | Hyderabad, Pakistan | [Verified LinkedIn Video](https://www.linkedin.com/posts/robinamirbahar_ai-internationalwomensday2024-googleai-activity-7166854398898376705-sJ38) |
-| **2023** | **DevFest Sindh 2023 (GDG Kolachi)** | Main Host & MC *(1,000+ attendees)* | Karachi, Pakistan | [GDG Event Page](https://gdg.community.dev/events/details/google-gdg-kolachi-presents-devfest-sindh-2023-techsaymustaqbil/) |
-| **2023** | **Road to DevFest Sindh 2023** | Host / MC & Organizer *(300+ attendees)* | Jamshoro, Pakistan | [GDG Event Page](https://gdg.community.dev/events/details/google-gdg-kolachi-presents-road-to-devfest-sindh-2023-techsayuraan/) |
-| **2023** | **Google Cloud Liftoff Hyderabad** | Co-Organizer & Cloud Speaker (GDG Kolachi & WTM Hyderabad) | Hyderabad, Pakistan | [GDG Event Page](https://gdg.community.dev/events/details/google-gdg-kolachi-presents-google-cloud-liftoff-hyderabad/) |
+| **2023** | **DevFest Sindh 2023 (GDG Kolachi & WTM)** | Main Host & MC *(1,000+ attendees)* - *Unleashing Tech Brilliance at #TechSayMustaqbil* | Karachi, Pakistan | [GDG Event Page](https://gdg.community.dev/events/details/google-gdg-kolachi-presents-devfest-sindh-2023-techsaymustaqbil/) · [WTM Highlights Video](https://www.youtube.com/watch?v=-MhI1OQhAkU) |
+| **2023** | **Road to DevFest Sindh 2023 (#TechSayUraan)** | Host / MC & Organizer *(300+ attendees)* | Jamshoro, Pakistan | [GDG Event Page](https://gdg.community.dev/events/details/google-gdg-kolachi-presents-road-to-devfest-sindh-2023-techsayuraan/) · [WTM Highlights Video](https://www.youtube.com/watch?v=_DTWvp6ij1U) |
+| **2023** | **WTM Hyderabad IWD 2023 (`#DareToBe`)** | Chapter Lead & Keynote Organizer: *"International Women's Day 2023 - Dare To Be"* & *"Women in Technology"* | Hyderabad, Pakistan | [IWD 2023 Video](https://www.youtube.com/watch?v=GtD-Oh2lufE) · [Women in Tech Video](https://www.youtube.com/watch?v=HpvTPOYfMIg) |
+| **2023** | **Google Cloud Liftoff Hyderabad & SheCloud** | Co-Organizer & Cloud Trainer (*SaaS/PaaS/IaaS & AWS Well-Architected Framework*) | Hyderabad, Pakistan | [GDG Event Page](https://gdg.community.dev/events/details/google-gdg-kolachi-presents-google-cloud-liftoff-hyderabad/) · [SheCloud Video](https://www.youtube.com/watch?v=P7MajyqfQ_0) |
 
 ---
 
