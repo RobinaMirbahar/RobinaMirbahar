@@ -46,39 +46,6 @@ AI Researcher, Cloud Solutions Architect, and Author with 6+ years of experience
 
 ---
 
-## 🏗️ My Production Agentic AI & Multi-Cloud Reference Architecture
-
-```mermaid
-flowchart TD
-    subgraph Models ["1. Frontier & Open-Weights Model Layer"]
-        M_Gemma["Open-Weights Gemma 4 (vLLM / Ollama / AI Edge)"]
-        M_Gemini["Google Gemini 4 Argon (1M Context & Thought Signatures)"]
-        M_Media["Multimodal Veo 3 & Vertex AI Imagen 3"]
-    end
-
-    subgraph Agents ["2. Multi-Agent & Protocol Layer"]
-        A_ADK["Google Agent Development Kit (ADK)"]
-        A_Flow["ParallelAgent Fan-Out & LoopAgent Critic"]
-        A_Mesh["A2A Horizontal Delegation & MCP Tool Sidecars"]
-    end
-
-    subgraph Safety ["3. Deterministic Guardrails & Observability"]
-        S_Guard["Pydantic v2 Schemas & Physical Safety Interlocks"]
-        S_Eval["CI/CD Trajectory Gatekeeping (adk eval)"]
-        S_OTel["OpenTelemetry gen_ai.* Spans & Sentry AI"]
-    end
-
-    subgraph Cloud ["4. Serverless Google Cloud & Data Layer"]
-        C_Run["Google Cloud Run (Scale-to-Zero CPU & L4 GPU)"]
-        C_Data["Cloud Spanner Graph (GQL) • AlloyDB pgvector • Firestore"]
-    end
-
-    Models --> A_ADK --> A_Flow & A_Mesh
-    A_Flow & A_Mesh --> S_Guard & S_Eval & S_OTel
-    S_Guard --> C_Run <--> C_Data
-```
-
----
 
 ## 🚀 Featured Open-Source Google Cloud & Agentic AI Architectures (2026)
 
