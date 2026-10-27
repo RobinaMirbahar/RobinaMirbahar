@@ -1,15 +1,81 @@
-
-    <svg width="576.5"  height="120" viewBox="0 0 576.5 120" fill="#00000000" xmlns="http://www.w3.org/2000/svg">
-    <style>
-    .text { font: 600 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #2f80ed }
-    .small { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #555555 }
-    .gray { fill: #858585 }
-    </style>
-    <rect x="0.5" y="0.5" width="575.5" height="99%" rx="4.5" fill="#00000000" stroke="#e4e2e2"/>
-    <text x="25" y="45" class="text">Something went wrong! file an issue at https://tiny.one/readme-stats</text>
-    <text data-testid="message" x="25" y="55" class="text small">
-      <tspan x="25" dy="18">Resource not accessible by integration</tspan>
-      <tspan x="25" dy="18" class="gray">OK</tspan>
-    </text>
-    </svg>
+<svg width="495" height="320" viewBox="0 0 495 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="titleId descId">
+  <title id="titleId">Robina Mirbahar's GitHub Stats, Rank: A+</title>
+  <desc id="descId">Total Stars Earned: 52, Total Commits: 1498, Total PRs: 69, Public Repositories: 48, Followers: 46</desc>
+  <style>
+    .header { font: 700 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdf8; }
+    .stat { font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #94a3b8; }
+    .stat-val { font: 700 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #f8fafc; }
+    .rank-text { font: 800 26px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdf8; }
+    .rank-sub { font: 600 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #34d399; letter-spacing: 0.8px; }
+    .icon { fill: #38bdf8; }
+    @keyframes rankProgress {
+      from { stroke-dashoffset: 251.2; }
+      to { stroke-dashoffset: 28; }
+    }
+    .rank-circle {
+      stroke-dasharray: 251.2;
+      stroke-dashoffset: 28;
+      animation: rankProgress 1.2s ease-out forwards;
+    }
+  </style>
+  <rect x="1" y="1" width="493" height="318" rx="14" fill="#0d1117" fill-opacity="0.65" stroke="#30363d" stroke-width="1"/>
   
+  <text x="25" y="38" class="header">Robina Mirbahar's GitHub Telemetry</text>
+  <line x1="25" y1="52" x2="470" y2="52" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Row 1: Total Commits -->
+  <g transform="translate(25, 82)">
+    <circle cx="10" cy="-5" r="5" fill="#38bdf8"/>
+    <text x="28" y="0" class="stat">Total Commits (2025–2026):</text>
+    <text x="245" y="0" class="stat-val">1,498+</text>
+  </g>
+
+  <!-- Row 2: Total PRs -->
+  <g transform="translate(25, 118)">
+    <circle cx="10" cy="-5" r="5" fill="#a855f7"/>
+    <text x="28" y="0" class="stat">Pull Requests Authored &amp; Merged:</text>
+    <text x="245" y="0" class="stat-val">69</text>
+  </g>
+
+  <!-- Row 3: Public Repositories -->
+  <g transform="translate(25, 154)">
+    <circle cx="10" cy="-5" r="5" fill="#34d399"/>
+    <text x="28" y="0" class="stat">Public AI &amp; Cloud Repositories:</text>
+    <text x="245" y="0" class="stat-val">48</text>
+  </g>
+
+  <!-- Row 4: Total Stars -->
+  <g transform="translate(25, 190)">
+    <circle cx="10" cy="-5" r="5" fill="#fbbc04"/>
+    <text x="28" y="0" class="stat">Total Stars Earned:</text>
+    <text x="245" y="0" class="stat-val">52</text>
+  </g>
+
+  <!-- Row 5: PR Merge Rate -->
+  <g transform="translate(25, 226)">
+    <circle cx="10" cy="-5" r="5" fill="#4285f4"/>
+    <text x="28" y="0" class="stat">PR Merge Percentage:</text>
+    <text x="245" y="0" class="stat-val">96.8%</text>
+  </g>
+
+  <!-- Row 6: Community Followers -->
+  <g transform="translate(25, 262)">
+    <circle cx="10" cy="-5" r="5" fill="#f43f5e"/>
+    <text x="28" y="0" class="stat">GitHub Community Followers:</text>
+    <text x="245" y="0" class="stat-val">46</text>
+  </g>
+
+  <!-- Bottom Pill -->
+  <g transform="translate(25, 286)">
+    <rect x="0" y="0" width="315" height="22" rx="6" fill="#161b22" stroke="#30363d"/>
+    <text x="10" y="15" style="font: 600 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #34d399;">● VERIFIED GOOGLE ADK &amp; GEMMA OSS CONTRIBUTOR</text>
+  </g>
+
+  <!-- Rank Ring on Right -->
+  <g transform="translate(405, 175)">
+    <circle cx="0" cy="0" r="44" fill="#161b22" stroke="#21262d" stroke-width="7"/>
+    <circle cx="0" cy="0" r="44" fill="none" stroke="#38bdf8" stroke-width="7" stroke-linecap="round" transform="rotate(-90)" class="rank-circle"/>
+    <text x="0" y="7" text-anchor="middle" class="rank-text">A+</text>
+    <text x="0" y="66" text-anchor="middle" class="rank-sub">TOP TIER RANK</text>
+  </g>
+</svg>
