@@ -4,7 +4,7 @@
   # Robina Mirbahar
 
   <!-- Dynamic Typing SVG Headline -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4285F4&center=true&vCenter=true&width=750&lines=Google+Developer+Expert+(AI+%26+Cloud);Co-Author+of+'AI+Engineering'+(2026);Instructor+%40+IEEE+AI+Caravan+(94+Countries);Women+Techmakers+Ambassador;Multi-Cloud+%26+Generative+AI+Solutions+Architect" alt="Robina Mirbahar - Dynamic Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4285F4&center=true&vCenter=true&width=750&lines=Google+Developer+Expert+(AI+%26+Cloud);Author+of+'AI+Engineering'+(2026);Instructor+%40+IEEE+AI+Caravan+(94+Countries);Women+Techmakers+Ambassador;Multi-Cloud+%26+Generative+AI+Solutions+Architect" alt="Robina Mirbahar - Dynamic Title" />
 
   <br/>
 
@@ -46,13 +46,48 @@ AI Researcher, Cloud Solutions Architect, and Author with 6+ years of experience
 
 ---
 
+## 🏗️ My Production Agentic AI & Multi-Cloud Reference Architecture
+
+```mermaid
+flowchart TD
+    subgraph Models ["1. Frontier & Open-Weights Model Layer"]
+        M_Gemma["Open-Weights Gemma 4 (vLLM / Ollama / AI Edge)"]
+        M_Gemini["Google Gemini 4 Argon (1M Context & Thought Signatures)"]
+        M_Media["Multimodal Veo 3 & Vertex AI Imagen 3"]
+    end
+
+    subgraph Agents ["2. Multi-Agent & Protocol Layer"]
+        A_ADK["Google Agent Development Kit (ADK)"]
+        A_Flow["ParallelAgent Fan-Out & LoopAgent Critic"]
+        A_Mesh["A2A Horizontal Delegation & MCP Tool Sidecars"]
+    end
+
+    subgraph Safety ["3. Deterministic Guardrails & Observability"]
+        S_Guard["Pydantic v2 Schemas & Physical Safety Interlocks"]
+        S_Eval["CI/CD Trajectory Gatekeeping (adk eval)"]
+        S_OTel["OpenTelemetry gen_ai.* Spans & Sentry AI"]
+    end
+
+    subgraph Cloud ["4. Serverless Google Cloud & Data Layer"]
+        C_Run["Google Cloud Run (Scale-to-Zero CPU & L4 GPU)"]
+        C_Data["Cloud Spanner Graph (GQL) • AlloyDB pgvector • Firestore"]
+    end
+
+    Models --> A_ADK --> A_Flow & A_Mesh
+    A_Flow & A_Mesh --> S_Guard & S_Eval & S_OTel
+    S_Guard --> C_Run <--> C_Data
+```
+
+---
+
 ## 🚀 Featured Open-Source Google Cloud & Agentic AI Architectures (2026)
 
 | Repository | Architecture & Tech Stack | Live Status |
 | :--- | :--- | :--- |
 | **[antigravity-science-plugin-cookbook](https://github.com/RobinaMirbahar/antigravity-science-plugin-cookbook)** | **Google Antigravity Science Plugin (`v1.3.1`) Cookbook & 3D WebGL Biomolecular Studio** - 41 Progressive-Disclosure Skills, AlphaGenome, AlphaFold, DeepMind Aeneas/Ithaca, 3D Mol* Sidecar & 3 Custom Plugins | ![Stars](https://img.shields.io/github/stars/RobinaMirbahar/antigravity-science-plugin-cookbook?style=flat-square&color=4285F4) ![Commit](https://img.shields.io/github/last-commit/RobinaMirbahar/antigravity-science-plugin-cookbook?style=flat-square) |
 | **[gemini-4-argon-cookbook](https://github.com/RobinaMirbahar/gemini-4-argon-cookbook)** | **Google DeepMind Gemini 4 Argon (`gemini-4-argon`) Cookbook & Live 3D Studio** - 1M/1M Unified Token Horizon, Long-Decode Continuation Protocol, Cryptographic Thought Signatures & Pure-Python 3D Raytracer | ![Stars](https://img.shields.io/github/stars/RobinaMirbahar/gemini-4-argon-cookbook?style=flat-square&color=34A853) ![Commit](https://img.shields.io/github/last-commit/RobinaMirbahar/gemini-4-argon-cookbook?style=flat-square) |
-| **[railpulse-gemma-cloudrun](https://github.com/RobinaMirbahar/railpulse-gemma-cloudrun)** | **RailPulse** - Real-Time Telemetry & Multimodal Predictive Maintenance Agent on Google Cloud Run with Gemma & Google ADK | ![Stars](https://img.shields.io/github/stars/RobinaMirbahar/railpulse-gemma-cloudrun?style=flat-square&color=FBBC04) ![Commit](https://img.shields.io/github/last-commit/RobinaMirbahar/railpulse-gemma-cloudrun?style=flat-square) |
+| **[railpulse-gemma-cloudrun](https://github.com/RobinaMirbahar/railpulse-gemma-cloudrun)** | **RailPulse AI (DevFest Baku 2026 Hands-On Lab)** — Live Rail Tracking & Trilingual (`EN`/`AZ`/`RU`) Smart Dispatch Agent powered by Open-Weights Gemma, Google ADK Function Calling, Deterministic Safety Interlocks, SVG Telemetry Gauges & Cloud Run | ![Stars](https://img.shields.io/github/stars/RobinaMirbahar/railpulse-gemma-cloudrun?style=flat-square&color=FBBC04) ![Commit](https://img.shields.io/github/last-commit/RobinaMirbahar/railpulse-gemma-cloudrun?style=flat-square) |
+| **[CoThread](https://github.com/RobinaMirbahar/CoThread)** | **CoThread** — Enterprise Collaborative AI Platform on Google Cloud Run, Firestore, Google ADK & MCP with Host-Sponsored Token Quotas *(Project Lead: Robina Mirbahar \| Co-Builder: Muhammad Hasnain)* | ![Stars](https://img.shields.io/github/stars/RobinaMirbahar/CoThread?style=flat-square&color=34A853) ![Commit](https://img.shields.io/github/last-commit/RobinaMirbahar/CoThread?style=flat-square) |
 | **[gemma4-multilora-adk-eval](https://github.com/RobinaMirbahar/gemma4-multilora-adk-eval)** | **Dynamic Multi-LoRA Hot-Swapping & CI/CD Agent Evaluation (`adk eval`)** on Cloud Run NVIDIA L4 GPUs with Gemma 4, vLLM & Cloud Storage FUSE | ![Stars](https://img.shields.io/github/stars/RobinaMirbahar/gemma4-multilora-adk-eval?style=flat-square&color=4285F4) ![Commit](https://img.shields.io/github/last-commit/RobinaMirbahar/gemma4-multilora-adk-eval?style=flat-square) |
 | **[slothsre-napops](https://github.com/RobinaMirbahar/slothsre-napops)** | **SlothSRE ("NapOps")** — Overnight Gemma 4 & Google ADK Incident Digest Agent with OpenTelemetry `gen_ai.*` Spans & Sentry AI Monitoring | ![Stars](https://img.shields.io/github/stars/RobinaMirbahar/slothsre-napops?style=flat-square&color=34A853) ![Commit](https://img.shields.io/github/last-commit/RobinaMirbahar/slothsre-napops?style=flat-square) |
 | **[streamforge-event-adk](https://github.com/RobinaMirbahar/streamforge-event-adk)** | **StreamForge** — Real-Time Event-Driven Multi-Agent Pipelines on Google Cloud with ADK (`ParallelAgent` & `LoopAgent`), Eventarc & Pub/Sub | ![Stars](https://img.shields.io/github/stars/RobinaMirbahar/streamforge-event-adk?style=flat-square&color=FBBC04) ![Commit](https://img.shields.io/github/last-commit/RobinaMirbahar/streamforge-event-adk?style=flat-square) |
