@@ -165,6 +165,7 @@ As the **Women Techmakers Ambassador** for Hyderabad, I lead community initiativ
 <div align="center">
 
 [![WTM Portal](https://img.shields.io/badge/WTM%20Hyderabad%20Portal-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://wtm-hyd-pk.vercel.app/)
+[![Advocu Member Profile](https://img.shields.io/badge/Advocu-Verified%20Member%20Directory-00B4D8?style=for-the-badge&logo=google&logoColor=white)](https://app.advocu.com/members/647df1db620ae753fc7cfa63)
 [![WTM YouTube](https://img.shields.io/badge/WTM%20Hyderabad%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@womentechmakerhydpakistan)
 [![LinkedIn](https://img.shields.io/badge/WTM%20Hyderabad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/women-techmaker-hyderabad-pakistan)
 [![Facebook](https://img.shields.io/badge/WTM%20Hyderabad-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/womentechmakershyderabadpakistan/)
@@ -229,6 +230,8 @@ An active portfolio of international and national speaking engagements, hands-on
 | **2024** | **CNCF Cloud Native Islamabad** | Speaker: *"Cloud-Native Architectures & Multi-Cloud Kubernetes"* | Islamabad, Pakistan | [CNCF Chapter Page](https://community.cncf.io/islamabad/) |
 | **2024** | **CloudSeekho Season 5 (Google Cloud)** | Campaign Lead & Mentor (Collaborating with GDSC MUET) | Sindh, Pakistan | [Verified LinkedIn Recap](https://www.linkedin.com/posts/hasnainkk_devfest-cloudseekho-gcc-activity-7252166405461057536-JDx7) |
 | **2024** | **WTM Global Campaign & IWD 2024** | Panelist & Keynote Speaker: *"Impact the Future with Gemini & Vertex AI"* | Hyderabad, Pakistan | [Verified LinkedIn Video](https://www.linkedin.com/posts/robinamirbahar_ai-internationalwomensday2024-googleai-activity-7166854398898376705-sJ38) |
+| **2024** | **WTM Hyderabad Newsletter** | Author & Editor: *"Unwrapping Tech in 2023 — Women Techmakers Hyderabad Year-End Edition"* | Hyderabad, Pakistan | [LinkedIn Newsletter](https://www.linkedin.com/pulse/unwrapping-tech-2023-women-techmaker-hyderabad-pakistan-otlff) · [Advocu Activity](https://app.advocu.com/members/647df1db620ae753fc7cfa63) |
+| **2023** | **GDSC FEST (GDSC MUET & WTM)** | Keynote Speaker & Co-Organizer: *"Empowering Student Developers & Women in Technology"* *(150+ attendees)* | Jamshoro, Pakistan | [GDSC MUET Event](https://www.linkedin.com/company/gdscmuet/posts/?feedView=all) · [Advocu Record](https://app.advocu.com/members/647df1db620ae753fc7cfa63) |
 | **2023** | **DevFest Sindh 2023 (GDG Kolachi & WTM)** | Main Host & MC *(1,000+ attendees)* - *Unleashing Tech Brilliance at #TechSayMustaqbil* | Karachi, Pakistan | [GDG Event Page](https://gdg.community.dev/events/details/google-gdg-kolachi-presents-devfest-sindh-2023-techsaymustaqbil/) · [WTM Highlights Video](https://www.youtube.com/watch?v=-MhI1OQhAkU) |
 | **2023** | **Road to DevFest Sindh 2023 (#TechSayUraan)** | Host / MC & Organizer *(300+ attendees)* | Jamshoro, Pakistan | [GDG Event Page](https://gdg.community.dev/events/details/google-gdg-kolachi-presents-road-to-devfest-sindh-2023-techsayuraan/) · [WTM Highlights Video](https://www.youtube.com/watch?v=_DTWvp6ij1U) |
 | **2023** | **WTM Hyderabad IWD 2023 (`#DareToBe`)** | Chapter Lead & Keynote Organizer: *"International Women's Day 2023 - Dare To Be"* & *"Women in Technology"* | Hyderabad, Pakistan | [IWD 2023 Video](https://www.youtube.com/watch?v=GtD-Oh2lufE) · [Women in Tech Video](https://www.youtube.com/watch?v=HpvTPOYfMIg) |
@@ -302,6 +305,7 @@ An active portfolio of international and national speaking engagements, hands-on
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@robinacodesai)
 [![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/robinamirbahar)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/womentechmakershyderabadpakistan/)
+[![Advocu Member](https://img.shields.io/badge/Advocu-Verified%20WTM%20Member-0096C7?style=for-the-badge&logo=google&logoColor=white)](https://app.advocu.com/members/647df1db620ae753fc7cfa63)
 
 <br/>
 
