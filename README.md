@@ -267,14 +267,14 @@ An active portfolio of international and national speaking engagements, hands-on
 ## 📊 Live GitHub & Community Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RobinaMirbahar&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="165" alt="Robina's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RobinaMirbahar&theme=react&hide_border=true&background=0D1117" height="165" alt="Robina's GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=RobinaMirbahar&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="165" alt="Robina's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=RobinaMirbahar&theme=react&hide_border=true&background=0D1117" height="165" alt="Robina's GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobinaMirbahar&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RobinaMirbahar&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="160" alt="Top Languages" />
 </div>
 
 <br/>
