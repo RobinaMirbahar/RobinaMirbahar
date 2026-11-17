@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/RobinaMirbahar/RobinaMirbahar/main/ProfileImages/Hi-Robina.gif" height="85" width="85" alt="Hi Robina">
 
   # Robina Mirbahar
@@ -14,7 +14,7 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robinamirbahar)
   [![Amazon Book](https://img.shields.io/badge/Amazon-Book%20(2026)-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://amazon.com/dp/B0GWCZWCF4)
-  [![Google Developer](https://img.shields.io/badge/GDE%20Profile-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile/u/106918534005910641104)
+  [![Google Developer](https://img.shields.io/badge/GDE%20Profile-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile/u/106918534005910641104?utm_campaign=deveco_gdemembers&utm_source=deveco)
   [![DEV Community](https://img.shields.io/badge/DEV-Articles-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/robinamirbahar)
   [![Medium](https://img.shields.io/badge/Medium-Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@robinamirbahar)
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@robinacodesai)
@@ -75,7 +75,7 @@ AI Researcher, Cloud Solutions Architect, and Author with 6+ years of experience
   <a href="https://dev.to/robinamirbahar" target="_blank">
     <img src="https://img.shields.io/badge/DEV.to-Google%20Developer%20Experts%20(GDE)-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV Community" />
   </a>
-  <a href="https://developers.google.com/profile/u/106918534005910641104" target="_blank">
+  <a href="https://developers.google.com/profile/u/106918534005910641104?utm_campaign=deveco_gdemembers&utm_source=deveco" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Developers-GDE%20Profile-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GDE Profile" />
   </a>
 </div>
@@ -127,8 +127,8 @@ AI Researcher, Cloud Solutions Architect, and Author with 6+ years of experience
   [![ITCN Asia](https://img.shields.io/badge/ITCN_Asia-Future_Leaders_Award_2025-FF5722?style=flat-square)](https://itcnasia.com/)
 
 * ✅ **Google Developer Expert (GDE) in AI & Cloud**  
-  [![Google Developer Profile](https://img.shields.io/badge/Google_Developers-GDE_Profile-4285F4?style=flat-square&logo=google&logoColor=white)](https://developers.google.com/profile/u/106918534005910641104)
-  [![Google Experts Directory](https://img.shields.io/badge/Google_Experts-Community_Directory-34A853?style=flat-square&logo=googlecloud&logoColor=white)](https://developers.google.com/community/experts)
+  [![Google Developer Profile](https://img.shields.io/badge/Google_Developers-GDE_Profile-4285F4?style=flat-square&logo=google&logoColor=white)](https://developers.google.com/profile/u/106918534005910641104?utm_campaign=deveco_gdemembers&utm_source=deveco)
+  [![Google Experts Directory](https://img.shields.io/badge/Google_Experts-Community_Directory-34A853?style=flat-square&logo=googlecloud&logoColor=white)](https://developers.google.com/community/experts?utm_campaign=deveco_gdemembers&utm_source=deveco)
 
 * ✅ **Pakistan Lead — IEEE Computer Society R8 AI Caravan (2026)** *(Spanning 94 Countries)*  
   [![IEEE AI Caravan](https://img.shields.io/badge/IEEE_AI_Caravan-aicaravan.org-E11D48?style=flat-square)](https://aicaravan.org)
@@ -139,7 +139,7 @@ AI Researcher, Cloud Solutions Architect, and Author with 6+ years of experience
   [![NeurIPS](https://img.shields.io/badge/NeurIPS-Conference-2E7D32?style=flat-square)](https://neurips.cc/)
 
 * ✅ **Google Cloud Champion Innovator** — *Pakistan's First and Only*  
-  [![Google Cloud Champion](https://img.shields.io/badge/Google_Cloud-Champion_Innovator-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://cloud.google.com/innovators/champions)
+  [![Google Cloud Champion](https://img.shields.io/badge/Google_Cloud-Champion_Innovator-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://cloud.google.com/innovators/champions?utm_campaign=deveco_gdemembers&utm_source=deveco)
 
 * 🛡️ **CompTIA Subject Matter Expert (SME) & Technical Trainer**  
   [![CompTIA SME](https://img.shields.io/badge/CompTIA-Subject_Matter_Expert-C8102E?style=flat-square)](https://www.comptia.org/certifications/subject-matter-experts)
@@ -154,7 +154,7 @@ AI Researcher, Cloud Solutions Architect, and Author with 6+ years of experience
 <div align="center">
 
 [![View All Badges](https://img.shields.io/badge/Verified%20Badges%20on%20Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/robinamirbahar)
-[![Google Developer Profile](https://img.shields.io/badge/Google%20Developer%20Profile-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile/u/106918534005910641104)
+[![Google Developer Profile](https://img.shields.io/badge/Google%20Developer%20Profile-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile/u/106918534005910641104?utm_campaign=deveco_gdemembers&utm_source=deveco)
 [![Server4Sale Award Winner](https://img.shields.io/badge/Legacy%20Winner-Cross--Cutting%20Leader-blueviolet?style=for-the-badge)](https://awards.server4sale.com.pk/legacy-winners)
 
 </div>
@@ -310,7 +310,7 @@ An active portfolio of international and national speaking engagements, hands-on
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robinamirbahar)
 [![Amazon Author](https://img.shields.io/badge/Amazon-Book-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://amazon.com/dp/B0GWCZWCF4)
-[![GDE Profile](https://img.shields.io/badge/GDE%20Profile-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile/u/106918534005910641104)
+[![GDE Profile](https://img.shields.io/badge/GDE%20Profile-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile/u/106918534005910641104?utm_campaign=deveco_gdemembers&utm_source=deveco)
 [![DEV Community](https://img.shields.io/badge/DEV-Community-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/robinamirbahar)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@robinacodesai)
 [![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/robinamirbahar)
