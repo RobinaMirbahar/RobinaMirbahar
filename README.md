@@ -4,7 +4,7 @@
   # Robina Mirbahar
 
   <!-- Dynamic Typing SVG Headline -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4285F4&center=true&vCenter=true&width=750&lines=Google+Developer+Expert+(AI+%26+Cloud);Author+of+'AI+Engineering'+(2026);Instructor+%40+IEEE+AI+Caravan+(94+Countries);Women+Techmakers+Ambassador;Multi-Cloud+%26+Generative+AI+Solutions+Architect" alt="Robina Mirbahar - Dynamic Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4285F4&center=true&vCenter=true&width=750&lines=Google+Developer+Expert+(AI+%26+Cloud);Co-Author+of+'AI+Engineering'+(2026);Instructor+%40+IEEE+AI+Caravan+(94+Countries);Women+Techmakers+Ambassador;Multi-Cloud+%26+Generative+AI+Solutions+Architect" alt="Robina Mirbahar - Dynamic Title" />
 
   <br/>
 
@@ -35,7 +35,7 @@ AI Researcher, Cloud Solutions Architect, and Author with 6+ years of experience
 
 * 🤖 **Agentic AI & Generative Systems** — Multi-Agent Loops · Advanced RAG · Gemma & Gemini APIs · LangGraph
 * 🇵🇰 **Pakistan Lead @ IEEE AI Caravan** — Leading national initiatives across a global network of 94 countries
-* 📚 **Published Author** — Author of *"AI Engineering: From Classical ML to RAG & Agentic AI Systems"* (2026)
+* 📚 **Published Co-Author** — Co-Author of *"AI Engineering: From Classical ML to RAG & Agentic AI Systems"* (2026)
 * 🔬 **Peer Reviewer** — Women in Machine Learning (WiML) at **NeurIPS 2026**
 * ⚖️ **Official Tech Competition & Hackathon Judge** — Judge for Google Cloud & Google for Developers **"All Things Agentic" Hackathon** on [Devpost](https://allthingsagentichackathon.devpost.com/)
 * ☁️ **Cloud-Native & Open-Source Contributor** — Kubernetes ([PR #59166](https://github.com/kubernetes/website/pull/59166)), CNCF, Meshery · Multi-Cloud (GCP, AWS, Azure, K8s, Terraform)
@@ -83,7 +83,7 @@ AI Researcher, Cloud Solutions Architect, and Author with 6+ years of experience
 <br/>
 
 > ### 📘 **AI Engineering: From Classical ML to RAG & Agentic AI Systems (2026)**
-> **Authors:** Robina Mirbahar, M. Awais, Dr. M. Ziyad  
+> **Co-Authors:** Robina Mirbahar, M. Awais, Dr. M. Ziyad  
 > An authoritative, production-grade guide bridging classical machine learning mathematical foundations with modern enterprise RAG architectures, autonomous multi-agent reasoning loops, and resilient cloud-to-edge Kubernetes orchestration.  
 > 👉 **[Available on Amazon (Kindle & Paperback)](https://amazon.com/dp/B0GWCZWCF4)**
 
